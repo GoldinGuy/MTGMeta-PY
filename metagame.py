@@ -12,7 +12,9 @@ FORMAT = 'modern'
 with open('decks_json/decks-' + FORMAT + '.json') as f:
     decks_json = json.load(f)
 
+z = 0
 for deck in decks_json:
+    z+= 1
     try:
         if deck['main'][0]['name'] is not None:
             cards_in_deck = []
@@ -23,8 +25,8 @@ for deck in decks_json:
                 cards_in_deck.append([quantity, card_name])
             decks.append(cards_in_deck)
     except Exception as e:
-        print(e)
-        decks_json.remove(deck)
+        # print(e)
+        decks_json.pop(z)
 
 
 def card_names(_deck):
@@ -80,7 +82,9 @@ for LABEL in range(NUM_CLUSTERS):
 
     cluster_name = 'Unknown'
     x = 0
+    w = 0
     for deck in decks_json:
+        w += 1
         y = 0
         try:
             for card in deck['main']:
@@ -90,9 +94,9 @@ for LABEL in range(NUM_CLUSTERS):
                 x = y
                 cluster_name = str(deck['name'])
         except Exception as e:
-            print(e)
+            decks_json.pop(w)
 
-    print("Cluster # {} (" + cluster_name + ") :".format(LABEL))
+    print("Cluster #" + str(LABEL) + " (" + cluster_name + ") :")
     print(label_set)
     print("\n")
 
