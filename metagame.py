@@ -18,14 +18,12 @@ for deck in decks_json:
     try:
         if deck['main'][0]['name'] is not None:
             cards_in_deck = []
-            # deck_name = str(deck['name']).replace("/", "_")
             for card in deck['main']:
                 card_name = str(card['name']).replace("'", "\\'")
                 quantity = int(card['quantity'])
                 cards_in_deck.append([quantity, card_name])
             decks.append(cards_in_deck)
     except Exception as e:
-        # print(e)
         decks_json.pop(z)
 
 

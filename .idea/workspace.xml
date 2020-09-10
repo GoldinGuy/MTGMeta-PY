@@ -111,7 +111,7 @@
       <workItem from="1599708982093" duration="5444000" />
       <workItem from="1599741321038" duration="1447000" />
       <workItem from="1599742790268" duration="109000" />
-      <workItem from="1599753816904" duration="4730000" />
+      <workItem from="1599753816904" duration="11638000" />
     </task>
     <servers />
   </component>
@@ -127,42 +127,42 @@
       <screen x="76" y="0" width="1460" height="864" />
     </state>
     <state x="552" y="222" key="#com.intellij.fileTypes.FileTypeChooser/76.0.1460.864@76.0.1460.864" timestamp="1599712554383" />
-    <state width="1417" height="122" key="GridCell.Tab.0.bottom" timestamp="1599763930865">
+    <state width="1417" height="255" key="GridCell.Tab.0.bottom" timestamp="1599775048930">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
-    <state width="1161" height="76" key="GridCell.Tab.0.bottom/76.0.1204.720@76.0.1204.720" timestamp="1599619630056" />
-    <state width="1417" height="122" key="GridCell.Tab.0.bottom/76.0.1460.864@76.0.1460.864" timestamp="1599763930865" />
-    <state width="1417" height="122" key="GridCell.Tab.0.center" timestamp="1599763930865">
+    <state width="1161" height="38" key="GridCell.Tab.0.bottom/76.0.1204.720@76.0.1204.720" timestamp="1599765579753" />
+    <state width="1417" height="255" key="GridCell.Tab.0.bottom/76.0.1460.864@76.0.1460.864" timestamp="1599775048930" />
+    <state width="1417" height="255" key="GridCell.Tab.0.center" timestamp="1599775048930">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
-    <state width="1161" height="76" key="GridCell.Tab.0.center/76.0.1204.720@76.0.1204.720" timestamp="1599619630056" />
-    <state width="1417" height="122" key="GridCell.Tab.0.center/76.0.1460.864@76.0.1460.864" timestamp="1599763930865" />
-    <state width="1417" height="122" key="GridCell.Tab.0.left" timestamp="1599763930864">
+    <state width="1161" height="38" key="GridCell.Tab.0.center/76.0.1204.720@76.0.1204.720" timestamp="1599765579752" />
+    <state width="1417" height="255" key="GridCell.Tab.0.center/76.0.1460.864@76.0.1460.864" timestamp="1599775048930" />
+    <state width="1417" height="255" key="GridCell.Tab.0.left" timestamp="1599775048930">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
-    <state width="1161" height="76" key="GridCell.Tab.0.left/76.0.1204.720@76.0.1204.720" timestamp="1599619630055" />
-    <state width="1417" height="122" key="GridCell.Tab.0.left/76.0.1460.864@76.0.1460.864" timestamp="1599763930864" />
-    <state width="1417" height="122" key="GridCell.Tab.0.right" timestamp="1599763930865">
+    <state width="1161" height="38" key="GridCell.Tab.0.left/76.0.1204.720@76.0.1204.720" timestamp="1599765579752" />
+    <state width="1417" height="255" key="GridCell.Tab.0.left/76.0.1460.864@76.0.1460.864" timestamp="1599775048930" />
+    <state width="1417" height="255" key="GridCell.Tab.0.right" timestamp="1599775048930">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
-    <state width="1161" height="76" key="GridCell.Tab.0.right/76.0.1204.720@76.0.1204.720" timestamp="1599619630056" />
-    <state width="1417" height="122" key="GridCell.Tab.0.right/76.0.1460.864@76.0.1460.864" timestamp="1599763930865" />
-    <state width="1417" height="255" key="GridCell.Tab.1.bottom" timestamp="1599763012473">
+    <state width="1161" height="38" key="GridCell.Tab.0.right/76.0.1204.720@76.0.1204.720" timestamp="1599765579752" />
+    <state width="1417" height="255" key="GridCell.Tab.0.right/76.0.1460.864@76.0.1460.864" timestamp="1599775048930" />
+    <state width="1417" height="255" key="GridCell.Tab.1.bottom" timestamp="1599775048931">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
-    <state width="1417" height="255" key="GridCell.Tab.1.bottom/76.0.1460.864@76.0.1460.864" timestamp="1599763012473" />
-    <state width="1417" height="255" key="GridCell.Tab.1.center" timestamp="1599763012472">
+    <state width="1417" height="255" key="GridCell.Tab.1.bottom/76.0.1460.864@76.0.1460.864" timestamp="1599775048931" />
+    <state width="1417" height="255" key="GridCell.Tab.1.center" timestamp="1599775048930">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
-    <state width="1417" height="255" key="GridCell.Tab.1.center/76.0.1460.864@76.0.1460.864" timestamp="1599763012472" />
-    <state width="1417" height="255" key="GridCell.Tab.1.left" timestamp="1599763012472">
+    <state width="1417" height="255" key="GridCell.Tab.1.center/76.0.1460.864@76.0.1460.864" timestamp="1599775048930" />
+    <state width="1417" height="255" key="GridCell.Tab.1.left" timestamp="1599775048930">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
-    <state width="1417" height="255" key="GridCell.Tab.1.left/76.0.1460.864@76.0.1460.864" timestamp="1599763012472" />
-    <state width="1417" height="255" key="GridCell.Tab.1.right" timestamp="1599763012472">
+    <state width="1417" height="255" key="GridCell.Tab.1.left/76.0.1460.864@76.0.1460.864" timestamp="1599775048930" />
+    <state width="1417" height="255" key="GridCell.Tab.1.right" timestamp="1599775048930">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
-    <state width="1417" height="255" key="GridCell.Tab.1.right/76.0.1460.864@76.0.1460.864" timestamp="1599763012472" />
+    <state width="1417" height="255" key="GridCell.Tab.1.right/76.0.1460.864@76.0.1460.864" timestamp="1599775048930" />
     <state x="357" y="239" width="629" height="568" key="find.popup" timestamp="1599692283545">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
@@ -170,6 +170,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MtGRecommender_master$decks.coverage" NAME="decks Coverage Results" MODIFIED="1599754250851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MtGRecommender_master$metagame.coverage" NAME="metagame Coverage Results" MODIFIED="1599763930854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MtGRecommender_master$metagame.coverage" NAME="metagame Coverage Results" MODIFIED="1599765357279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
