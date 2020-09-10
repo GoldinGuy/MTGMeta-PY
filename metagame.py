@@ -149,7 +149,7 @@ points = {
 sns.barplot(x="cluster", y="count", data=points).set_title("# Decks by Cluster")
 plt.gca().spines['top'].set_visible(False)
 plt.gca().spines['right'].set_visible(False)
-plt.savefig('# Decks by Cluster')
+plt.savefig('graphs/# Decks by Cluster')
 show()
 
 plt.rcParams['figure.facecolor'] = "slateblue"
@@ -167,5 +167,5 @@ for card_name in card_names:
             i += 1
     pie(df, labels=label_list, autopct=lambda i: "{0:.2f}".format(float(i)))
     plt.title(card_name + " % by cluster")
-    plt.savefig(card_name + '_distribution')
+    plt.savefig('graphs/' + card_name + '_distribution')
     show()
