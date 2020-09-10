@@ -4,48 +4,30 @@ from matplotlib.pyplot import pie, axis, show
 import math
 import seaborn as sns
 import matplotlib.pyplot as plt
-import json
 
-with open('decks_json/decks-modern.json') as f:
-    decks_json = json.load(f)
-
-# print(decks_json)
+deck_names = glob.glob("modern_decks/*")
 decks = []
+
 NUM_CLUSTERS = 8
-# deck_names = glob.glob("modern_decks/*")
 
-#
+for filename in deck_names:
+    with open(filename, 'r') as deck:
+        decks.append(deck.read())
 
-#
-# for filename in deck_names:
-#     with open(filename, 'r') as deck:
-#         decks.append(deck.read())
-#
-# for i, deck in enumerate(decks):
-#     decks[i] = deck.split('\n')[1:]
+for i, deck in enumerate(decks):
+    decks[i] = deck.split('\n')[1:]
 
 # print(decks)
 
-# for deck in decks:
-#     for i, card in enumerate(deck):
-#         if card is not '':
-#             quantity = int(card.split(' ')[0])
-#             card_name = ' '.join(card.split(' ')[1:])
-#             deck[i] = (quantity, card_name)
-#         else:
-#             deck.remove(card)
-
-for deck in decks_json:
-    try:
-        if deck['main'][0]['name'] is not None:
-            # deck_name = str(deck['name']).replace("/", "_")
-            for i, card in deck['main']:
-                card_name = str(card['name']).replace("'", "\\'")
-                quantity = int(card['quantity'])
-                decks[i] = (quantity, card_name)
-    except Exception as e:
-        print(e)
-
+for deck in decks:
+    for i, card in enumerate(deck):
+        if card is not '':
+            quantity = int(card.split(' ')[0])
+            card_name = ' '.join(card.split(' ')[1:])
+            deck[i] = (quantity, card_name)
+        else:
+            deck.remove(card)
+print(decks)
 
 def card_names(a_deck):
     return [card[1] for card in a_deck]
