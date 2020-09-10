@@ -1,5 +1,4 @@
 import dask_ml.cluster
-import glob
 from matplotlib.pyplot import pie, axis, show
 import math
 import seaborn as sns
@@ -7,12 +6,11 @@ import matplotlib.pyplot as plt
 import json
 
 decks = []
-NUM_CLUSTERS = 8
+NUM_CLUSTERS = 20
 FORMAT = 'modern'
 
 with open('decks_json/decks-' + FORMAT + '.json') as f:
     decks_json = json.load(f)
-    # print(decks_json)
 
 for deck in decks_json:
     try:
@@ -26,11 +24,10 @@ for deck in decks_json:
             decks.append(cards_in_deck)
     except Exception as e:
         print(e)
-print(decks)
 
 
-def card_names(a_deck):
-    return [card[1] for card in a_deck]
+def card_names(_deck):
+    return [card[1] for card in _deck]
 
 
 all_card_names = []
@@ -130,13 +127,15 @@ for card in versatile_cards(30):
     if card not in ['Island', 'Forest', 'Mountain', 'Swamp', 'Plains']:
         print(card)
 
-print("\nCards commonly found with Thoughtseize\n" + str(closest_cards("Thoughtseize", 10)))
+# cards to analyze
+cards_to_analyze = ['Thoughtseize', 'Llanowar Elves', 'Scalding Tarn', 'Serum Visions']
+print("\nCards commonly found with " + cards_to_analyze[0] + "\n" + str(closest_cards(cards_to_analyze[0], 10)))
 
-print("\nCards commonly found with Llanowar Elves\n" + str(closest_cards("Llanowar Elves", 10)))
+print("\nCards commonly found with " + cards_to_analyze[1] + "\n" + str(closest_cards(cards_to_analyze[1], 10)))
 
-print("\nApparition ratio for Scalding Tarn\n" + str(apparition_ratio("Scalding Tarn")))
+print("\nApparition ratio for " + cards_to_analyze[2] + "\n" + str(apparition_ratio(cards_to_analyze[2])))
 
-print("\nApparition ratio for Serum Visions\n" + str(apparition_ratio("Serum Visions")))
+print("\nApparition ratio for " + cards_to_analyze[3] + "\n" + str(apparition_ratio(cards_to_analyze[3])))
 
 # graph data
 plt.rc('font', size=14)
@@ -152,9 +151,11 @@ plt.gca().spines['right'].set_visible(False)
 plt.savefig('graphs/# Decks by Cluster')
 show()
 
+# cards to analyze % by cluster (pie chart)
+card_names = ["Lightning Bolt", "Mutavault", "Path to Exile"]
+
 plt.rcParams['figure.facecolor'] = "slateblue"
 plt.rcParams['text.color'] = "w"
-card_names = ["Lightning Bolt", "Mutavault", "Path to Exile"]
 for card_name in card_names:
     df = apparition_ratio(card_name)[0]
     label_list = list(range(NUM_CLUSTERS))
