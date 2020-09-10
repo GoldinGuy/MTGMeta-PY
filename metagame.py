@@ -24,6 +24,7 @@ for deck in decks_json:
             decks.append(cards_in_deck)
     except Exception as e:
         print(e)
+        decks_json.remove(deck)
 
 
 def card_names(_deck):
@@ -76,7 +77,22 @@ for LABEL in range(NUM_CLUSTERS):
     for deck, label in decks_by_label(LABEL):
         label_set.intersection(set(most_common_cards(deck, 40)))
     label_set = set(label_set)
-    print("Cluster number {}:".format(LABEL))
+
+    cluster_name = 'Unknown'
+    x = 0
+    for deck in decks_json:
+        y = 0
+        try:
+            for card in deck['main']:
+                if str(card['name']).replace("'", "\\'") in label_set:
+                    y += 1
+            if y > x:
+                x = y
+                cluster_name = str(deck['name'])
+        except Exception as e:
+            print(e)
+
+    print("Cluster # {} (" + cluster_name + ") :".format(LABEL))
     print(label_set)
     print("\n")
 
@@ -129,12 +145,10 @@ for card in versatile_cards(30):
 
 # cards to analyze
 cards_to_analyze = ['Thoughtseize', 'Llanowar Elves', 'Scalding Tarn', 'Serum Visions']
+
 print("\nCards commonly found with " + cards_to_analyze[0] + "\n" + str(closest_cards(cards_to_analyze[0], 10)))
-
 print("\nCards commonly found with " + cards_to_analyze[1] + "\n" + str(closest_cards(cards_to_analyze[1], 10)))
-
 print("\nApparition ratio for " + cards_to_analyze[2] + "\n" + str(apparition_ratio(cards_to_analyze[2])))
-
 print("\nApparition ratio for " + cards_to_analyze[3] + "\n" + str(apparition_ratio(cards_to_analyze[3])))
 
 # graph data
@@ -166,7 +180,7 @@ for card_name in card_names:
             label_list.pop(i)
         else:
             i += 1
-    pie(df, labels=label_list, autopct=lambda i: "{0:.2f}".format(float(i)))
+    pie(df, labels=label_list, autopct=lambda i: "{0:.2f}".format(float(i)), normalize=False)
     plt.title(card_name + " % by cluster")
     plt.savefig('graphs/' + card_name + '_distribution')
     show()
