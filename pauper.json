@@ -1,0 +1,3208 @@
+{
+    "archetypes": [
+        {
+            "archetype_name": "Mono-Green Aggro",
+            "top_cards": [
+                "Vault Skirge",
+                "Silhana Ledgewalker",
+                "Burning-Tree Emissary",
+                "River Boa",
+                "Young Wolf",
+                "Quirion Ranger",
+                "Nettle Sentinel",
+                "Rancor",
+                "Savage Swipe",
+                "Nest Invader",
+                "Skarrgan Pit-Skulk",
+                "Elephant Guide",
+                "Vines of Vastwood",
+                "Hunger of the Howlpack",
+                "Forest"
+            ],
+            "metagame_percentage": "9.12%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Young Wolf",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Vines of Vastwood",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Vault Skirge",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Skarrgan Pit-Skulk",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Silhana Ledgewalker",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Savage Swipe",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "River Boa",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Rancor",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Quirion Ranger",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Nettle Sentinel",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Nest Invader",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Hunger of the Howlpack",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Forest",
+                        "quantity": 16
+                    },
+                    {
+                        "name": "Elephant Guide",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Burning-Tree Emissary",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Viridian Longbow",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Return to Nature",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Nature's Claim",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Gleeful Sabotage",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Feed the Clan",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Faerie Macabre",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Epic Confrontation",
+                        "quantity": 2
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Mardu Aggro",
+            "top_cards": [
+                "Galvanic Blast",
+                "Bojuka Bog",
+                "Secluded Steppe",
+                "Plains",
+                "Kor Sanctifiers",
+                "Golden Egg",
+                "Boros Garrison",
+                "Great Furnace",
+                "Relic of Progenitus",
+                "Staggershock",
+                "Prismatic Strands",
+                "Thraben Inspector",
+                "Mountain",
+                "Journey to Nowhere",
+                "Alchemist\\'s Vial",
+                "Kor Skyfisher",
+                "Ancient Den",
+                "Glint Hawk",
+                "Prophetic Prism",
+                "Radiant Fountain",
+                "Wind-Scarred Crag",
+                "Faithless Looting",
+                "Serrated Arrows",
+                "Gurmag Angler",
+                "Mortuary Mire",
+                "Lightning Bolt",
+                "Palace Sentinels",
+                "Forgotten Cave"
+            ],
+            "metagame_percentage": "8.30%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Wind-Scarred Crag",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Thraben Inspector",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Staggershock",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Serrated Arrows",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Secluded Steppe",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Relic of Progenitus",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Radiant Fountain",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Prophetic Prism",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Prismatic Strands",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Plains",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Palace Sentinels",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Mountain",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Mortuary Mire",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Lightning Bolt",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Kor Skyfisher",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Kor Sanctifiers",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Journey to Nowhere",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Gurmag Angler",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Great Furnace",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Golden Egg",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Glint Hawk",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Galvanic Blast",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Forgotten Cave",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Faithless Looting",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Boros Garrison",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Bojuka Bog",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Ancient Den",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Alchemist's Vial",
+                        "quantity": 2
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Standard Bearer",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Red Elemental Blast",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Pyroblast",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Lone Missionary",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Krark-Clan Shaman",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Gorilla Shaman",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Electrickery",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Custodi Squire",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Curse of the Bloody Tome",
+                        "quantity": 1
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Skred Faeries",
+            "top_cards": [
+                "Fire // Ice",
+                "Deprive",
+                "Exclude",
+                "Miscalculation",
+                "Snow-Covered Island",
+                "Augur of Bolas",
+                "Ninja of the Deep Hours",
+                "Brainstorm",
+                "Snow-Covered Mountain",
+                "Preordain",
+                "Evolving Wilds",
+                "Skred",
+                "Counterspell",
+                "Spellstutter Sprite",
+                "Merchant Scroll",
+                "Tragic Lesson",
+                "Terramorphic Expanse",
+                "Ash Barrens",
+                "Mystic Sanctuary",
+                "Lightning Bolt",
+                "Faerie Seer"
+            ],
+            "metagame_percentage": "8.09%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Tragic Lesson",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Terramorphic Expanse",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Spellstutter Sprite",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Snow-Covered Mountain",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Snow-Covered Island",
+                        "quantity": 9
+                    },
+                    {
+                        "name": "Skred",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Preordain",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Ninja of the Deep Hours",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Mystic Sanctuary",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Miscalculation",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Merchant Scroll",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Lightning Bolt",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Fire // Ice",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Faerie Seer",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Exclude",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Evolving Wilds",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Deprive",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Counterspell",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Brainstorm",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Augur of Bolas",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Ash Barrens",
+                        "quantity": 2
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Swirling Sandstorm",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Stormbound Geist",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Pyroblast",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Hydroblast",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Gorilla Shaman",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Electrickery",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Echoing Truth",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Dispel",
+                        "quantity": 1
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Burn",
+            "top_cards": [
+                "Rift Bolt",
+                "Forgotten Cave",
+                "Ghitu Lavarunner",
+                "Curse of the Pierced Heart",
+                "Thermo-Alchemist",
+                "Fireblast",
+                "Chain Lightning",
+                "Mountain",
+                "Needle Drop",
+                "Searing Blaze",
+                "Lightning Bolt",
+                "Skewer the Critics",
+                "Lava Spike"
+            ],
+            "metagame_percentage": "7.58%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Thermo-Alchemist",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Skewer the Critics",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Searing Blaze",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Rift Bolt",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Needle Drop",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Mountain",
+                        "quantity": 15
+                    },
+                    {
+                        "name": "Lightning Bolt",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Lava Spike",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Ghitu Lavarunner",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Forgotten Cave",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Fireblast",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Curse of the Pierced Heart",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Chain Lightning",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Smash to Smithereens",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Molten Rain",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Martyr of Ashes",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Keldon Marauders",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Flaring Pain",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Electrickery",
+                        "quantity": 2
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Boros Aggro",
+            "top_cards": [
+                "Squadron Hawk",
+                "Plains",
+                "Lightning Bolt",
+                "Boros Garrison",
+                "Thraben Inspector",
+                "Mountain",
+                "Prismatic Strands",
+                "Guardian of the Guildpact",
+                "Journey to Nowhere",
+                "Oblivion Ring",
+                "Seeker of the Way",
+                "Electrickery",
+                "Wind-Scarred Crag",
+                "Faithless Looting",
+                "Firebolt",
+                "Rally the Peasants",
+                "Battle Screech",
+                "Palace Sentinels"
+            ],
+            "metagame_percentage": "6.66%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Wind-Scarred Crag",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Thraben Inspector",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Squadron Hawk",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Seeker of the Way",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Rally the Peasants",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Prismatic Strands",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Plains",
+                        "quantity": 7
+                    },
+                    {
+                        "name": "Palace Sentinels",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Oblivion Ring",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Mountain",
+                        "quantity": 6
+                    },
+                    {
+                        "name": "Lightning Bolt",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Journey to Nowhere",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Guardian of the Guildpact",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Firebolt",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Faithless Looting",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Electrickery",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Boros Garrison",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Battle Screech",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Relic of Progenitus",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Red Elemental Blast",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Pyroblast",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Lumithread Field",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Lone Missionary",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Flaring Pain",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Electrickery",
+                        "quantity": 1
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Affinity",
+            "top_cards": [
+                "Galvanic Blast",
+                "Darksteel Citadel",
+                "Dispel",
+                "Myr Enforcer",
+                "Great Furnace",
+                "Witching Well",
+                "Gearseeker Serpent",
+                "Frogmite",
+                "Thoughtcast",
+                "Springleaf Drum",
+                "Seat of the Synod",
+                "Atog",
+                "Temur Battle Rage",
+                "Chromatic Star",
+                "Prophetic Prism",
+                "Fling",
+                "Carapace Forger",
+                "Terrarion",
+                "Tree of Tales"
+            ],
+            "metagame_percentage": "5.64%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Witching Well",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Tree of Tales",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Thoughtcast",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Terrarion",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Temur Battle Rage",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Springleaf Drum",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Seat of the Synod",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Prophetic Prism",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Myr Enforcer",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Great Furnace",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Gearseeker Serpent",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Galvanic Blast",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Frogmite",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Fling",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Dispel",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Darksteel Citadel",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Chromatic Star",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Carapace Forger",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Atog",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Weather the Storm",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Relic of Progenitus",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Reaping the Graves",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Ray of Revelation",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Pyroblast",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Krark-Clan Shaman",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Hydroblast",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Gorilla Shaman",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Electrickery",
+                        "quantity": 2
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Elves",
+            "top_cards": [
+                "Fyndhorn Elves",
+                "Island",
+                "Llanowar Elves",
+                "Distant Melody",
+                "Sylvan Ranger",
+                "Elvish Mystic",
+                "Timberwatch Elf",
+                "Quirion Ranger",
+                "Birchlore Rangers",
+                "Priest of Titania",
+                "Essence Warden",
+                "Wellwisher",
+                "Lead the Stampede",
+                "Lys Alana Huntmaster",
+                "Elvish Vanguard",
+                "Ulamog\\'s Crusher",
+                "Vines of Vastwood",
+                "Forest"
+            ],
+            "metagame_percentage": "5.23%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Wellwisher",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Vines of Vastwood",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Ulamog's Crusher",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Timberwatch Elf",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Sylvan Ranger",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Quirion Ranger",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Priest of Titania",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Lys Alana Huntmaster",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Llanowar Elves",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Lead the Stampede",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Island",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Fyndhorn Elves",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Forest",
+                        "quantity": 13
+                    },
+                    {
+                        "name": "Essence Warden",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Elvish Vanguard",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Elvish Mystic",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Distant Melody",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Birchlore Rangers",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Wrap in Vigor",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Wellwisher",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Viridian Longbow",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Spidersilk Armor",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Scattershot Archer",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Pause for Reflection",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Hydroblast",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Gruesome Fate",
+                        "quantity": 1
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Monoblack Control",
+            "top_cards": [
+                "Chainer\\'s Edict",
+                "Disfigure",
+                "Cuombajj Witches",
+                "Sign in Blood",
+                "Witch\\'s Cottage",
+                "Swamp",
+                "Phyrexian Rager",
+                "Defile",
+                "Geth\\'s Verdict",
+                "Barren Moor",
+                "Unearth",
+                "Reaping the Graves",
+                "Gray Merchant of Asphodel",
+                "Victim of Night",
+                "Chittering Rats",
+                "Thorn of the Black Rose"
+            ],
+            "metagame_percentage": "4.51%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Witch's Cottage",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Victim of Night",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Unearth",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Thorn of the Black Rose",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Swamp",
+                        "quantity": 18
+                    },
+                    {
+                        "name": "Sign in Blood",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Reaping the Graves",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Phyrexian Rager",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Gray Merchant of Asphodel",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Geth's Verdict",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Disfigure",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Defile",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Cuombajj Witches",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Chittering Rats",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Chainer's Edict",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Barren Moor",
+                        "quantity": 3
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Wrench Mind",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Thorn of the Black Rose",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Shrivel",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Relic of Progenitus",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Okiba-Gang Shinobi",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Echoing Decay",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Divest",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Crypt Rats",
+                        "quantity": 1
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "WB",
+            "top_cards": [
+                "Bojuka Bog",
+                "Night\\'s Whisper",
+                "Read the Bones",
+                "Plains",
+                "Chainer\\'s Edict",
+                "Dead Weight",
+                "Scoured Barrens",
+                "Disfigure",
+                "Duress",
+                "Guardian of the Guildpact",
+                "Evincar\\'s Justice",
+                "Castigate",
+                "Orzhov Basilica",
+                "Radiant Fountain",
+                "Pestilence",
+                "Kabira Crossroads",
+                "Victim of Night",
+                "Doom Blade",
+                "Swamp"
+            ],
+            "metagame_percentage": "4.10%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Victim of Night",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Swamp",
+                        "quantity": 8
+                    },
+                    {
+                        "name": "Scoured Barrens",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Read the Bones",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Radiant Fountain",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Plains",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Pestilence",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Orzhov Basilica",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Night's Whisper",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Kabira Crossroads",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Guardian of the Guildpact",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Evincar's Justice",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Duress",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Doom Blade",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Disfigure",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Dead Weight",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Chainer's Edict",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Castigate",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Bojuka Bog",
+                        "quantity": 2
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Nihil Spellbomb",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Ill-Gotten Inheritance",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Fragmentize",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Circle of Protection: Red",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Circle of Protection: Blue",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Castigate",
+                        "quantity": 1
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Mono-Green Stompy",
+            "top_cards": [
+                "Vault Skirge",
+                "River Boa",
+                "Burning-Tree Emissary",
+                "Hunger of the Howlpack",
+                "Nettle Sentinel",
+                "Quirion Ranger",
+                "Snow-Covered Forest",
+                "Rancor",
+                "Savage Swipe",
+                "Nest Invader",
+                "Moldervine Cloak",
+                "Elephant Guide",
+                "Vines of Vastwood",
+                "Skarrgan Pit-Skulk"
+            ],
+            "metagame_percentage": "3.79%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Vines of Vastwood",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Vault Skirge",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Snow-Covered Forest",
+                        "quantity": 17
+                    },
+                    {
+                        "name": "Skarrgan Pit-Skulk",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Savage Swipe",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "River Boa",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Rancor",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Quirion Ranger",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Nettle Sentinel",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Nest Invader",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Moldervine Cloak",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Hunger of the Howlpack",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Elephant Guide",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Burning-Tree Emissary",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Weather the Storm",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Relic of Progenitus",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Gut Shot",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Gleeful Sabotage",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Epic Confrontation",
+                        "quantity": 1
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Blue-Black Control",
+            "top_cards": [
+                "Ponder",
+                "Bojuka Bog",
+                "Deprive",
+                "Dispel",
+                "Island",
+                "Echoing Decay",
+                "Chainer\\'s Edict",
+                "Think Twice",
+                "Disfigure",
+                "Augur of Bolas",
+                "Evincar\\'s Justice",
+                "Counterspell",
+                "Dismal Backwater",
+                "Gurmag Angler",
+                "Mystic Sanctuary",
+                "Probe",
+                "Mulldrifter",
+                "Dimir Aqueduct",
+                "Doom Blade",
+                "Swamp"
+            ],
+            "metagame_percentage": "3.79%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Think Twice",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Swamp",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Probe",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Ponder",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Mystic Sanctuary",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Mulldrifter",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Island",
+                        "quantity": 7
+                    },
+                    {
+                        "name": "Gurmag Angler",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Evincar's Justice",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Echoing Decay",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Doom Blade",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Dispel",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Dismal Backwater",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Disfigure",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Dimir Aqueduct",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Deprive",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Counterspell",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Chainer's Edict",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Bojuka Bog",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Augur of Bolas",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Stormbound Geist",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Shrivel",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Nihil Spellbomb",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Hydroblast",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Duress",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Doom Blade",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Dispel",
+                        "quantity": 1
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Jeskai Blink",
+            "top_cards": [
+                "Fire // Ice",
+                "Ponder",
+                "Flame Slash",
+                "Thraben Inspector",
+                "Snow-Covered Island",
+                "Augur of Bolas",
+                "Journey to Nowhere",
+                "Brainstorm",
+                "Snow-Covered Mountain",
+                "Ephemerate",
+                "Breath of Life",
+                "Evolving Wilds",
+                "Snow-Covered Plains",
+                "Skred",
+                "Counterspell",
+                "Tragic Lesson",
+                "Swiftwater Cliffs",
+                "Ash Barrens",
+                "Archaeomancer",
+                "Mystic Sanctuary",
+                "Lightning Bolt",
+                "Mulldrifter",
+                "Remove Soul",
+                "Prohibit"
+            ],
+            "metagame_percentage": "12.19%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Tragic Lesson",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Thraben Inspector",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Swiftwater Cliffs",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Snow-Covered Plains",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Snow-Covered Mountain",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Snow-Covered Island",
+                        "quantity": 6
+                    },
+                    {
+                        "name": "Skred",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Remove Soul",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Prohibit",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Ponder",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Mystic Sanctuary",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Mulldrifter",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Lightning Bolt",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Journey to Nowhere",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Flame Slash",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Fire // Ice",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Evolving Wilds",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Ephemerate",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Counterspell",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Breath of Life",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Brainstorm",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Augur of Bolas",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Ash Barrens",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Archaeomancer",
+                        "quantity": 3
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Red Elemental Blast",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Ninja of the Deep Hours",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Muddle the Mixture",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Leave No Trace",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Electrickery",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Circle of Protection: Red",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Circle of Protection: Green",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Blue Elemental Blast",
+                        "quantity": 2
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Tron",
+            "top_cards": [
+                "Rolling Thunder",
+                "Urza\\'s Power Plant",
+                "Golden Egg",
+                "Cave of Temptation",
+                "Krark-Clan Shaman",
+                "Great Furnace",
+                "Urza\\'s Mine",
+                "Fangren Marauder",
+                "Chromatic Sphere",
+                "Haunted Fengraf",
+                "Chromatic Star",
+                "Prophetic Prism",
+                "Expedition Map",
+                "Mulldrifter",
+                "Urza\\'s Tower",
+                "Ulamog\\'s Crusher",
+                "Self-Assembler",
+                "Ancient Stirrings",
+                "Tree of Tales"
+            ],
+            "metagame_percentage": "11.89%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Urza's Tower",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Urza's Power Plant",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Urza's Mine",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Ulamog's Crusher",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Tree of Tales",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Self-Assembler",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Rolling Thunder",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Prophetic Prism",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Mulldrifter",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Krark-Clan Shaman",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Haunted Fengraf",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Great Furnace",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Golden Egg",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Fangren Marauder",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Expedition Map",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Chromatic Star",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Chromatic Sphere",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Cave of Temptation",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Ancient Stirrings",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Wretched Gryff",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Serene Heart",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Pyroblast",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Krark-Clan Shaman",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Hydroblast",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Earth Rift",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Circle of Protection: Green",
+                        "quantity": 2
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Oops All Instants",
+            "top_cards": [
+                "Deprive",
+                "Exclude",
+                "Pestermite",
+                "Island",
+                "Accumulated Knowledge",
+                "Condescend",
+                "Counterspell",
+                "Spellstutter Sprite",
+                "Sentinels of Glen Elendra",
+                "Echoing Truth",
+                "Force Spike",
+                "Tragic Lesson",
+                "Repulse",
+                "Mystic Sanctuary",
+                "Quicksand",
+                "Spire Golem"
+            ],
+            "metagame_percentage": "1.95%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Tragic Lesson",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Spire Golem",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Spellstutter Sprite",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Sentinels of Glen Elendra",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Repulse",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Quicksand",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Pestermite",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Mystic Sanctuary",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Island",
+                        "quantity": 15
+                    },
+                    {
+                        "name": "Force Spike",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Exclude",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Echoing Truth",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Deprive",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Counterspell",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Condescend",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Accumulated Knowledge",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Relic of Progenitus",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Fade Away",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Echoing Truth",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Dispel",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Curse of Chains",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Blue Elemental Blast",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Annul",
+                        "quantity": 2
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "RDW",
+            "top_cards": [
+                "Valley Dasher",
+                "Goblin Bushwhacker",
+                "Goblin Heelcutter",
+                "Burning-Tree Emissary",
+                "Foundry Street Denizen",
+                "Jackal Familiar",
+                "Mudbrawler Cohort",
+                "Fireblast",
+                "Goblin Grenade",
+                "Chain Lightning",
+                "Mountain",
+                "Goblin Cohort",
+                "Lightning Bolt",
+                "Mogg Conscripts"
+            ],
+            "metagame_percentage": "1.84%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Valley Dasher",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Mudbrawler Cohort",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Mountain",
+                        "quantity": 17
+                    },
+                    {
+                        "name": "Mogg Conscripts",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Lightning Bolt",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Jackal Familiar",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Goblin Heelcutter",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Goblin Grenade",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Goblin Cohort",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Goblin Bushwhacker",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Foundry Street Denizen",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Fireblast",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Chain Lightning",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Burning-Tree Emissary",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Sparksmith",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Smash to Smithereens",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Molten Rain",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Martyr of Ashes",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Flaring Pain",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Flame Slash",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Electrickery",
+                        "quantity": 2
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Untitled",
+            "top_cards": [
+                "Bladeback Sliver",
+                "Gemhide Sliver",
+                "Winding Way",
+                "Plains",
+                "Plated Sliver",
+                "Hunter Sliver",
+                "Muscle Sliver",
+                "Ash Barrens",
+                "Sidewinder Sliver",
+                "Blossoming Sands",
+                "Mountain",
+                "Lead the Stampede",
+                "Predatory Sliver",
+                "Virulent Sliver",
+                "Forest"
+            ],
+            "metagame_percentage": "1.74%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Winding Way",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Virulent Sliver",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Sidewinder Sliver",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Predatory Sliver",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Plated Sliver",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Plains",
+                        "quantity": 6
+                    },
+                    {
+                        "name": "Muscle Sliver",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Mountain",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Lead the Stampede",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Hunter Sliver",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Gemhide Sliver",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Forest",
+                        "quantity": 7
+                    },
+                    {
+                        "name": "Blossoming Sands",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Bladeback Sliver",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Ash Barrens",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Scattershot Archer",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Prismatic Strands",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Hunter Sliver",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Hallow",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Gorilla Shaman",
+                        "quantity": 3
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "UB",
+            "top_cards": [
+                "Bojuka Bog",
+                "False Summoning",
+                "Rain of Revelation",
+                "Exclude",
+                "Island",
+                "Echoing Decay",
+                "Think Twice",
+                "Prohibit",
+                "Chainer\\'s Edict",
+                "Crypt Incursion",
+                "Ob Nixilis\\'s Cruelty",
+                "Disfigure",
+                "Conjurer\\'s Bauble",
+                "Capsize",
+                "Preordain",
+                "Evincar\\'s Justice",
+                "Whispers of the Muse",
+                "Counterspell",
+                "Deep Analysis",
+                "Diabolic Edict",
+                "Dimir Guildgate",
+                "Dismal Backwater",
+                "Radiant Fountain",
+                "Devious Cover-Up",
+                "Innocent Blood",
+                "Dimir Aqueduct",
+                "Doom Blade",
+                "Swamp",
+                "Mystical Teachings"
+            ],
+            "metagame_percentage": "1.54%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Whispers of the Muse",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Think Twice",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Swamp",
+                        "quantity": 5
+                    },
+                    {
+                        "name": "Rain of Revelation",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Radiant Fountain",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Prohibit",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Preordain",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Ob Nixilis's Cruelty",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Mystical Teachings",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Island",
+                        "quantity": 9
+                    },
+                    {
+                        "name": "Innocent Blood",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "False Summoning",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Exclude",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Evincar's Justice",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Echoing Decay",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Doom Blade",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Dismal Backwater",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Disfigure",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Dimir Guildgate",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Dimir Aqueduct",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Diabolic Edict",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Devious Cover-Up",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Deep Analysis",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Crypt Incursion",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Counterspell",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Conjurer's Bauble",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Chainer's Edict",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Capsize",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Bojuka Bog",
+                        "quantity": 2
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Wail of the Nim",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Shrivel",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Nihil Spellbomb",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Negate",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Hydroblast",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Duress",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Dispel",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Chainer's Edict",
+                        "quantity": 1
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Untitled",
+            "top_cards": [
+                "Cho-Manno\\'s Blessing",
+                "Deftblade Elite",
+                "Plains",
+                "Akroan Skyguard",
+                "Lagonna-Band Trailblazer",
+                "Emerge Unscathed",
+                "Hyena Umbra",
+                "Cartouche of Solidarity",
+                "Lifelink",
+                "Ethereal Armor",
+                "Sacred Cat",
+                "Defiant Strike",
+                "Double Cleave",
+                "Seeker of the Way"
+            ],
+            "metagame_percentage": "0.82%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Seeker of the Way",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Sacred Cat",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Plains",
+                        "quantity": 17
+                    },
+                    {
+                        "name": "Lifelink",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Lagonna-Band Trailblazer",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Hyena Umbra",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Ethereal Armor",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Emerge Unscathed",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Double Cleave",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Deftblade Elite",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Defiant Strike",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Cho-Manno's Blessing",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Cartouche of Solidarity",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Akroan Skyguard",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Shield of Duty and Reason",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Relic of Progenitus",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Journey to Nowhere",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Holy Light",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Doomed Traveler",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Devout Harpist",
+                        "quantity": 3
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Mono Black Devotion",
+            "top_cards": [
+                "Snow-Covered Swamp",
+                "Chainer\\'s Edict",
+                "Cuombajj Witches",
+                "Sign in Blood",
+                "Divest",
+                "Witch\\'s Cottage",
+                "Phyrexian Rager",
+                "Defile",
+                "Tendrils of Corruption",
+                "Oubliette",
+                "Barren Moor",
+                "Pestilence",
+                "Crypt Rats",
+                "Gray Merchant of Asphodel",
+                "Chittering Rats",
+                "Thorn of the Black Rose"
+            ],
+            "metagame_percentage": "0.72%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Witch's Cottage",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Thorn of the Black Rose",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Tendrils of Corruption",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Snow-Covered Swamp",
+                        "quantity": 18
+                    },
+                    {
+                        "name": "Sign in Blood",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Phyrexian Rager",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Pestilence",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Oubliette",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Gray Merchant of Asphodel",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Divest",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Defile",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Cuombajj Witches",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Crypt Rats",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Chittering Rats",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Chainer's Edict",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Barren Moor",
+                        "quantity": 2
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Wrench Mind",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Syphon Life",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Shrivel",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Nihil Spellbomb",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Duress",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Choking Sands",
+                        "quantity": 3
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Untitled",
+            "top_cards": [
+                "Ponder",
+                "Nivix Cyclops",
+                "Crimson Wisps",
+                "Dispel",
+                "Island",
+                "Mountain",
+                "Augur of Bolas",
+                "Preordain",
+                "Mutagenic Growth",
+                "Temur Battle Rage",
+                "Izzet Boilerworks",
+                "Flame Jab",
+                "Wee Dragonauts",
+                "Spell Pierce",
+                "Swiftwater Cliffs",
+                "Apostle\\'s Blessing",
+                "Kiln Fiend",
+                "Lightning Bolt"
+            ],
+            "metagame_percentage": "0.51%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Wee Dragonauts",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Temur Battle Rage",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Swiftwater Cliffs",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Spell Pierce",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Preordain",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Ponder",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Nivix Cyclops",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Mutagenic Growth",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Mountain",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Lightning Bolt",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Kiln Fiend",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Izzet Boilerworks",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Island",
+                        "quantity": 8
+                    },
+                    {
+                        "name": "Flame Jab",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Dispel",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Crimson Wisps",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Augur of Bolas",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Apostle's Blessing",
+                        "quantity": 2
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Spell Pierce",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Pyroblast",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Hydroblast",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Flaring Pain",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Electrickery",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Dispel",
+                        "quantity": 2
+                    }
+                ]
+            }
+        }
+    ],
+    "format_top_cards": [
+        {
+            "card_name": "Snow-Covered Island",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Skred Faeries",
+                "Tron"
+            ],
+            "cards_found_with": [
+                "Brainstorm",
+                "Counterspell",
+                "Preordain",
+                "Terramorphic Expanse",
+                "Evolving Wilds",
+                "Skred",
+                "Izzet Boilerworks",
+                "Spellstutter Sprite"
+            ],
+            "total_instances": 1967,
+            "percentage_of_total_cards": "11.34%"
+        },
+        {
+            "card_name": "Lightning Bolt",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Boros Aggro",
+                "Mardu Aggro",
+                "Burn"
+            ],
+            "cards_found_with": [
+                "Journey to Nowhere",
+                "Snow-Covered Mountain",
+                "Ash Barrens",
+                "Prismatic Strands",
+                "Snow-Covered Plains",
+                "Seeker of the Way",
+                "Thraben Inspector",
+                "Flame Slash"
+            ],
+            "total_instances": 1265,
+            "percentage_of_total_cards": "7.29%"
+        },
+        {
+            "card_name": "Prophetic Prism",
+            "common_archetypes": [
+                "Tron",
+                "Mardu Aggro",
+                "Affinity"
+            ],
+            "cards_found_with": [
+                "Custodi Squire",
+                "Krark-Clan Shaman",
+                "Swiftwater Cliffs",
+                "Chromatic Sphere",
+                "Sea Gate Oracle",
+                "Ghostly Flicker",
+                "Prohibit",
+                "Pulse of Murasa"
+            ],
+            "total_instances": 968,
+            "percentage_of_total_cards": "5.58%"
+        },
+        {
+            "card_name": "Mulldrifter",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Tron"
+            ],
+            "cards_found_with": [
+                "Ephemerate",
+                "Trinket Mage",
+                "Custodi Squire",
+                "Dispel",
+                "Sea Gate Oracle",
+                "Pulse of Murasa",
+                "Memory Lapse",
+                "Swiftwater Cliffs"
+            ],
+            "total_instances": 960,
+            "percentage_of_total_cards": "5.54%"
+        },
+        {
+            "card_name": "Preordain",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Skred Faeries"
+            ],
+            "cards_found_with": [
+                "Evolving Wilds",
+                "Terramorphic Expanse",
+                "Brainstorm",
+                "Counterspell",
+                "Arcane Denial",
+                "Izzet Boilerworks",
+                "Spellstutter Sprite",
+                "Snow-Covered Island"
+            ],
+            "total_instances": 939,
+            "percentage_of_total_cards": "5.41%"
+        },
+        {
+            "card_name": "Ash Barrens",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Skred Faeries"
+            ],
+            "cards_found_with": [
+                "Terramorphic Expanse",
+                "Preordain",
+                "Evolving Wilds",
+                "Snow-Covered Mountain",
+                "Dispel",
+                "Snow-Covered Island",
+                "Counterspell",
+                "Brainstorm"
+            ],
+            "total_instances": 916,
+            "percentage_of_total_cards": "5.28%"
+        },
+        {
+            "card_name": "Counterspell",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Skred Faeries"
+            ],
+            "cards_found_with": [
+                "Preordain",
+                "Spellstutter Sprite",
+                "Terramorphic Expanse",
+                "Brainstorm",
+                "Evolving Wilds",
+                "Repeal",
+                "Snow-Covered Island",
+                "Izzet Boilerworks"
+            ],
+            "total_instances": 831,
+            "percentage_of_total_cards": "4.79%"
+        },
+        {
+            "card_name": "Arcum\\'s Astrolabe",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Tron",
+                "Mardu Aggro"
+            ],
+            "cards_found_with": [
+                "Snow-Covered Plains",
+                "Relic of Progenitus",
+                "Dispel",
+                "Snow-Covered Mountain",
+                "Izzet Boilerworks",
+                "Snow-Covered Island",
+                "Kor Skyfisher",
+                "Ash Barrens"
+            ],
+            "total_instances": 745,
+            "percentage_of_total_cards": "4.30%"
+        },
+        {
+            "card_name": "Thraben Inspector",
+            "common_archetypes": [
+                "Boros Aggro",
+                "Mardu Aggro"
+            ],
+            "cards_found_with": [
+                "Prismatic Strands",
+                "Palace Sentinels",
+                "Journey to Nowhere",
+                "Firebolt",
+                "Boros Garrison",
+                "Rites of Initiation",
+                "Wind-Scarred Crag",
+                "Seeker of the Way"
+            ],
+            "total_instances": 702,
+            "percentage_of_total_cards": "4.05%"
+        },
+        {
+            "card_name": "Kor Skyfisher",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Mardu Aggro"
+            ],
+            "cards_found_with": [
+                "Snow-Covered Plains",
+                "Relic of Progenitus",
+                "Arcum\\'s Astrolabe",
+                "Reaping the Graves",
+                "Snow-Covered Mountain",
+                "Glint Hawk",
+                "Journey to Nowhere",
+                "Radiant Fountain"
+            ],
+            "total_instances": 683,
+            "percentage_of_total_cards": "3.94%"
+        },
+        {
+            "card_name": "Snow-Covered Forest",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Mono-Green Stompy",
+                "Tron"
+            ],
+            "cards_found_with": [
+                "Abundant Growth",
+                "Dispel",
+                "Snow-Covered Plains",
+                "Arcum\\'s Astrolabe",
+                "Ash Barrens",
+                "Mulldrifter",
+                "Trinket Mage",
+                "Custodi Squire"
+            ],
+            "total_instances": 677,
+            "percentage_of_total_cards": "3.90%"
+        },
+        {
+            "card_name": "Snow-Covered Plains",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Mardu Aggro"
+            ],
+            "cards_found_with": [
+                "Arcum\\'s Astrolabe",
+                "Relic of Progenitus",
+                "Snow-Covered Mountain",
+                "Kor Skyfisher",
+                "Ash Barrens",
+                "Flame Slash",
+                "Izzet Boilerworks",
+                "Dispel"
+            ],
+            "total_instances": 632,
+            "percentage_of_total_cards": "3.64%"
+        },
+        {
+            "card_name": "Galvanic Blast",
+            "common_archetypes": [
+                "Mardu Aggro",
+                "Affinity"
+            ],
+            "cards_found_with": [
+                "Great Furnace",
+                "Ancient Den",
+                "Auriok Sunchaser",
+                "Radiant Fountain",
+                "Glint Hawk",
+                "Secluded Steppe",
+                "Reaping the Graves",
+                "Serrated Arrows"
+            ],
+            "total_instances": 546,
+            "percentage_of_total_cards": "3.15%"
+        },
+        {
+            "card_name": "Snow-Covered Mountain",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Skred Faeries",
+                "Mardu Aggro"
+            ],
+            "cards_found_with": [
+                "Izzet Boilerworks",
+                "Ash Barrens",
+                "Terramorphic Expanse",
+                "Brainstorm",
+                "Preordain",
+                "Evolving Wilds",
+                "Snow-Covered Island",
+                "Counterspell"
+            ],
+            "total_instances": 518,
+            "percentage_of_total_cards": "2.99%"
+        },
+        {
+            "card_name": "Skred",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Skred Faeries"
+            ],
+            "cards_found_with": [
+                "Sprout Swarm",
+                "Brainstorm",
+                "Incinerate",
+                "Evolving Wilds",
+                "Snow-Covered Island",
+                "Izzet Boilerworks",
+                "Terramorphic Expanse",
+                "Merchant Scroll"
+            ],
+            "total_instances": 504,
+            "percentage_of_total_cards": "2.91%"
+        }
+    ],
+    "format_versatile_cards": [
+        {
+            "card_name": "Lightning Bolt",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Boros Aggro",
+                "Mardu Aggro",
+                "Burn"
+            ],
+            "cards_found_with": [
+                "Journey to Nowhere",
+                "Snow-Covered Mountain",
+                "Ash Barrens",
+                "Prismatic Strands",
+                "Snow-Covered Plains",
+                "Seeker of the Way",
+                "Thraben Inspector",
+                "Flame Slash"
+            ],
+            "total_instances": 371
+        },
+        {
+            "card_name": "Ash Barrens",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Skred Faeries"
+            ],
+            "cards_found_with": [
+                "Terramorphic Expanse",
+                "Preordain",
+                "Evolving Wilds",
+                "Snow-Covered Mountain",
+                "Dispel",
+                "Snow-Covered Island",
+                "Counterspell",
+                "Brainstorm"
+            ],
+            "total_instances": 324
+        },
+        {
+            "card_name": "Snow-Covered Island",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Skred Faeries",
+                "Tron"
+            ],
+            "cards_found_with": [
+                "Brainstorm",
+                "Counterspell",
+                "Preordain",
+                "Terramorphic Expanse",
+                "Evolving Wilds",
+                "Skred",
+                "Izzet Boilerworks",
+                "Spellstutter Sprite"
+            ],
+            "total_instances": 253
+        },
+        {
+            "card_name": "Preordain",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Skred Faeries"
+            ],
+            "cards_found_with": [
+                "Evolving Wilds",
+                "Terramorphic Expanse",
+                "Brainstorm",
+                "Counterspell",
+                "Arcane Denial",
+                "Izzet Boilerworks",
+                "Spellstutter Sprite",
+                "Snow-Covered Island"
+            ],
+            "total_instances": 248
+        },
+        {
+            "card_name": "Snow-Covered Plains",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Mardu Aggro"
+            ],
+            "cards_found_with": [
+                "Arcum\\'s Astrolabe",
+                "Relic of Progenitus",
+                "Snow-Covered Mountain",
+                "Kor Skyfisher",
+                "Ash Barrens",
+                "Flame Slash",
+                "Izzet Boilerworks",
+                "Dispel"
+            ],
+            "total_instances": 223
+        },
+        {
+            "card_name": "Dispel",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Tron"
+            ],
+            "cards_found_with": [
+                "Snow-Covered Island",
+                "Ash Barrens",
+                "Mulldrifter",
+                "Arcum\\'s Astrolabe",
+                "Repeal",
+                "Trinket Mage",
+                "Preordain",
+                "Relic of Progenitus"
+            ],
+            "total_instances": 198
+        },
+        {
+            "card_name": "Snow-Covered Mountain",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Skred Faeries",
+                "Mardu Aggro"
+            ],
+            "cards_found_with": [
+                "Izzet Boilerworks",
+                "Ash Barrens",
+                "Terramorphic Expanse",
+                "Brainstorm",
+                "Preordain",
+                "Evolving Wilds",
+                "Snow-Covered Island",
+                "Counterspell"
+            ],
+            "total_instances": 196
+        },
+        {
+            "card_name": "Arcum\\'s Astrolabe",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Tron",
+                "Mardu Aggro"
+            ],
+            "cards_found_with": [
+                "Snow-Covered Plains",
+                "Relic of Progenitus",
+                "Dispel",
+                "Snow-Covered Mountain",
+                "Izzet Boilerworks",
+                "Snow-Covered Island",
+                "Kor Skyfisher",
+                "Ash Barrens"
+            ],
+            "total_instances": 187
+        },
+        {
+            "card_name": "Evolving Wilds",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Skred Faeries"
+            ],
+            "cards_found_with": [
+                "Brainstorm",
+                "Preordain",
+                "Terramorphic Expanse",
+                "Arcane Denial",
+                "Counterspell",
+                "Snow-Covered Island",
+                "Izzet Boilerworks",
+                "Skred"
+            ],
+            "total_instances": 175
+        },
+        {
+            "card_name": "Brainstorm",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Skred Faeries"
+            ],
+            "cards_found_with": [
+                "Evolving Wilds",
+                "Terramorphic Expanse",
+                "Preordain",
+                "Arcane Denial",
+                "Counterspell",
+                "Skred",
+                "Snow-Covered Island",
+                "Izzet Boilerworks"
+            ],
+            "total_instances": 161
+        },
+        {
+            "card_name": "Bojuka Bog",
+            "common_archetypes": [
+                "WB",
+                "Mardu Aggro"
+            ],
+            "cards_found_with": [
+                "Okiba-Gang Shinobi",
+                "Radiant Fountain",
+                "Secluded Steppe",
+                "Reaping the Graves",
+                "Disfigure",
+                "Thraben Inspector",
+                "Palace Sentinels",
+                "Prismatic Strands"
+            ],
+            "total_instances": 151
+        },
+        {
+            "card_name": "Radiant Fountain",
+            "common_archetypes": [
+                "WB",
+                "Mardu Aggro"
+            ],
+            "cards_found_with": [
+                "Secluded Steppe",
+                "Okiba-Gang Shinobi",
+                "Bojuka Bog",
+                "Reaping the Graves",
+                "Glint Hawk",
+                "Ancient Den",
+                "Serrated Arrows",
+                "Thraben Inspector"
+            ],
+            "total_instances": 101
+        },
+        {
+            "card_name": "Snow-Covered Swamp",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Skred Faeries"
+            ],
+            "cards_found_with": [
+                "Ponder",
+                "Counterspell",
+                "Exclude",
+                "Mystic Sanctuary",
+                "Augur of Bolas",
+                "Ash Barrens",
+                "Preordain",
+                "Terramorphic Expanse"
+            ],
+            "total_instances": 53
+        },
+        {
+            "card_name": "Terramorphic Expanse",
+            "common_archetypes": [
+                "Jeskai Blink",
+                "Skred Faeries"
+            ],
+            "cards_found_with": [
+                "Evolving Wilds",
+                "Brainstorm",
+                "Preordain",
+                "Izzet Boilerworks",
+                "Counterspell",
+                "Arcane Denial",
+                "Snow-Covered Island",
+                "Repeal"
+            ],
+            "total_instances": 48
+        },
+        {
+            "card_name": "Mutagenic Growth",
+            "common_archetypes": [
+                "Skred Faeries",
+                "Untitled",
+                "Oops All Instants"
+            ],
+            "cards_found_with": [
+                "Vapor Snag",
+                "Force Spike",
+                "Ponder",
+                "Mystic Sanctuary",
+                "Delver of Secrets // Insectile Aberration",
+                "Echoing Truth",
+                "Snow-Covered Swamp",
+                "Exclude"
+            ],
+            "total_instances": 32
+        }
+    ],
+    "total_cards_parsed": 18094,
+    "unique_cards_parsed": 584
+}

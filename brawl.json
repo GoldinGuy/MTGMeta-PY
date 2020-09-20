@@ -1,0 +1,5004 @@
+{
+    "archetypes": [
+        {
+            "archetype_name": "Oviya Pashiri, Sage Lifecrafter",
+            "top_cards": [
+                "Territorial Allosaurus",
+                "Drover of the Mighty",
+                "Ancient Animus",
+                "Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun",
+                "Thrashing Brontodon",
+                "Llanowar Elves",
+                "Verdurous Gearhulk",
+                "Rhonas the Indomitable",
+                "Walking Ballista",
+                "Blossoming Defense",
+                "Nature\\'s Way",
+                "Forest",
+                "Elfhame Druid",
+                "Ripjaw Raptor",
+                "The Immortal Sun",
+                "Naturalize",
+                "Longtusk Cub",
+                "Naga Vitalist",
+                "Hashep Oasis",
+                "Rishkar, Peema Renegade",
+                "Cultivator of Blades",
+                "Merfolk Branchwalker",
+                "Aethersphere Harvester",
+                "Greenbelt Rampager",
+                "Heroic Intervention",
+                "Skysovereign, Consul Flagship",
+                "Multani, Yavimaya\\'s Avatar",
+                "Oviya Pashiri, Sage Lifecrafter",
+                "Channeler Initiate",
+                "Druid of the Cowl",
+                "Rabid Bite",
+                "Crocodile of the Crossing",
+                "Servant of the Conduit",
+                "Lifecrafter\\'s Bestiary",
+                "Prey Upon",
+                "Mox Amber",
+                "Resilient Khenra",
+                "Field of Ruin",
+                "Untethered Express"
+            ],
+            "metagame_percentage": "8.12%",
+            "best_fit_deck": [
+                {
+                    "name": "Walking Ballista",
+                    "quantity": 1
+                },
+                {
+                    "name": "Verdurous Gearhulk",
+                    "quantity": 1
+                },
+                {
+                    "name": "Untethered Express",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thrashing Brontodon",
+                    "quantity": 1
+                },
+                {
+                    "name": "The Immortal Sun",
+                    "quantity": 1
+                },
+                {
+                    "name": "Territorial Allosaurus",
+                    "quantity": 1
+                },
+                {
+                    "name": "Skysovereign, Consul Flagship",
+                    "quantity": 1
+                },
+                {
+                    "name": "Servant of the Conduit",
+                    "quantity": 1
+                },
+                {
+                    "name": "Rishkar, Peema Renegade",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ripjaw Raptor",
+                    "quantity": 1
+                },
+                {
+                    "name": "Rhonas the Indomitable",
+                    "quantity": 1
+                },
+                {
+                    "name": "Resilient Khenra",
+                    "quantity": 1
+                },
+                {
+                    "name": "Rabid Bite",
+                    "quantity": 1
+                },
+                {
+                    "name": "Prey Upon",
+                    "quantity": 1
+                },
+                {
+                    "name": "Oviya Pashiri, Sage Lifecrafter",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nature's Way",
+                    "quantity": 1
+                },
+                {
+                    "name": "Naturalize",
+                    "quantity": 1
+                },
+                {
+                    "name": "Naga Vitalist",
+                    "quantity": 1
+                },
+                {
+                    "name": "Multani, Yavimaya's Avatar",
+                    "quantity": 1
+                },
+                {
+                    "name": "Mox Amber",
+                    "quantity": 1
+                },
+                {
+                    "name": "Merfolk Branchwalker",
+                    "quantity": 1
+                },
+                {
+                    "name": "Longtusk Cub",
+                    "quantity": 1
+                },
+                {
+                    "name": "Llanowar Elves",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lifecrafter's Bestiary",
+                    "quantity": 1
+                },
+                {
+                    "name": "Heroic Intervention",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hashep Oasis",
+                    "quantity": 1
+                },
+                {
+                    "name": "Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun",
+                    "quantity": 1
+                },
+                {
+                    "name": "Greenbelt Rampager",
+                    "quantity": 1
+                },
+                {
+                    "name": "Forest",
+                    "quantity": 22
+                },
+                {
+                    "name": "Field of Ruin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Elfhame Druid",
+                    "quantity": 1
+                },
+                {
+                    "name": "Druid of the Cowl",
+                    "quantity": 1
+                },
+                {
+                    "name": "Drover of the Mighty",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cultivator of Blades",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crocodile of the Crossing",
+                    "quantity": 1
+                },
+                {
+                    "name": "Channeler Initiate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blossoming Defense",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ancient Animus",
+                    "quantity": 1
+                },
+                {
+                    "name": "Aethersphere Harvester",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "archetype_name": "Jace, Cunning Castaway",
+            "top_cards": [
+                "Throne of the God-Pharaoh",
+                "Disallow",
+                "Chart a Course",
+                "Tempest Djinn",
+                "Aether Swooper",
+                "Jace, Cunning Castaway",
+                "Traxos, Scourge of Kroog",
+                "Storm Fleet Aerialist",
+                "Supreme Will",
+                "Censor",
+                "Island",
+                "Mist-Cloaked Herald",
+                "Heart of Kiran",
+                "Zahid, Djinn of the Lamp",
+                "Curious Obsession",
+                "Spell Pierce",
+                "Essence Scatter",
+                "Cancel",
+                "Lookout\\'s Dispersal",
+                "Revolutionary Rebuff",
+                "Wizard\\'s Retort",
+                "Artificer\\'s Assistant",
+                "Admiral\\'s Order",
+                "Unsummon",
+                "Siren Stormtamer",
+                "Kitesail Corsair",
+                "Hope of Ghirapur",
+                "Jace\\'s Sentinel",
+                "Warkite Marauder",
+                "Zhalfirin Void",
+                "Tetsuko Umezawa, Fugitive",
+                "Negate",
+                "River Sneak",
+                "Slither Blade",
+                "Dowsing Dagger // Lost Vale",
+                "Arch of Orazca",
+                "Mox Amber",
+                "Field of Ruin",
+                "Skyship Plunderer"
+            ],
+            "metagame_percentage": "26.09%",
+            "best_fit_deck": [
+                {
+                    "name": "Zhalfirin Void",
+                    "quantity": 1
+                },
+                {
+                    "name": "Zahid, Djinn of the Lamp",
+                    "quantity": 1
+                },
+                {
+                    "name": "Wizard's Retort",
+                    "quantity": 1
+                },
+                {
+                    "name": "Warkite Marauder",
+                    "quantity": 1
+                },
+                {
+                    "name": "Unsummon",
+                    "quantity": 1
+                },
+                {
+                    "name": "Traxos, Scourge of Kroog",
+                    "quantity": 1
+                },
+                {
+                    "name": "Throne of the God-Pharaoh",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tetsuko Umezawa, Fugitive",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tempest Djinn",
+                    "quantity": 1
+                },
+                {
+                    "name": "Supreme Will",
+                    "quantity": 1
+                },
+                {
+                    "name": "Storm Fleet Aerialist",
+                    "quantity": 1
+                },
+                {
+                    "name": "Spell Pierce",
+                    "quantity": 1
+                },
+                {
+                    "name": "Slither Blade",
+                    "quantity": 1
+                },
+                {
+                    "name": "Skyship Plunderer",
+                    "quantity": 1
+                },
+                {
+                    "name": "Siren Stormtamer",
+                    "quantity": 1
+                },
+                {
+                    "name": "River Sneak",
+                    "quantity": 1
+                },
+                {
+                    "name": "Revolutionary Rebuff",
+                    "quantity": 1
+                },
+                {
+                    "name": "Negate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Mox Amber",
+                    "quantity": 1
+                },
+                {
+                    "name": "Mist-Cloaked Herald",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lookout's Dispersal",
+                    "quantity": 1
+                },
+                {
+                    "name": "Kitesail Corsair",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jace, Cunning Castaway",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jace's Sentinel",
+                    "quantity": 1
+                },
+                {
+                    "name": "Island",
+                    "quantity": 22
+                },
+                {
+                    "name": "Hope of Ghirapur",
+                    "quantity": 1
+                },
+                {
+                    "name": "Heart of Kiran",
+                    "quantity": 1
+                },
+                {
+                    "name": "Field of Ruin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Essence Scatter",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dowsing Dagger // Lost Vale",
+                    "quantity": 1
+                },
+                {
+                    "name": "Disallow",
+                    "quantity": 1
+                },
+                {
+                    "name": "Curious Obsession",
+                    "quantity": 1
+                },
+                {
+                    "name": "Chart a Course",
+                    "quantity": 1
+                },
+                {
+                    "name": "Censor",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cancel",
+                    "quantity": 1
+                },
+                {
+                    "name": "Artificer's Assistant",
+                    "quantity": 1
+                },
+                {
+                    "name": "Arch of Orazca",
+                    "quantity": 1
+                },
+                {
+                    "name": "Aether Swooper",
+                    "quantity": 1
+                },
+                {
+                    "name": "Admiral's Order",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "archetype_name": "Baral, Chief of Compliance",
+            "top_cards": [
+                "Nezahal, Primal Tide",
+                "Disallow",
+                "Chart a Course",
+                "Treasure Map // Treasure Cove",
+                "Secrets of the Golden City",
+                "Supreme Will",
+                "Censor",
+                "Island",
+                "Blink of an Eye",
+                "Dynavolt Tower",
+                "Confiscation Coup",
+                "Sorcerous Spyglass",
+                "Nimble Obstructionist",
+                "Countervailing Winds",
+                "Desert of the Mindful",
+                "Commit // Memory",
+                "Glimmer of Genius",
+                "Spell Pierce",
+                "Vizier of Many Faces",
+                "Essence Scatter",
+                "Entrancing Melody",
+                "Scavenger Grounds",
+                "Cancel",
+                "Revolutionary Rebuff",
+                "Memorial to Genius",
+                "Wizard\\'s Retort",
+                "Unsummon",
+                "Search for Azcanta // Azcanta, the Sunken Ruin",
+                "Torrential Gearhulk",
+                "Karn, Scion of Urza",
+                "Kefnet\\'s Last Word",
+                "Spell Swindle",
+                "Negate",
+                "Hornswoggle",
+                "Mox Amber",
+                "Jace\\'s Defeat",
+                "Field of Ruin",
+                "Lookout\\'s Dispersal",
+                "Syncopate",
+                "Pull from Tomorrow"
+            ],
+            "metagame_percentage": "25.22%",
+            "best_fit_deck": [
+                {
+                    "name": "Wizard's Retort",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vizier of Many Faces",
+                    "quantity": 1
+                },
+                {
+                    "name": "Unsummon",
+                    "quantity": 1
+                },
+                {
+                    "name": "Treasure Map // Treasure Cove",
+                    "quantity": 1
+                },
+                {
+                    "name": "Torrential Gearhulk",
+                    "quantity": 1
+                },
+                {
+                    "name": "Syncopate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Supreme Will",
+                    "quantity": 1
+                },
+                {
+                    "name": "Spell Swindle",
+                    "quantity": 1
+                },
+                {
+                    "name": "Spell Pierce",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sorcerous Spyglass",
+                    "quantity": 1
+                },
+                {
+                    "name": "Secrets of the Golden City",
+                    "quantity": 1
+                },
+                {
+                    "name": "Search for Azcanta // Azcanta, the Sunken Ruin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Scavenger Grounds",
+                    "quantity": 1
+                },
+                {
+                    "name": "Revolutionary Rebuff",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pull from Tomorrow",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nimble Obstructionist",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nezahal, Primal Tide",
+                    "quantity": 1
+                },
+                {
+                    "name": "Negate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Mox Amber",
+                    "quantity": 1
+                },
+                {
+                    "name": "Memorial to Genius",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lookout's Dispersal",
+                    "quantity": 1
+                },
+                {
+                    "name": "Kefnet's Last Word",
+                    "quantity": 1
+                },
+                {
+                    "name": "Karn, Scion of Urza",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jace's Defeat",
+                    "quantity": 1
+                },
+                {
+                    "name": "Island",
+                    "quantity": 17
+                },
+                {
+                    "name": "Hornswoggle",
+                    "quantity": 1
+                },
+                {
+                    "name": "Glimmer of Genius",
+                    "quantity": 1
+                },
+                {
+                    "name": "Field of Ruin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Essence Scatter",
+                    "quantity": 1
+                },
+                {
+                    "name": "Entrancing Melody",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dynavolt Tower",
+                    "quantity": 1
+                },
+                {
+                    "name": "Disallow",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert of the Mindful",
+                    "quantity": 1
+                },
+                {
+                    "name": "Countervailing Winds",
+                    "quantity": 1
+                },
+                {
+                    "name": "Confiscation Coup",
+                    "quantity": 1
+                },
+                {
+                    "name": "Commit // Memory",
+                    "quantity": 1
+                },
+                {
+                    "name": "Chart a Course",
+                    "quantity": 1
+                },
+                {
+                    "name": "Censor",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cancel",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blink of an Eye",
+                    "quantity": 1
+                },
+                {
+                    "name": "Baral, Chief of Compliance",
+                    "quantity": 1
+                },
+                {
+                    "name": "Arch of Orazca",
+                    "quantity": 1
+                },
+                {
+                    "name": "Aether Hub",
+                    "quantity": 1
+                },
+                {
+                    "name": "Admiral's Order",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "archetype_name": "Admiral Beckett Brass",
+            "top_cards": [
+                "Mountain",
+                "Memorial to Folly",
+                "Dreamcaller Siren",
+                "Dragonskull Summit",
+                "Drowned Catacomb",
+                "Ruin Raider",
+                "Lightning Strike",
+                "Storm Fleet Aerialist",
+                "River\\'s Rebuke",
+                "Saheeli Rai",
+                "Island",
+                "Forerunner of the Coalition",
+                "Dire Fleet Neckbreaker",
+                "Fanatical Firebrand",
+                "Vona\\'s Hunger",
+                "Evolving Wilds",
+                "Kitesail Freebooter",
+                "Dire Fleet Captain",
+                "Unclaimed Territory",
+                "Ifnir Deadlands",
+                "Highland Lake",
+                "Rigging Runner",
+                "Essence Scatter",
+                "Revolutionary Rebuff",
+                "Memorial to Genius",
+                "Deadeye Tracker",
+                "Dire Fleet Poisoner",
+                "Dire Fleet Daredevil",
+                "Siren Stormtamer",
+                "Kitesail Corsair",
+                "Fathom Fleet Captain",
+                "Warkite Marauder",
+                "Hostage Taker",
+                "Swamp",
+                "Sulfur Falls",
+                "Negate",
+                "Cut // Ribbons",
+                "Daring Saboteur",
+                "Fatal Push",
+                "Lookout\\'s Dispersal"
+            ],
+            "metagame_percentage": "2.90%",
+            "best_fit_deck": [
+                {
+                    "name": "Warkite Marauder",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vona's Hunger",
+                    "quantity": 1
+                },
+                {
+                    "name": "Unclaimed Territory",
+                    "quantity": 1
+                },
+                {
+                    "name": "Swamp",
+                    "quantity": 5
+                },
+                {
+                    "name": "Sulfur Falls",
+                    "quantity": 1
+                },
+                {
+                    "name": "Storm Fleet Aerialist",
+                    "quantity": 1
+                },
+                {
+                    "name": "Siren Stormtamer",
+                    "quantity": 1
+                },
+                {
+                    "name": "Saheeli Rai",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ruin Raider",
+                    "quantity": 1
+                },
+                {
+                    "name": "River's Rebuke",
+                    "quantity": 1
+                },
+                {
+                    "name": "Rigging Runner",
+                    "quantity": 1
+                },
+                {
+                    "name": "Revolutionary Rebuff",
+                    "quantity": 1
+                },
+                {
+                    "name": "Negate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Mountain",
+                    "quantity": 5
+                },
+                {
+                    "name": "Memorial to Genius",
+                    "quantity": 1
+                },
+                {
+                    "name": "Memorial to Folly",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lookout's Dispersal",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lightning Strike",
+                    "quantity": 1
+                },
+                {
+                    "name": "Kitesail Freebooter",
+                    "quantity": 1
+                },
+                {
+                    "name": "Kitesail Corsair",
+                    "quantity": 1
+                },
+                {
+                    "name": "Island",
+                    "quantity": 5
+                },
+                {
+                    "name": "Ifnir Deadlands",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hostage Taker",
+                    "quantity": 1
+                },
+                {
+                    "name": "Highland Lake",
+                    "quantity": 1
+                },
+                {
+                    "name": "Forerunner of the Coalition",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fathom Fleet Captain",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fatal Push",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fanatical Firebrand",
+                    "quantity": 1
+                },
+                {
+                    "name": "Evolving Wilds",
+                    "quantity": 1
+                },
+                {
+                    "name": "Essence Scatter",
+                    "quantity": 1
+                },
+                {
+                    "name": "Drowned Catacomb",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dreamcaller Siren",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dragonskull Summit",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dire Fleet Poisoner",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dire Fleet Neckbreaker",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dire Fleet Daredevil",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dire Fleet Captain",
+                    "quantity": 1
+                },
+                {
+                    "name": "Deadeye Tracker",
+                    "quantity": 1
+                },
+                {
+                    "name": "Daring Saboteur",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cut // Ribbons",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cinder Barrens",
+                    "quantity": 1
+                },
+                {
+                    "name": "Chart a Course",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cast Down",
+                    "quantity": 1
+                },
+                {
+                    "name": "Captain Lannery Storm",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blink of an Eye",
+                    "quantity": 1
+                },
+                {
+                    "name": "Baral's Expertise",
+                    "quantity": 1
+                },
+                {
+                    "name": "Angrath, the Flame-Chained",
+                    "quantity": 1
+                },
+                {
+                    "name": "Admiral Beckett Brass",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "archetype_name": "Muldrotha, the Gravetide",
+            "top_cards": [
+                "Nezahal, Primal Tide",
+                "Dusk Legion Zealot",
+                "Manglehorn",
+                "Thrashing Brontodon",
+                "Hour of Glory",
+                "Treasure Map // Treasure Cove",
+                "Grow from the Ashes",
+                "Hinterland Harbor",
+                "Seekers\\' Squire",
+                "Woodland Stream",
+                "Island",
+                "Forest",
+                "Ravenous Chupacabra",
+                "Shefet Monitor",
+                "Sandwurm Convergence",
+                "Nimble Obstructionist",
+                "Desert of the Mindful",
+                "Desert of the Indomitable",
+                "New Horizons",
+                "Tatyova, Benthic Druid",
+                "Hour of Promise",
+                "Gilded Lotus",
+                "Ifnir Deadlands",
+                "Jadelight Ranger",
+                "Muldrotha, the Gravetide",
+                "Hashep Oasis",
+                "Gift of Paradise",
+                "Merfolk Branchwalker",
+                "Woodland Cemetery",
+                "Search for Azcanta // Azcanta, the Sunken Ruin",
+                "Striped Riverwinder",
+                "Vraska\\'s Contempt",
+                "Swamp",
+                "The Scarab God",
+                "Spring // Mind",
+                "Vraska, Relic Seeker",
+                "Fatal Push",
+                "Fetid Pools",
+                "Never // Return",
+                "Field of Ruin"
+            ],
+            "metagame_percentage": "2.32%",
+            "best_fit_deck": [
+                {
+                    "name": "Woodland Stream",
+                    "quantity": 1
+                },
+                {
+                    "name": "Woodland Cemetery",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vraska, Relic Seeker",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vraska's Contempt",
+                    "quantity": 1
+                },
+                {
+                    "name": "Treasure Map // Treasure Cove",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thrashing Brontodon",
+                    "quantity": 1
+                },
+                {
+                    "name": "The Scarab God",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tatyova, Benthic Druid",
+                    "quantity": 1
+                },
+                {
+                    "name": "Swamp",
+                    "quantity": 4
+                },
+                {
+                    "name": "Striped Riverwinder",
+                    "quantity": 1
+                },
+                {
+                    "name": "Spring // Mind",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shefet Monitor",
+                    "quantity": 1
+                },
+                {
+                    "name": "Seekers' Squire",
+                    "quantity": 1
+                },
+                {
+                    "name": "Search for Azcanta // Azcanta, the Sunken Ruin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sandwurm Convergence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ravenous Chupacabra",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nimble Obstructionist",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nezahal, Primal Tide",
+                    "quantity": 1
+                },
+                {
+                    "name": "New Horizons",
+                    "quantity": 1
+                },
+                {
+                    "name": "Never // Return",
+                    "quantity": 1
+                },
+                {
+                    "name": "Muldrotha, the Gravetide",
+                    "quantity": 1
+                },
+                {
+                    "name": "Merfolk Branchwalker",
+                    "quantity": 1
+                },
+                {
+                    "name": "Manglehorn",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jadelight Ranger",
+                    "quantity": 1
+                },
+                {
+                    "name": "Island",
+                    "quantity": 4
+                },
+                {
+                    "name": "Ifnir Deadlands",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hour of Promise",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hour of Glory",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hinterland Harbor",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hashep Oasis",
+                    "quantity": 1
+                },
+                {
+                    "name": "Grow from the Ashes",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gilded Lotus",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gift of Paradise",
+                    "quantity": 1
+                },
+                {
+                    "name": "Forest",
+                    "quantity": 5
+                },
+                {
+                    "name": "Field of Ruin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fetid Pools",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fatal Push",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dusk Legion Zealot",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert of the Mindful",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert of the Indomitable",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert of the Glorified",
+                    "quantity": 1
+                },
+                {
+                    "name": "Deadeye Plunderers",
+                    "quantity": 1
+                },
+                {
+                    "name": "Chart a Course",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cast Down",
+                    "quantity": 1
+                },
+                {
+                    "name": "Carnage Tyrant",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bounty of the Luxa",
+                    "quantity": 1
+                },
+                {
+                    "name": "Botanical Sanctum",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blooming Marsh",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blink of an Eye",
+                    "quantity": 1
+                },
+                {
+                    "name": "Beneath the Sands",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "archetype_name": "Nicol Bolas, God-Pharaoh",
+            "top_cards": [
+                "Mountain",
+                "Drowned Catacomb",
+                "Hour of Glory",
+                "Treasure Map // Treasure Cove",
+                "Lightning Strike",
+                "Prophetic Prism",
+                "Magma Spray",
+                "Supreme Will",
+                "Shivan Fire",
+                "Island",
+                "Harnessed Lightning",
+                "Shock",
+                "Opt",
+                "In Bolas\\'s Clutches",
+                "Ravenous Chupacabra",
+                "Evolving Wilds",
+                "Gilded Lotus",
+                "Highland Lake",
+                "Glimmer of Genius",
+                "Essence Scatter",
+                "Memorial to Genius",
+                "Wizard\\'s Retort",
+                "Manalith",
+                "Hour of Devastation",
+                "Spirebluff Canal",
+                "Search for Azcanta // Azcanta, the Sunken Ruin",
+                "Unknown Shores",
+                "Sweltering Suns",
+                "Karn, Scion of Urza",
+                "Spell Swindle",
+                "Swamp",
+                "Sulfur Falls",
+                "Renegade Map",
+                "Walk the Plank",
+                "Nicol Bolas, God-Pharaoh",
+                "Fetid Pools",
+                "Fatal Push",
+                "Field of Ruin",
+                "Syncopate",
+                "Pull from Tomorrow"
+            ],
+            "metagame_percentage": "13.33%",
+            "best_fit_deck": [
+                {
+                    "name": "Wizard's Retort",
+                    "quantity": 1
+                },
+                {
+                    "name": "Walk the Plank",
+                    "quantity": 1
+                },
+                {
+                    "name": "Unknown Shores",
+                    "quantity": 1
+                },
+                {
+                    "name": "Treasure Map // Treasure Cove",
+                    "quantity": 1
+                },
+                {
+                    "name": "Syncopate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sweltering Suns",
+                    "quantity": 1
+                },
+                {
+                    "name": "Swamp",
+                    "quantity": 4
+                },
+                {
+                    "name": "Supreme Will",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sulfur Falls",
+                    "quantity": 1
+                },
+                {
+                    "name": "Spirebluff Canal",
+                    "quantity": 1
+                },
+                {
+                    "name": "Spell Swindle",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shock",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shivan Fire",
+                    "quantity": 1
+                },
+                {
+                    "name": "Search for Azcanta // Azcanta, the Sunken Ruin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Renegade Map",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ravenous Chupacabra",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pull from Tomorrow",
+                    "quantity": 1
+                },
+                {
+                    "name": "Prophetic Prism",
+                    "quantity": 1
+                },
+                {
+                    "name": "Opt",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nicol Bolas, God-Pharaoh",
+                    "quantity": 1
+                },
+                {
+                    "name": "Mountain",
+                    "quantity": 4
+                },
+                {
+                    "name": "Memorial to Genius",
+                    "quantity": 1
+                },
+                {
+                    "name": "Manalith",
+                    "quantity": 1
+                },
+                {
+                    "name": "Magma Spray",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lightning Strike",
+                    "quantity": 1
+                },
+                {
+                    "name": "Karn, Scion of Urza",
+                    "quantity": 1
+                },
+                {
+                    "name": "Island",
+                    "quantity": 5
+                },
+                {
+                    "name": "In Bolas's Clutches",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hour of Glory",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hour of Devastation",
+                    "quantity": 1
+                },
+                {
+                    "name": "Highland Lake",
+                    "quantity": 1
+                },
+                {
+                    "name": "Harnessed Lightning",
+                    "quantity": 1
+                },
+                {
+                    "name": "Glimmer of Genius",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gilded Lotus",
+                    "quantity": 1
+                },
+                {
+                    "name": "Field of Ruin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fetid Pools",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fatal Push",
+                    "quantity": 1
+                },
+                {
+                    "name": "Evolving Wilds",
+                    "quantity": 1
+                },
+                {
+                    "name": "Essence Scatter",
+                    "quantity": 1
+                },
+                {
+                    "name": "Drowned Catacomb",
+                    "quantity": 1
+                },
+                {
+                    "name": "Divination",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crypt of the Eternals",
+                    "quantity": 1
+                },
+                {
+                    "name": "Champion of Wits",
+                    "quantity": 1
+                },
+                {
+                    "name": "Censor",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cast Down",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cancel",
+                    "quantity": 1
+                },
+                {
+                    "name": "Aether Hub",
+                    "quantity": 1
+                },
+                {
+                    "name": "Abrade",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "archetype_name": "The Scarab God",
+            "top_cards": [
+                "Disallow",
+                "Doomfall",
+                "Drowned Catacomb",
+                "Walking Ballista",
+                "Supreme Will",
+                "Censor",
+                "Island",
+                "Gonti, Lord of Luxury",
+                "Blink of an Eye",
+                "Cast Down",
+                "Ravenous Chupacabra",
+                "Glint-Sleeve Siphoner",
+                "Arguel\\'s Blood Fast // Temple of Aclazotz",
+                "Nimble Obstructionist",
+                "Evolving Wilds",
+                "The Immortal Sun",
+                "Ifnir Deadlands",
+                "Glimmer of Genius",
+                "Essence Scatter",
+                "Liliana, Death\\'s Majesty",
+                "Revolutionary Rebuff",
+                "Memorial to Genius",
+                "Dreamstealer",
+                "Gifted Aetherborn",
+                "Search for Azcanta // Azcanta, the Sunken Ruin",
+                "Torrential Gearhulk",
+                "Karn, Scion of Urza",
+                "Vraska\\'s Contempt",
+                "Hostage Taker",
+                "Swamp",
+                "Negate",
+                "Duress",
+                "The Scarab God",
+                "Submerged Boneyard",
+                "Walk the Plank",
+                "Fetid Pools",
+                "Fatal Push",
+                "Field of Ruin",
+                "Champion of Wits",
+                "Syncopate"
+            ],
+            "metagame_percentage": "10.43%",
+            "best_fit_deck": [
+                {
+                    "name": "Walking Ballista",
+                    "quantity": 1
+                },
+                {
+                    "name": "Walk the Plank",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vraska's Contempt",
+                    "quantity": 1
+                },
+                {
+                    "name": "Torrential Gearhulk",
+                    "quantity": 1
+                },
+                {
+                    "name": "The Scarab God",
+                    "quantity": 1
+                },
+                {
+                    "name": "The Immortal Sun",
+                    "quantity": 1
+                },
+                {
+                    "name": "Syncopate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Swamp",
+                    "quantity": 9
+                },
+                {
+                    "name": "Supreme Will",
+                    "quantity": 1
+                },
+                {
+                    "name": "Submerged Boneyard",
+                    "quantity": 1
+                },
+                {
+                    "name": "Search for Azcanta // Azcanta, the Sunken Ruin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Revolutionary Rebuff",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ravenous Chupacabra",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nimble Obstructionist",
+                    "quantity": 1
+                },
+                {
+                    "name": "Negate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Memorial to Genius",
+                    "quantity": 1
+                },
+                {
+                    "name": "Liliana, Death's Majesty",
+                    "quantity": 1
+                },
+                {
+                    "name": "Karn, Scion of Urza",
+                    "quantity": 1
+                },
+                {
+                    "name": "Island",
+                    "quantity": 9
+                },
+                {
+                    "name": "Ifnir Deadlands",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hostage Taker",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gonti, Lord of Luxury",
+                    "quantity": 1
+                },
+                {
+                    "name": "Glint-Sleeve Siphoner",
+                    "quantity": 1
+                },
+                {
+                    "name": "Glimmer of Genius",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gifted Aetherborn",
+                    "quantity": 1
+                },
+                {
+                    "name": "Field of Ruin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fetid Pools",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fatal Push",
+                    "quantity": 1
+                },
+                {
+                    "name": "Evolving Wilds",
+                    "quantity": 1
+                },
+                {
+                    "name": "Essence Scatter",
+                    "quantity": 1
+                },
+                {
+                    "name": "Duress",
+                    "quantity": 1
+                },
+                {
+                    "name": "Drowned Catacomb",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dreamstealer",
+                    "quantity": 1
+                },
+                {
+                    "name": "Doomfall",
+                    "quantity": 1
+                },
+                {
+                    "name": "Disallow",
+                    "quantity": 1
+                },
+                {
+                    "name": "Champion of Wits",
+                    "quantity": 1
+                },
+                {
+                    "name": "Censor",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cast Down",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blink of an Eye",
+                    "quantity": 1
+                },
+                {
+                    "name": "Arguel's Blood Fast // Temple of Aclazotz",
+                    "quantity": 1
+                },
+                {
+                    "name": "Arch of Orazca",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "archetype_name": "Shalai, Voice of Plenty",
+            "top_cards": [
+                "Scattered Groves",
+                "Territorial Allosaurus",
+                "Drover of the Mighty",
+                "Thrashing Brontodon",
+                "Llanowar Elves",
+                "Gideon\\'s Reproach",
+                "Lyra Dawnbringer",
+                "Gideon of the Trials",
+                "Sunpetal Grove",
+                "Plains",
+                "Forest",
+                "Heart of Kiran",
+                "Elfhame Druid",
+                "Shalai, Voice of Plenty",
+                "Desert of the Indomitable",
+                "Ripjaw Raptor",
+                "Evolving Wilds",
+                "Hour of Promise",
+                "Prowling Serpopard",
+                "Jadelight Ranger",
+                "Naga Vitalist",
+                "Hashep Oasis",
+                "Rishkar, Peema Renegade",
+                "Scavenger Grounds",
+                "Compulsory Rest",
+                "Fairgrounds Warden",
+                "Skysovereign, Consul Flagship",
+                "Karn, Scion of Urza",
+                "Shefet Dunes",
+                "Tranquil Expanse",
+                "Thopter Arrest",
+                "Seal Away",
+                "Channeler Initiate",
+                "Druid of the Cowl",
+                "Glory-Bound Initiate",
+                "Desert of the True",
+                "Servant of the Conduit",
+                "Dauntless Bodyguard",
+                "Field of Ruin",
+                "Nissa, Vital Force"
+            ],
+            "metagame_percentage": "1.74%",
+            "best_fit_deck": [
+                {
+                    "name": "Tranquil Expanse",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thrashing Brontodon",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thopter Arrest",
+                    "quantity": 1
+                },
+                {
+                    "name": "Territorial Allosaurus",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sunpetal Grove",
+                    "quantity": 1
+                },
+                {
+                    "name": "Skysovereign, Consul Flagship",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shefet Dunes",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shalai, Voice of Plenty",
+                    "quantity": 1
+                },
+                {
+                    "name": "Servant of the Conduit",
+                    "quantity": 1
+                },
+                {
+                    "name": "Seal Away",
+                    "quantity": 1
+                },
+                {
+                    "name": "Scavenger Grounds",
+                    "quantity": 1
+                },
+                {
+                    "name": "Scattered Groves",
+                    "quantity": 1
+                },
+                {
+                    "name": "Rishkar, Peema Renegade",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ripjaw Raptor",
+                    "quantity": 1
+                },
+                {
+                    "name": "Prowling Serpopard",
+                    "quantity": 1
+                },
+                {
+                    "name": "Plains",
+                    "quantity": 6
+                },
+                {
+                    "name": "Nissa, Vital Force",
+                    "quantity": 1
+                },
+                {
+                    "name": "Naga Vitalist",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lyra Dawnbringer",
+                    "quantity": 1
+                },
+                {
+                    "name": "Llanowar Elves",
+                    "quantity": 1
+                },
+                {
+                    "name": "Karn, Scion of Urza",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jadelight Ranger",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hour of Promise",
+                    "quantity": 1
+                },
+                {
+                    "name": "Heart of Kiran",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hashep Oasis",
+                    "quantity": 1
+                },
+                {
+                    "name": "Glory-Bound Initiate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gideon's Reproach",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gideon of the Trials",
+                    "quantity": 1
+                },
+                {
+                    "name": "Forest",
+                    "quantity": 6
+                },
+                {
+                    "name": "Field of Ruin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fairgrounds Warden",
+                    "quantity": 1
+                },
+                {
+                    "name": "Evolving Wilds",
+                    "quantity": 1
+                },
+                {
+                    "name": "Elfhame Druid",
+                    "quantity": 1
+                },
+                {
+                    "name": "Druid of the Cowl",
+                    "quantity": 1
+                },
+                {
+                    "name": "Drover of the Mighty",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert of the True",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert of the Indomitable",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dauntless Bodyguard",
+                    "quantity": 1
+                },
+                {
+                    "name": "Compulsory Rest",
+                    "quantity": 1
+                },
+                {
+                    "name": "Channeler Initiate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cast Out",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blossoming Defense",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bishop's Soldier",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bishop of Rebirth",
+                    "quantity": 1
+                },
+                {
+                    "name": "Arch of Orazca",
+                    "quantity": 1
+                },
+                {
+                    "name": "Angel of Sanctions",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ajani Unyielding",
+                    "quantity": 1
+                },
+                {
+                    "name": "Aethersphere Harvester",
+                    "quantity": 1
+                },
+                {
+                    "name": "Aether Hub",
+                    "quantity": 1
+                },
+                {
+                    "name": "Aerial Responder",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "archetype_name": "Kari Zev, Skyship Raider",
+            "top_cards": [
+                "Mountain",
+                "Captain Lannery Storm",
+                "Skirk Prospector",
+                "Glorybringer",
+                "Lathnu Hellion",
+                "Bomat Courier",
+                "Lightning Strike",
+                "Chandra, Torch of Defiance",
+                "Soul-Scar Mage",
+                "Pia Nalaar",
+                "Repeating Barrage",
+                "Shock",
+                "Bloodlust Inciter",
+                "Goblin Chainwhirler",
+                "Fight with Fire",
+                "Kari Zev\\'s Expertise",
+                "Earthshaker Khenra",
+                "The Immortal Sun",
+                "Jaya\\'s Immolating Inferno",
+                "Ahn-Crop Crasher",
+                "Reckless Rage",
+                "Rampaging Ferocidon",
+                "Desert of the Fervent",
+                "Charging Monstrosaur",
+                "Hungry Flames",
+                "Dire Fleet Daredevil",
+                "Skysovereign, Consul Flagship",
+                "Ramunap Ruins",
+                "Karn, Scion of Urza",
+                "Brazen Scourge",
+                "Grasping Dunes",
+                "Rekindling Phoenix",
+                "Zhalfirin Void",
+                "Kari Zev, Skyship Raider",
+                "Siege-Gang Commander",
+                "Hazoret the Fervent",
+                "Fleetwheel Cruiser",
+                "Arch of Orazca",
+                "Sunscorched Desert",
+                "Mox Amber"
+            ],
+            "metagame_percentage": "1.74%",
+            "best_fit_deck": [
+                {
+                    "name": "Zhalfirin Void",
+                    "quantity": 1
+                },
+                {
+                    "name": "The Immortal Sun",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sunscorched Desert",
+                    "quantity": 1
+                },
+                {
+                    "name": "Soul-Scar Mage",
+                    "quantity": 1
+                },
+                {
+                    "name": "Skysovereign, Consul Flagship",
+                    "quantity": 1
+                },
+                {
+                    "name": "Skirk Prospector",
+                    "quantity": 1
+                },
+                {
+                    "name": "Siege-Gang Commander",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shock",
+                    "quantity": 1
+                },
+                {
+                    "name": "Repeating Barrage",
+                    "quantity": 1
+                },
+                {
+                    "name": "Rekindling Phoenix",
+                    "quantity": 1
+                },
+                {
+                    "name": "Reckless Rage",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ramunap Ruins",
+                    "quantity": 1
+                },
+                {
+                    "name": "Rampaging Ferocidon",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pia Nalaar",
+                    "quantity": 1
+                },
+                {
+                    "name": "Mox Amber",
+                    "quantity": 1
+                },
+                {
+                    "name": "Mountain",
+                    "quantity": 19
+                },
+                {
+                    "name": "Lightning Strike",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lathnu Hellion",
+                    "quantity": 1
+                },
+                {
+                    "name": "Karn, Scion of Urza",
+                    "quantity": 1
+                },
+                {
+                    "name": "Kari Zev, Skyship Raider",
+                    "quantity": 1
+                },
+                {
+                    "name": "Kari Zev's Expertise",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jaya's Immolating Inferno",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hungry Flames",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hazoret the Fervent",
+                    "quantity": 1
+                },
+                {
+                    "name": "Grasping Dunes",
+                    "quantity": 1
+                },
+                {
+                    "name": "Goblin Chainwhirler",
+                    "quantity": 1
+                },
+                {
+                    "name": "Glorybringer",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fleetwheel Cruiser",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fight with Fire",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earthshaker Khenra",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dire Fleet Daredevil",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert of the Fervent",
+                    "quantity": 1
+                },
+                {
+                    "name": "Charging Monstrosaur",
+                    "quantity": 1
+                },
+                {
+                    "name": "Chandra, Torch of Defiance",
+                    "quantity": 1
+                },
+                {
+                    "name": "Captain Lannery Storm",
+                    "quantity": 1
+                },
+                {
+                    "name": "Brazen Scourge",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bomat Courier",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bloodlust Inciter",
+                    "quantity": 1
+                },
+                {
+                    "name": "Arch of Orazca",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ahn-Crop Crasher",
+                    "quantity": 1
+                },
+                {
+                    "name": "Aethersphere Harvester",
+                    "quantity": 1
+                },
+                {
+                    "name": "Abrade",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "archetype_name": "Hapatra, Vizier of Poisons",
+            "top_cards": [
+                "Territorial Allosaurus",
+                "Drover of the Mighty",
+                "Memorial to Folly",
+                "Doomfall",
+                "Thrashing Brontodon",
+                "Llanowar Elves",
+                "Yawgmoth\\'s Vile Offering",
+                "Verdurous Gearhulk",
+                "Ruin Raider",
+                "Foul Orchard",
+                "Seekers\\' Squire",
+                "Gonti, Lord of Luxury",
+                "Cast Down",
+                "Forest",
+                "Ravenous Chupacabra",
+                "Glint-Sleeve Siphoner",
+                "Vizier of the Menagerie",
+                "Evolving Wilds",
+                "Cultivator\\'s Caravan",
+                "Ifnir Deadlands",
+                "Jadelight Ranger",
+                "Naga Vitalist",
+                "Hashep Oasis",
+                "Tetzimoc, Primal Death",
+                "Rishkar, Peema Renegade",
+                "Liliana, Death\\'s Majesty",
+                "Hapatra, Vizier of Poisons",
+                "Merfolk Branchwalker",
+                "Woodland Cemetery",
+                "Skysovereign, Consul Flagship",
+                "Vraska\\'s Contempt",
+                "Channeler Initiate",
+                "Swamp",
+                "Duress",
+                "Servant of the Conduit",
+                "Noxious Gearhulk",
+                "Vraska, Relic Seeker",
+                "Walk the Plank",
+                "Fatal Push",
+                "Nissa, Vital Force"
+            ],
+            "metagame_percentage": "1.16%",
+            "best_fit_deck": [
+                {
+                    "name": "Yawgmoth's Vile Offering",
+                    "quantity": 1
+                },
+                {
+                    "name": "Woodland Cemetery",
+                    "quantity": 1
+                },
+                {
+                    "name": "Walk the Plank",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vraska, Relic Seeker",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vraska's Contempt",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vizier of the Menagerie",
+                    "quantity": 1
+                },
+                {
+                    "name": "Verdurous Gearhulk",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thrashing Brontodon",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tetzimoc, Primal Death",
+                    "quantity": 1
+                },
+                {
+                    "name": "Territorial Allosaurus",
+                    "quantity": 1
+                },
+                {
+                    "name": "Swamp",
+                    "quantity": 8
+                },
+                {
+                    "name": "Skysovereign, Consul Flagship",
+                    "quantity": 1
+                },
+                {
+                    "name": "Servant of the Conduit",
+                    "quantity": 1
+                },
+                {
+                    "name": "Seekers' Squire",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ruin Raider",
+                    "quantity": 1
+                },
+                {
+                    "name": "Rishkar, Peema Renegade",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ravenous Chupacabra",
+                    "quantity": 1
+                },
+                {
+                    "name": "Noxious Gearhulk",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nissa, Vital Force",
+                    "quantity": 1
+                },
+                {
+                    "name": "Naga Vitalist",
+                    "quantity": 1
+                },
+                {
+                    "name": "Merfolk Branchwalker",
+                    "quantity": 1
+                },
+                {
+                    "name": "Memorial to Folly",
+                    "quantity": 1
+                },
+                {
+                    "name": "Llanowar Elves",
+                    "quantity": 1
+                },
+                {
+                    "name": "Liliana, Death's Majesty",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jadelight Ranger",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ifnir Deadlands",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hashep Oasis",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hapatra, Vizier of Poisons",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gonti, Lord of Luxury",
+                    "quantity": 1
+                },
+                {
+                    "name": "Glint-Sleeve Siphoner",
+                    "quantity": 1
+                },
+                {
+                    "name": "Foul Orchard",
+                    "quantity": 1
+                },
+                {
+                    "name": "Forest",
+                    "quantity": 9
+                },
+                {
+                    "name": "Fatal Push",
+                    "quantity": 1
+                },
+                {
+                    "name": "Evolving Wilds",
+                    "quantity": 1
+                },
+                {
+                    "name": "Duress",
+                    "quantity": 1
+                },
+                {
+                    "name": "Drover of the Mighty",
+                    "quantity": 1
+                },
+                {
+                    "name": "Doomfall",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cultivator's Caravan",
+                    "quantity": 1
+                },
+                {
+                    "name": "Channeler Initiate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cast Down",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bristling Hydra",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blossoming Defense",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blooming Marsh",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ammit Eternal",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "archetype_name": "Kambal, Consul of Allocation",
+            "top_cards": [
+                "Fumigate",
+                "Essence Extraction",
+                "Concealed Courtyard",
+                "Kambal, Consul of Allocation",
+                "Desert\\'s Hold",
+                "Treasure Map // Treasure Cove",
+                "Lyra Dawnbringer",
+                "Yahenni\\'s Expertise",
+                "Gideon of the Trials",
+                "Gonti, Lord of Luxury",
+                "Cast Down",
+                "Plains",
+                "Ravenous Chupacabra",
+                "Glint-Sleeve Siphoner",
+                "Evolving Wilds",
+                "Forsaken Sanctuary",
+                "Ifnir Deadlands",
+                "Forsake the Worldly",
+                "Settle the Wreckage",
+                "Scavenger Grounds",
+                "Liliana, Death\\'s Majesty",
+                "Knight of Grace",
+                "Isolated Chapel",
+                "Sunscourge Champion",
+                "Gifted Aetherborn",
+                "Shefet Dunes",
+                "Vraska\\'s Contempt",
+                "Thopter Arrest",
+                "Seal Away",
+                "Knight of Malice",
+                "Cast Out",
+                "Swamp",
+                "History of Benalia",
+                "Duress",
+                "Desert of the True",
+                "Noxious Gearhulk",
+                "Moment of Craving",
+                "Fatal Push",
+                "Desert of the Glorified",
+                "Dark Bargain"
+            ],
+            "metagame_percentage": "1.16%",
+            "best_fit_deck": [
+                {
+                    "name": "Yahenni's Expertise",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vraska's Contempt",
+                    "quantity": 1
+                },
+                {
+                    "name": "Treasure Map // Treasure Cove",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thopter Arrest",
+                    "quantity": 1
+                },
+                {
+                    "name": "Swamp",
+                    "quantity": 8
+                },
+                {
+                    "name": "Sunscourge Champion",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shefet Dunes",
+                    "quantity": 1
+                },
+                {
+                    "name": "Settle the Wreckage",
+                    "quantity": 1
+                },
+                {
+                    "name": "Seal Away",
+                    "quantity": 1
+                },
+                {
+                    "name": "Scavenger Grounds",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ravenous Chupacabra",
+                    "quantity": 1
+                },
+                {
+                    "name": "Plains",
+                    "quantity": 7
+                },
+                {
+                    "name": "Noxious Gearhulk",
+                    "quantity": 1
+                },
+                {
+                    "name": "Moment of Craving",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lyra Dawnbringer",
+                    "quantity": 1
+                },
+                {
+                    "name": "Liliana, Death's Majesty",
+                    "quantity": 1
+                },
+                {
+                    "name": "Knight of Malice",
+                    "quantity": 1
+                },
+                {
+                    "name": "Knight of Grace",
+                    "quantity": 1
+                },
+                {
+                    "name": "Kambal, Consul of Allocation",
+                    "quantity": 1
+                },
+                {
+                    "name": "Isolated Chapel",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ifnir Deadlands",
+                    "quantity": 1
+                },
+                {
+                    "name": "History of Benalia",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gonti, Lord of Luxury",
+                    "quantity": 1
+                },
+                {
+                    "name": "Glint-Sleeve Siphoner",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gifted Aetherborn",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gideon of the Trials",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fumigate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Forsaken Sanctuary",
+                    "quantity": 1
+                },
+                {
+                    "name": "Forsake the Worldly",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fatal Push",
+                    "quantity": 1
+                },
+                {
+                    "name": "Evolving Wilds",
+                    "quantity": 1
+                },
+                {
+                    "name": "Essence Extraction",
+                    "quantity": 1
+                },
+                {
+                    "name": "Duress",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert's Hold",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert of the True",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert of the Glorified",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dark Bargain",
+                    "quantity": 1
+                },
+                {
+                    "name": "Concealed Courtyard",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cast Out",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cast Down",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bontu's Last Reckoning",
+                    "quantity": 1
+                },
+                {
+                    "name": "Baffling End",
+                    "quantity": 1
+                },
+                {
+                    "name": "Authority of the Consuls",
+                    "quantity": 1
+                },
+                {
+                    "name": "Arguel's Blood Fast // Temple of Aclazotz",
+                    "quantity": 1
+                },
+                {
+                    "name": "Angel of Sanctions",
+                    "quantity": 1
+                },
+                {
+                    "name": "Aethersphere Harvester",
+                    "quantity": 1
+                },
+                {
+                    "name": "Aether Hub",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "archetype_name": "Teferi, Hero of Dominaria",
+            "top_cards": [
+                "Fumigate",
+                "Disallow",
+                "Expel from Orazca",
+                "Desert\\'s Hold",
+                "Gideon\\'s Reproach",
+                "Treasure Map // Treasure Cove",
+                "Supreme Will",
+                "Censor",
+                "Island",
+                "Blink of an Eye",
+                "Opt",
+                "Thaumatic Compass // Spires of Orazca",
+                "Plains",
+                "Ipnu Rivulet",
+                "Evolving Wilds",
+                "Desert of the Mindful",
+                "Glimmer of Genius",
+                "Meandering River",
+                "Settle the Wreckage",
+                "Essence Scatter",
+                "Irrigated Farmland",
+                "Scavenger Grounds",
+                "Revolutionary Rebuff",
+                "Memorial to Genius",
+                "Gideon\\'s Intervention",
+                "Wizard\\'s Retort",
+                "Compulsory Rest",
+                "Search for Azcanta // Azcanta, the Sunken Ruin",
+                "Hieroglyphic Illumination",
+                "Seal Away",
+                "Cast Out",
+                "Negate",
+                "Glacial Fortress",
+                "Desert of the True",
+                "Deep Freeze",
+                "Hornswoggle",
+                "Field of Ruin",
+                "Teferi, Hero of Dominaria",
+                "Syncopate",
+                "Pull from Tomorrow"
+            ],
+            "metagame_percentage": "1.16%",
+            "best_fit_deck": [
+                {
+                    "name": "Wizard's Retort",
+                    "quantity": 1
+                },
+                {
+                    "name": "Treasure Map // Treasure Cove",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thaumatic Compass // Spires of Orazca",
+                    "quantity": 1
+                },
+                {
+                    "name": "Teferi, Hero of Dominaria",
+                    "quantity": 1
+                },
+                {
+                    "name": "Syncopate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Supreme Will",
+                    "quantity": 1
+                },
+                {
+                    "name": "Settle the Wreckage",
+                    "quantity": 1
+                },
+                {
+                    "name": "Search for Azcanta // Azcanta, the Sunken Ruin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Seal Away",
+                    "quantity": 1
+                },
+                {
+                    "name": "Scavenger Grounds",
+                    "quantity": 1
+                },
+                {
+                    "name": "Revolutionary Rebuff",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pull from Tomorrow",
+                    "quantity": 1
+                },
+                {
+                    "name": "Plains",
+                    "quantity": 8
+                },
+                {
+                    "name": "Opt",
+                    "quantity": 1
+                },
+                {
+                    "name": "Negate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Memorial to Genius",
+                    "quantity": 1
+                },
+                {
+                    "name": "Meandering River",
+                    "quantity": 1
+                },
+                {
+                    "name": "Island",
+                    "quantity": 8
+                },
+                {
+                    "name": "Irrigated Farmland",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ipnu Rivulet",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hornswoggle",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hieroglyphic Illumination",
+                    "quantity": 1
+                },
+                {
+                    "name": "Glimmer of Genius",
+                    "quantity": 1
+                },
+                {
+                    "name": "Glacial Fortress",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gideon's Reproach",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gideon's Intervention",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fumigate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Field of Ruin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Expel from Orazca",
+                    "quantity": 1
+                },
+                {
+                    "name": "Evolving Wilds",
+                    "quantity": 1
+                },
+                {
+                    "name": "Essence Scatter",
+                    "quantity": 1
+                },
+                {
+                    "name": "Disallow",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert's Hold",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert of the True",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert of the Mindful",
+                    "quantity": 1
+                },
+                {
+                    "name": "Deep Freeze",
+                    "quantity": 1
+                },
+                {
+                    "name": "Compulsory Rest",
+                    "quantity": 1
+                },
+                {
+                    "name": "Censor",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cast Out",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blink of an Eye",
+                    "quantity": 1
+                },
+                {
+                    "name": "Authority of the Consuls",
+                    "quantity": 1
+                },
+                {
+                    "name": "Arch of Orazca",
+                    "quantity": 1
+                },
+                {
+                    "name": "Approach of the Second Sun",
+                    "quantity": 1
+                },
+                {
+                    "name": "Aether Meltdown",
+                    "quantity": 1
+                },
+                {
+                    "name": "Admiral's Order",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "archetype_name": "Lyra Dawnbringer",
+            "top_cards": [
+                "Desert\\'s Hold",
+                "Treasure Map // Treasure Cove",
+                "Walking Ballista",
+                "Regal Caracal",
+                "Lyra Dawnbringer",
+                "Gideon of the Trials",
+                "Squire\\'s Devotion",
+                "Plains",
+                "Sacred Cat",
+                "The Immortal Sun",
+                "Skymarcher Aspirant",
+                "Sram\\'s Expertise",
+                "Adanto Vanguard",
+                "Adorned Pouncer",
+                "Knight of Grace",
+                "Gideon\\'s Intervention",
+                "Duskborne Skymarcher",
+                "Aethergeode Miner",
+                "Benalish Marshal",
+                "Aethersphere Harvester",
+                "Angel of Sanctions",
+                "Sunscourge Champion",
+                "Skysovereign, Consul Flagship",
+                "Karn, Scion of Urza",
+                "Legion\\'s Landing // Adanto, the First Fort",
+                "Seal Away",
+                "Kinjalli\\'s Sunwing",
+                "Mesa Unicorn",
+                "Cast Out",
+                "History of Benalia",
+                "Glory-Bound Initiate",
+                "Desert of the True",
+                "Dauntless Bodyguard",
+                "Bishop\\'s Soldier",
+                "Angel of Invention",
+                "Memorial to Glory",
+                "Ixalan\\'s Binding",
+                "Arch of Orazca",
+                "Field of Ruin"
+            ],
+            "metagame_percentage": "1.16%",
+            "best_fit_deck": [
+                {
+                    "name": "Walking Ballista",
+                    "quantity": 1
+                },
+                {
+                    "name": "Treasure Map // Treasure Cove",
+                    "quantity": 1
+                },
+                {
+                    "name": "The Immortal Sun",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sunscourge Champion",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sram's Expertise",
+                    "quantity": 1
+                },
+                {
+                    "name": "Squire's Devotion",
+                    "quantity": 1
+                },
+                {
+                    "name": "Skysovereign, Consul Flagship",
+                    "quantity": 1
+                },
+                {
+                    "name": "Skymarcher Aspirant",
+                    "quantity": 1
+                },
+                {
+                    "name": "Seal Away",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sacred Cat",
+                    "quantity": 1
+                },
+                {
+                    "name": "Regal Caracal",
+                    "quantity": 1
+                },
+                {
+                    "name": "Plains",
+                    "quantity": 22
+                },
+                {
+                    "name": "Mesa Unicorn",
+                    "quantity": 1
+                },
+                {
+                    "name": "Memorial to Glory",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lyra Dawnbringer",
+                    "quantity": 1
+                },
+                {
+                    "name": "Legion's Landing // Adanto, the First Fort",
+                    "quantity": 1
+                },
+                {
+                    "name": "Knight of Grace",
+                    "quantity": 1
+                },
+                {
+                    "name": "Kinjalli's Sunwing",
+                    "quantity": 1
+                },
+                {
+                    "name": "Karn, Scion of Urza",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ixalan's Binding",
+                    "quantity": 1
+                },
+                {
+                    "name": "History of Benalia",
+                    "quantity": 1
+                },
+                {
+                    "name": "Glory-Bound Initiate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gideon's Intervention",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gideon of the Trials",
+                    "quantity": 1
+                },
+                {
+                    "name": "Field of Ruin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Duskborne Skymarcher",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert's Hold",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert of the True",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dauntless Bodyguard",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cast Out",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bishop's Soldier",
+                    "quantity": 1
+                },
+                {
+                    "name": "Benalish Marshal",
+                    "quantity": 1
+                },
+                {
+                    "name": "Arch of Orazca",
+                    "quantity": 1
+                },
+                {
+                    "name": "Angel of Sanctions",
+                    "quantity": 1
+                },
+                {
+                    "name": "Angel of Invention",
+                    "quantity": 1
+                },
+                {
+                    "name": "Aethersphere Harvester",
+                    "quantity": 1
+                },
+                {
+                    "name": "Aethergeode Miner",
+                    "quantity": 1
+                },
+                {
+                    "name": "Adorned Pouncer",
+                    "quantity": 1
+                },
+                {
+                    "name": "Adanto Vanguard",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "archetype_name": "Hazoret the Fervent",
+            "top_cards": [
+                "Mountain",
+                "Captain Lannery Storm",
+                "Invigorated Rampage",
+                "Nest Robber",
+                "Bomat Courier",
+                "Lightning Strike",
+                "Cartouche of Zeal",
+                "Soul-Scar Mage",
+                "Daring Buccaneer",
+                "Pia Nalaar",
+                "Implement of Combustion",
+                "Shock",
+                "Inventor\\'s Apprentice",
+                "Bloodlust Inciter",
+                "Abrade",
+                "Goblin Chainwhirler",
+                "Earthshaker Khenra",
+                "Fanatical Firebrand",
+                "Fire Shrine Keeper",
+                "Burning-Fist Minotaur",
+                "Ahn-Crop Crasher",
+                "Consuming Fervor",
+                "Rigging Runner",
+                "Built to Smash",
+                "Inventor\\'s Goggles",
+                "Dire Fleet Daredevil",
+                "Bloodrage Brawler",
+                "Wily Goblin",
+                "Hope of Ghirapur",
+                "Flameblade Adept",
+                "Kari Zev, Skyship Raider",
+                "Hazoret the Fervent",
+                "Sparring Construct",
+                "Aether Chaser",
+                "Ghitu Lavarunner",
+                "Harsh Mentor"
+            ],
+            "metagame_percentage": "0.58%",
+            "best_fit_deck": [
+                {
+                    "name": "Wily Goblin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sparring Construct",
+                    "quantity": 1
+                },
+                {
+                    "name": "Soul-Scar Mage",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shock",
+                    "quantity": 1
+                },
+                {
+                    "name": "Rigging Runner",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pia Nalaar",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nest Robber",
+                    "quantity": 1
+                },
+                {
+                    "name": "Mountain",
+                    "quantity": 24
+                },
+                {
+                    "name": "Lightning Strike",
+                    "quantity": 1
+                },
+                {
+                    "name": "Kari Zev, Skyship Raider",
+                    "quantity": 1
+                },
+                {
+                    "name": "Invigorated Rampage",
+                    "quantity": 1
+                },
+                {
+                    "name": "Inventor's Goggles",
+                    "quantity": 1
+                },
+                {
+                    "name": "Inventor's Apprentice",
+                    "quantity": 1
+                },
+                {
+                    "name": "Implement of Combustion",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hope of Ghirapur",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hazoret the Fervent",
+                    "quantity": 1
+                },
+                {
+                    "name": "Harsh Mentor",
+                    "quantity": 1
+                },
+                {
+                    "name": "Goblin Chainwhirler",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ghitu Lavarunner",
+                    "quantity": 1
+                },
+                {
+                    "name": "Flameblade Adept",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire Shrine Keeper",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fanatical Firebrand",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earthshaker Khenra",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dire Fleet Daredevil",
+                    "quantity": 1
+                },
+                {
+                    "name": "Daring Buccaneer",
+                    "quantity": 1
+                },
+                {
+                    "name": "Consuming Fervor",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cartouche of Zeal",
+                    "quantity": 1
+                },
+                {
+                    "name": "Captain Lannery Storm",
+                    "quantity": 1
+                },
+                {
+                    "name": "Burning-Fist Minotaur",
+                    "quantity": 1
+                },
+                {
+                    "name": "Built to Smash",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bomat Courier",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bloodrage Brawler",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bloodlust Inciter",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ahn-Crop Crasher",
+                    "quantity": 1
+                },
+                {
+                    "name": "Aether Chaser",
+                    "quantity": 1
+                },
+                {
+                    "name": "Abrade",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "archetype_name": "Kumena, Tyrant of Orazca",
+            "top_cards": [
+                "Song of Freyalise",
+                "Expel from Orazca",
+                "Thrashing Brontodon",
+                "Merfolk Mistbinder",
+                "Shaper Apprentice",
+                "Vanquisher\\'s Banner",
+                "Kopala, Warden of Waves",
+                "Hinterland Harbor",
+                "River\\'s Rebuke",
+                "Woodland Stream",
+                "Island",
+                "Mist-Cloaked Herald",
+                "River Heralds\\' Boon",
+                "Jungleborn Pioneer",
+                "Forest",
+                "Seafloor Oracle",
+                "Vineshaper Mystic",
+                "Kumena\\'s Speaker",
+                "Evolving Wilds",
+                "Herald of Secret Streams",
+                "Unclaimed Territory",
+                "Jade Bearer",
+                "Hadana\\'s Climb // Winged Temple of Orazca",
+                "Metallic Mimic",
+                "Tempest Caller",
+                "Silvergill Adept",
+                "Unsummon",
+                "Merfolk Branchwalker",
+                "Heroic Intervention",
+                "Shapers\\' Sanctuary",
+                "Forerunner of the Heralds",
+                "Skysovereign, Consul Flagship",
+                "Swift Warden",
+                "Negate",
+                "Merfolk Trickster",
+                "River Sneak",
+                "Watertrap Weaver",
+                "Shapers of Nature",
+                "Kumena, Tyrant of Orazca",
+                "Field of Ruin"
+            ],
+            "metagame_percentage": "0.58%",
+            "best_fit_deck": [
+                {
+                    "name": "Woodland Stream",
+                    "quantity": 1
+                },
+                {
+                    "name": "Watertrap Weaver",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vineshaper Mystic",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vanquisher's Banner",
+                    "quantity": 1
+                },
+                {
+                    "name": "Unsummon",
+                    "quantity": 1
+                },
+                {
+                    "name": "Unclaimed Territory",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thrashing Brontodon",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tempest Caller",
+                    "quantity": 1
+                },
+                {
+                    "name": "Swift Warden",
+                    "quantity": 1
+                },
+                {
+                    "name": "Song of Freyalise",
+                    "quantity": 1
+                },
+                {
+                    "name": "Skysovereign, Consul Flagship",
+                    "quantity": 1
+                },
+                {
+                    "name": "Silvergill Adept",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shapers' Sanctuary",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shapers of Nature",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shaper Apprentice",
+                    "quantity": 1
+                },
+                {
+                    "name": "Seafloor Oracle",
+                    "quantity": 1
+                },
+                {
+                    "name": "River's Rebuke",
+                    "quantity": 1
+                },
+                {
+                    "name": "River Sneak",
+                    "quantity": 1
+                },
+                {
+                    "name": "River Heralds' Boon",
+                    "quantity": 1
+                },
+                {
+                    "name": "Negate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Mist-Cloaked Herald",
+                    "quantity": 1
+                },
+                {
+                    "name": "Metallic Mimic",
+                    "quantity": 1
+                },
+                {
+                    "name": "Merfolk Trickster",
+                    "quantity": 1
+                },
+                {
+                    "name": "Merfolk Mistbinder",
+                    "quantity": 1
+                },
+                {
+                    "name": "Merfolk Branchwalker",
+                    "quantity": 1
+                },
+                {
+                    "name": "Kumena, Tyrant of Orazca",
+                    "quantity": 1
+                },
+                {
+                    "name": "Kumena's Speaker",
+                    "quantity": 1
+                },
+                {
+                    "name": "Kopala, Warden of Waves",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jungleborn Pioneer",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jade Bearer",
+                    "quantity": 1
+                },
+                {
+                    "name": "Island",
+                    "quantity": 7
+                },
+                {
+                    "name": "Hinterland Harbor",
+                    "quantity": 1
+                },
+                {
+                    "name": "Heroic Intervention",
+                    "quantity": 1
+                },
+                {
+                    "name": "Herald of Secret Streams",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hadana's Climb // Winged Temple of Orazca",
+                    "quantity": 1
+                },
+                {
+                    "name": "Forest",
+                    "quantity": 10
+                },
+                {
+                    "name": "Forerunner of the Heralds",
+                    "quantity": 1
+                },
+                {
+                    "name": "Field of Ruin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Expel from Orazca",
+                    "quantity": 1
+                },
+                {
+                    "name": "Evolving Wilds",
+                    "quantity": 1
+                },
+                {
+                    "name": "Deeproot Waters",
+                    "quantity": 1
+                },
+                {
+                    "name": "Deeproot Elite",
+                    "quantity": 1
+                },
+                {
+                    "name": "Deeproot Champion",
+                    "quantity": 1
+                },
+                {
+                    "name": "Botanical Sanctum",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blossoming Defense",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "archetype_name": "Vraska, Relic Seeker",
+            "top_cards": [
+                "Essence Extraction",
+                "Doomfall",
+                "Orazca Relic",
+                "Thrashing Brontodon",
+                "Llanowar Elves",
+                "Treasure Map // Treasure Cove",
+                "Foul Orchard",
+                "Seekers\\' Squire",
+                "Obelisk Spider",
+                "Gonti, Lord of Luxury",
+                "Forest",
+                "Ravenous Chupacabra",
+                "Lay Bare the Heart",
+                "Ripjaw Raptor",
+                "Evolving Wilds",
+                "Hour of Promise",
+                "Gilded Lotus",
+                "Ifnir Deadlands",
+                "Jadelight Ranger",
+                "Naga Vitalist",
+                "Hashep Oasis",
+                "Tetzimoc, Primal Death",
+                "Scavenger Grounds",
+                "Liliana, Death\\'s Majesty",
+                "Gift of Paradise",
+                "Woodland Cemetery",
+                "Gifted Aetherborn",
+                "Karn, Scion of Urza",
+                "Vraska\\'s Contempt",
+                "Swamp",
+                "Duress",
+                "Druid of the Cowl",
+                "Servant of the Conduit",
+                "Demonlord Belzenlok",
+                "Vraska, Relic Seeker",
+                "Walk the Plank",
+                "Fatal Push",
+                "Desert of the Glorified",
+                "The Eldest Reborn",
+                "Desert of the Indomitable"
+            ],
+            "metagame_percentage": "0.58%",
+            "best_fit_deck": [
+                {
+                    "name": "Woodland Cemetery",
+                    "quantity": 1
+                },
+                {
+                    "name": "Walk the Plank",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vraska, Relic Seeker",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vraska's Contempt",
+                    "quantity": 1
+                },
+                {
+                    "name": "Treasure Map // Treasure Cove",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thrashing Brontodon",
+                    "quantity": 1
+                },
+                {
+                    "name": "The Eldest Reborn",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tetzimoc, Primal Death",
+                    "quantity": 1
+                },
+                {
+                    "name": "Swamp",
+                    "quantity": 9
+                },
+                {
+                    "name": "Servant of the Conduit",
+                    "quantity": 1
+                },
+                {
+                    "name": "Seekers' Squire",
+                    "quantity": 1
+                },
+                {
+                    "name": "Scavenger Grounds",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ripjaw Raptor",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ravenous Chupacabra",
+                    "quantity": 1
+                },
+                {
+                    "name": "Orazca Relic",
+                    "quantity": 1
+                },
+                {
+                    "name": "Obelisk Spider",
+                    "quantity": 1
+                },
+                {
+                    "name": "Naga Vitalist",
+                    "quantity": 1
+                },
+                {
+                    "name": "Llanowar Elves",
+                    "quantity": 1
+                },
+                {
+                    "name": "Liliana, Death's Majesty",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lay Bare the Heart",
+                    "quantity": 1
+                },
+                {
+                    "name": "Karn, Scion of Urza",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jadelight Ranger",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ifnir Deadlands",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hour of Promise",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hashep Oasis",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gonti, Lord of Luxury",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gilded Lotus",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gifted Aetherborn",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gift of Paradise",
+                    "quantity": 1
+                },
+                {
+                    "name": "Foul Orchard",
+                    "quantity": 1
+                },
+                {
+                    "name": "Forest",
+                    "quantity": 7
+                },
+                {
+                    "name": "Fatal Push",
+                    "quantity": 1
+                },
+                {
+                    "name": "Evolving Wilds",
+                    "quantity": 1
+                },
+                {
+                    "name": "Essence Extraction",
+                    "quantity": 1
+                },
+                {
+                    "name": "Duress",
+                    "quantity": 1
+                },
+                {
+                    "name": "Druid of the Cowl",
+                    "quantity": 1
+                },
+                {
+                    "name": "Doomfall",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert of the Indomitable",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert of the Glorified",
+                    "quantity": 1
+                },
+                {
+                    "name": "Demonlord Belzenlok",
+                    "quantity": 1
+                },
+                {
+                    "name": "Channeler Initiate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cast Down",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blooming Marsh",
+                    "quantity": 1
+                },
+                {
+                    "name": "Battle at the Bridge",
+                    "quantity": 1
+                },
+                {
+                    "name": "Aethersphere Harvester",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "archetype_name": "Gonti, Lord of Luxury",
+            "top_cards": [
+                "Unburden",
+                "Essence Extraction",
+                "Dusk Legion Zealot",
+                "Doomfall",
+                "Treasure Map // Treasure Cove",
+                "Demon of Dark Schemes",
+                "Seekers\\' Squire",
+                "Yahenni\\'s Expertise",
+                "Bontu\\'s Last Reckoning",
+                "Gonti, Lord of Luxury",
+                "Twilight Prophet",
+                "Ravenous Chupacabra",
+                "Glint-Sleeve Siphoner",
+                "Lay Bare the Heart",
+                "Battle at the Bridge",
+                "Arguel\\'s Blood Fast // Temple of Aclazotz",
+                "Aether Hub",
+                "The Immortal Sun",
+                "Kitesail Freebooter",
+                "Ifnir Deadlands",
+                "Liliana, Death\\'s Majesty",
+                "Divest",
+                "Aethersphere Harvester",
+                "Gifted Aetherborn",
+                "Banewhip Punisher",
+                "Grasping Dunes",
+                "Vraska\\'s Contempt",
+                "Knight of Malice",
+                "Swamp",
+                "Duress",
+                "Azor\\'s Gateway // Sanctum of the Sun",
+                "Demonlord Belzenlok",
+                "Noxious Gearhulk",
+                "Walk the Plank",
+                "Fatal Push",
+                "Desert of the Glorified",
+                "The Eldest Reborn",
+                "Arch of Orazca",
+                "Caligo Skin-Witch",
+                "Field of Ruin"
+            ],
+            "metagame_percentage": "0.58%",
+            "best_fit_deck": [
+                {
+                    "name": "Yahenni's Expertise",
+                    "quantity": 1
+                },
+                {
+                    "name": "Walk the Plank",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vraska's Contempt",
+                    "quantity": 1
+                },
+                {
+                    "name": "Unburden",
+                    "quantity": 1
+                },
+                {
+                    "name": "Twilight Prophet",
+                    "quantity": 1
+                },
+                {
+                    "name": "Treasure Map // Treasure Cove",
+                    "quantity": 1
+                },
+                {
+                    "name": "The Immortal Sun",
+                    "quantity": 1
+                },
+                {
+                    "name": "The Eldest Reborn",
+                    "quantity": 1
+                },
+                {
+                    "name": "Swamp",
+                    "quantity": 20
+                },
+                {
+                    "name": "Seekers' Squire",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ravenous Chupacabra",
+                    "quantity": 1
+                },
+                {
+                    "name": "Noxious Gearhulk",
+                    "quantity": 1
+                },
+                {
+                    "name": "Liliana, Death's Majesty",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lay Bare the Heart",
+                    "quantity": 1
+                },
+                {
+                    "name": "Knight of Malice",
+                    "quantity": 1
+                },
+                {
+                    "name": "Kitesail Freebooter",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ifnir Deadlands",
+                    "quantity": 1
+                },
+                {
+                    "name": "Grasping Dunes",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gonti, Lord of Luxury",
+                    "quantity": 1
+                },
+                {
+                    "name": "Glint-Sleeve Siphoner",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gifted Aetherborn",
+                    "quantity": 1
+                },
+                {
+                    "name": "Field of Ruin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fatal Push",
+                    "quantity": 1
+                },
+                {
+                    "name": "Essence Extraction",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dusk Legion Zealot",
+                    "quantity": 1
+                },
+                {
+                    "name": "Duress",
+                    "quantity": 1
+                },
+                {
+                    "name": "Doomfall",
+                    "quantity": 1
+                },
+                {
+                    "name": "Divest",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert of the Glorified",
+                    "quantity": 1
+                },
+                {
+                    "name": "Demonlord Belzenlok",
+                    "quantity": 1
+                },
+                {
+                    "name": "Demon of Dark Schemes",
+                    "quantity": 1
+                },
+                {
+                    "name": "Caligo Skin-Witch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bontu's Last Reckoning",
+                    "quantity": 1
+                },
+                {
+                    "name": "Battle at the Bridge",
+                    "quantity": 1
+                },
+                {
+                    "name": "Banewhip Punisher",
+                    "quantity": 1
+                },
+                {
+                    "name": "Azor's Gateway // Sanctum of the Sun",
+                    "quantity": 1
+                },
+                {
+                    "name": "Arguel's Blood Fast // Temple of Aclazotz",
+                    "quantity": 1
+                },
+                {
+                    "name": "Arch of Orazca",
+                    "quantity": 1
+                },
+                {
+                    "name": "Aethersphere Harvester",
+                    "quantity": 1
+                },
+                {
+                    "name": "Aether Hub",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "archetype_name": "Zacama, Primal Calamity",
+            "top_cards": [
+                "Scattered Groves",
+                "Mountain",
+                "Fumigate",
+                "Inspiring Vantage",
+                "Treasure Map // Treasure Cove",
+                "Walking Ballista",
+                "Lightning Strike",
+                "Grow from the Ashes",
+                "Sheltered Thicket",
+                "Regal Caracal",
+                "Zacama, Primal Calamity",
+                "Timber Gorge",
+                "Star of Extinction",
+                "Sunpetal Grove",
+                "Sunbird\\'s Invocation",
+                "Plains",
+                "Thaumatic Compass // Spires of Orazca",
+                "Forest",
+                "Sandwurm Convergence",
+                "The Immortal Sun",
+                "New Horizons",
+                "Hour of Promise",
+                "Gilded Lotus",
+                "Rootbound Crag",
+                "Hashep Oasis",
+                "Settle the Wreckage",
+                "Gift of Paradise",
+                "Thunderherd Migration",
+                "Gideon\\'s Intervention",
+                "Manalith",
+                "Hour of Devastation",
+                "Multani, Yavimaya\\'s Avatar",
+                "Sweltering Suns",
+                "Shefet Dunes",
+                "Overwhelming Splendor",
+                "Tranquil Expanse",
+                "Stone Quarry",
+                "Seal Away",
+                "Ixalan\\'s Binding",
+                "Field of Ruin"
+            ],
+            "metagame_percentage": "0.58%",
+            "best_fit_deck": [
+                {
+                    "name": "Zacama, Primal Calamity",
+                    "quantity": 1
+                },
+                {
+                    "name": "Walking Ballista",
+                    "quantity": 1
+                },
+                {
+                    "name": "Treasure Map // Treasure Cove",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tranquil Expanse",
+                    "quantity": 1
+                },
+                {
+                    "name": "Timber Gorge",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thunderherd Migration",
+                    "quantity": 1
+                },
+                {
+                    "name": "The Immortal Sun",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thaumatic Compass // Spires of Orazca",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sweltering Suns",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sunpetal Grove",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sunbird's Invocation",
+                    "quantity": 1
+                },
+                {
+                    "name": "Stone Quarry",
+                    "quantity": 1
+                },
+                {
+                    "name": "Star of Extinction",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sheltered Thicket",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shefet Dunes",
+                    "quantity": 1
+                },
+                {
+                    "name": "Settle the Wreckage",
+                    "quantity": 1
+                },
+                {
+                    "name": "Seal Away",
+                    "quantity": 1
+                },
+                {
+                    "name": "Scattered Groves",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sandwurm Convergence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Rootbound Crag",
+                    "quantity": 1
+                },
+                {
+                    "name": "Regal Caracal",
+                    "quantity": 1
+                },
+                {
+                    "name": "Plains",
+                    "quantity": 3
+                },
+                {
+                    "name": "Overwhelming Splendor",
+                    "quantity": 1
+                },
+                {
+                    "name": "New Horizons",
+                    "quantity": 1
+                },
+                {
+                    "name": "Multani, Yavimaya's Avatar",
+                    "quantity": 1
+                },
+                {
+                    "name": "Mountain",
+                    "quantity": 1
+                },
+                {
+                    "name": "Manalith",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lightning Strike",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ixalan's Binding",
+                    "quantity": 1
+                },
+                {
+                    "name": "Inspiring Vantage",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hour of Promise",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hour of Devastation",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hashep Oasis",
+                    "quantity": 1
+                },
+                {
+                    "name": "Grow from the Ashes",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gilded Lotus",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gift of Paradise",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gideon's Intervention",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fumigate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Forest",
+                    "quantity": 6
+                },
+                {
+                    "name": "Field of Ruin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Evolving Wilds",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert of the True",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert of the Indomitable",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert of the Fervent",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cultivator's Caravan",
+                    "quantity": 1
+                },
+                {
+                    "name": "Clifftop Retreat",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cast Out",
+                    "quantity": 1
+                },
+                {
+                    "name": "Carnage Tyrant",
+                    "quantity": 1
+                },
+                {
+                    "name": "Beneath the Sands",
+                    "quantity": 1
+                },
+                {
+                    "name": "Baffling End",
+                    "quantity": 1
+                },
+                {
+                    "name": "Arch of Orazca",
+                    "quantity": 1
+                },
+                {
+                    "name": "Approach of the Second Sun",
+                    "quantity": 1
+                },
+                {
+                    "name": "Abrade",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "archetype_name": "Huatli, Warrior Poet",
+            "top_cards": [
+                "Mountain",
+                "Fumigate",
+                "Inspiring Vantage",
+                "Clifftop Retreat",
+                "Desert\\'s Hold",
+                "Gideon\\'s Reproach",
+                "Lightning Strike",
+                "Chandra, Torch of Defiance",
+                "Magma Spray",
+                "Soul-Scar Mage",
+                "Veteran Motorist",
+                "Lyra Dawnbringer",
+                "Gideon of the Trials",
+                "Pia Nalaar",
+                "Shivan Fire",
+                "Harnessed Lightning",
+                "Plains",
+                "Evolving Wilds",
+                "Sram\\'s Expertise",
+                "Settle the Wreckage",
+                "Trueheart Duelist",
+                "Desert of the Fervent",
+                "Compulsory Rest",
+                "Dire Fleet Daredevil",
+                "Sunscourge Champion",
+                "Skysovereign, Consul Flagship",
+                "Ramunap Ruins",
+                "Sweltering Suns",
+                "Shefet Dunes",
+                "Stone Quarry",
+                "Thopter Arrest",
+                "Seal Away",
+                "Huatli, Warrior Poet",
+                "Crested Sunmare",
+                "Rekindling Phoenix",
+                "Cast Out",
+                "Glory-Bound Initiate",
+                "Desert of the True",
+                "Cataclysmic Gearhulk",
+                "Field of Ruin"
+            ],
+            "metagame_percentage": "0.29%",
+            "best_fit_deck": [
+                {
+                    "name": "Veteran Motorist",
+                    "quantity": 1
+                },
+                {
+                    "name": "Trueheart Duelist",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thopter Arrest",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sweltering Suns",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sunscourge Champion",
+                    "quantity": 1
+                },
+                {
+                    "name": "Stone Quarry",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sram's Expertise",
+                    "quantity": 1
+                },
+                {
+                    "name": "Soul-Scar Mage",
+                    "quantity": 1
+                },
+                {
+                    "name": "Skysovereign, Consul Flagship",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shivan Fire",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shefet Dunes",
+                    "quantity": 1
+                },
+                {
+                    "name": "Settle the Wreckage",
+                    "quantity": 1
+                },
+                {
+                    "name": "Seal Away",
+                    "quantity": 1
+                },
+                {
+                    "name": "Rekindling Phoenix",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ramunap Ruins",
+                    "quantity": 1
+                },
+                {
+                    "name": "Plains",
+                    "quantity": 9
+                },
+                {
+                    "name": "Pia Nalaar",
+                    "quantity": 1
+                },
+                {
+                    "name": "Mountain",
+                    "quantity": 5
+                },
+                {
+                    "name": "Magma Spray",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lyra Dawnbringer",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lightning Strike",
+                    "quantity": 1
+                },
+                {
+                    "name": "Inspiring Vantage",
+                    "quantity": 1
+                },
+                {
+                    "name": "Huatli, Warrior Poet",
+                    "quantity": 1
+                },
+                {
+                    "name": "Harnessed Lightning",
+                    "quantity": 1
+                },
+                {
+                    "name": "Glory-Bound Initiate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gideon's Reproach",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gideon of the Trials",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fumigate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Field of Ruin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Evolving Wilds",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dire Fleet Daredevil",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert's Hold",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert of the True",
+                    "quantity": 1
+                },
+                {
+                    "name": "Desert of the Fervent",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crested Sunmare",
+                    "quantity": 1
+                },
+                {
+                    "name": "Compulsory Rest",
+                    "quantity": 1
+                },
+                {
+                    "name": "Clifftop Retreat",
+                    "quantity": 1
+                },
+                {
+                    "name": "Chandra, Torch of Defiance",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cataclysmic Gearhulk",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cast Out",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bombard",
+                    "quantity": 1
+                },
+                {
+                    "name": "Baird, Steward of Argive",
+                    "quantity": 1
+                },
+                {
+                    "name": "Baffling End",
+                    "quantity": 1
+                },
+                {
+                    "name": "Authority of the Consuls",
+                    "quantity": 1
+                },
+                {
+                    "name": "Arch of Orazca",
+                    "quantity": 1
+                },
+                {
+                    "name": "Angel of Sanctions",
+                    "quantity": 1
+                },
+                {
+                    "name": "Aerial Responder",
+                    "quantity": 1
+                },
+                {
+                    "name": "Abrade",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "archetype_name": "Adeliz, the Cinder Wind",
+            "top_cards": [
+                "Mountain",
+                "Disallow",
+                "Vodalian Arcanist",
+                "Shaper Apprentice",
+                "Lightning Strike",
+                "Spellweaver Eternal",
+                "Riverwise Augur",
+                "Firefist Adept",
+                "Soul-Scar Mage",
+                "Supreme Will",
+                "Shivan Fire",
+                "Island",
+                "Shock",
+                "Opt",
+                "Dive Down",
+                "Fight with Fire",
+                "Unclaimed Territory",
+                "Highland Lake",
+                "Naru Meha, Master Wizard",
+                "Essence Scatter",
+                "Wizard\\'s Retort",
+                "Divination",
+                "Tempest Caller",
+                "Silvergill Adept",
+                "Unsummon",
+                "Puncturing Blow",
+                "Siren Stormtamer",
+                "Pursue Glory",
+                "Ghitu Chronicler",
+                "Hieroglyphic Illumination",
+                "Spell Swindle",
+                "Seeker of Insight",
+                "Sulfur Falls",
+                "Wizard\\'s Lightning",
+                "Merfolk Trickster",
+                "Watertrap Weaver",
+                "Storm Sculptor",
+                "Field of Ruin",
+                "Ghitu Lavarunner",
+                "Syncopate"
+            ],
+            "metagame_percentage": "0.29%",
+            "best_fit_deck": [
+                {
+                    "name": "Wizard's Retort",
+                    "quantity": 1
+                },
+                {
+                    "name": "Wizard's Lightning",
+                    "quantity": 1
+                },
+                {
+                    "name": "Watertrap Weaver",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vodalian Arcanist",
+                    "quantity": 1
+                },
+                {
+                    "name": "Unsummon",
+                    "quantity": 1
+                },
+                {
+                    "name": "Unclaimed Territory",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tempest Caller",
+                    "quantity": 1
+                },
+                {
+                    "name": "Syncopate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Supreme Will",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sulfur Falls",
+                    "quantity": 1
+                },
+                {
+                    "name": "Storm Sculptor",
+                    "quantity": 1
+                },
+                {
+                    "name": "Spellweaver Eternal",
+                    "quantity": 1
+                },
+                {
+                    "name": "Spell Swindle",
+                    "quantity": 1
+                },
+                {
+                    "name": "Soul-Scar Mage",
+                    "quantity": 1
+                },
+                {
+                    "name": "Siren Stormtamer",
+                    "quantity": 1
+                },
+                {
+                    "name": "Silvergill Adept",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shock",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shivan Fire",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shaper Apprentice",
+                    "quantity": 1
+                },
+                {
+                    "name": "Seeker of Insight",
+                    "quantity": 1
+                },
+                {
+                    "name": "Riverwise Augur",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pursue Glory",
+                    "quantity": 1
+                },
+                {
+                    "name": "Puncturing Blow",
+                    "quantity": 1
+                },
+                {
+                    "name": "Opt",
+                    "quantity": 1
+                },
+                {
+                    "name": "Naru Meha, Master Wizard",
+                    "quantity": 1
+                },
+                {
+                    "name": "Mountain",
+                    "quantity": 8
+                },
+                {
+                    "name": "Merfolk Trickster",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lightning Strike",
+                    "quantity": 1
+                },
+                {
+                    "name": "Island",
+                    "quantity": 10
+                },
+                {
+                    "name": "Highland Lake",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hieroglyphic Illumination",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ghitu Lavarunner",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ghitu Chronicler",
+                    "quantity": 1
+                },
+                {
+                    "name": "Firefist Adept",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fight with Fire",
+                    "quantity": 1
+                },
+                {
+                    "name": "Field of Ruin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Essence Scatter",
+                    "quantity": 1
+                },
+                {
+                    "name": "Divination",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dive Down",
+                    "quantity": 1
+                },
+                {
+                    "name": "Disallow",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blink of an Eye",
+                    "quantity": 1
+                },
+                {
+                    "name": "Adeliz, the Cinder Wind",
+                    "quantity": 1
+                },
+                {
+                    "name": "Academy Journeymage",
+                    "quantity": 1
+                },
+                {
+                    "name": "Abrade",
+                    "quantity": 1
+                }
+            ]
+        }
+    ],
+    "format_top_cards": [
+        {
+            "card_name": "Field of Ruin",
+            "cards_found_with": [
+                "Arch of Orazca",
+                "Search for Azcanta // Azcanta, the Sunken Ruin",
+                "Supreme Will",
+                "Commit // Memory",
+                "Glimmer of Genius",
+                "Treasure Map // Treasure Cove",
+                "Negate",
+                "Disallow"
+            ],
+            "total_instances": 316,
+            "percentage_of_total_cards": "2.18%"
+        },
+        {
+            "card_name": "Supreme Will",
+            "cards_found_with": [
+                "Negate",
+                "Glimmer of Genius",
+                "Disallow",
+                "Commit // Memory",
+                "Torrential Gearhulk",
+                "Search for Azcanta // Azcanta, the Sunken Ruin",
+                "Arch of Orazca",
+                "Syncopate"
+            ],
+            "total_instances": 262,
+            "percentage_of_total_cards": "1.81%"
+        },
+        {
+            "card_name": "Negate",
+            "cards_found_with": [
+                "Glimmer of Genius",
+                "Supreme Will",
+                "Torrential Gearhulk",
+                "Disallow",
+                "Commit // Memory",
+                "Search for Azcanta // Azcanta, the Sunken Ruin",
+                "Hieroglyphic Illumination",
+                "Syncopate"
+            ],
+            "total_instances": 262,
+            "percentage_of_total_cards": "1.81%"
+        },
+        {
+            "card_name": "Arch of Orazca",
+            "cards_found_with": [
+                "Supreme Will",
+                "Negate",
+                "Disallow",
+                "Syncopate",
+                "Glimmer of Genius",
+                "Torrential Gearhulk",
+                "Hieroglyphic Illumination",
+                "Field of Ruin"
+            ],
+            "total_instances": 253,
+            "percentage_of_total_cards": "1.75%"
+        },
+        {
+            "card_name": "Search for Azcanta // Azcanta, the Sunken Ruin",
+            "cards_found_with": [
+                "Disallow",
+                "Glimmer of Genius",
+                "Treasure Map // Treasure Cove",
+                "Supreme Will",
+                "Negate",
+                "Commit // Memory",
+                "Arch of Orazca",
+                "Torrential Gearhulk"
+            ],
+            "total_instances": 252,
+            "percentage_of_total_cards": "1.74%"
+        },
+        {
+            "card_name": "Glimmer of Genius",
+            "cards_found_with": [
+                "Negate",
+                "Disallow",
+                "Supreme Will",
+                "Search for Azcanta // Azcanta, the Sunken Ruin",
+                "Commit // Memory",
+                "Torrential Gearhulk",
+                "Treasure Map // Treasure Cove",
+                "Hieroglyphic Illumination"
+            ],
+            "total_instances": 252,
+            "percentage_of_total_cards": "1.74%"
+        },
+        {
+            "card_name": "Disallow",
+            "cards_found_with": [
+                "Glimmer of Genius",
+                "Supreme Will",
+                "Search for Azcanta // Azcanta, the Sunken Ruin",
+                "Negate",
+                "Commit // Memory",
+                "Treasure Map // Treasure Cove",
+                "Arch of Orazca",
+                "Torrential Gearhulk"
+            ],
+            "total_instances": 250,
+            "percentage_of_total_cards": "1.73%"
+        },
+        {
+            "card_name": "Commit // Memory",
+            "cards_found_with": [
+                "Supreme Will",
+                "Negate",
+                "Glimmer of Genius",
+                "Disallow",
+                "Search for Azcanta // Azcanta, the Sunken Ruin",
+                "Torrential Gearhulk",
+                "Arch of Orazca",
+                "Essence Scatter"
+            ],
+            "total_instances": 250,
+            "percentage_of_total_cards": "1.73%"
+        },
+        {
+            "card_name": "Treasure Map // Treasure Cove",
+            "cards_found_with": [
+                "Search for Azcanta // Azcanta, the Sunken Ruin",
+                "Disallow",
+                "Glimmer of Genius",
+                "Negate",
+                "Supreme Will",
+                "Arch of Orazca",
+                "Commit // Memory",
+                "Hieroglyphic Illumination"
+            ],
+            "total_instances": 228,
+            "percentage_of_total_cards": "1.58%"
+        },
+        {
+            "card_name": "Pull from Tomorrow",
+            "cards_found_with": [
+                "Hieroglyphic Illumination",
+                "Syncopate",
+                "Torrential Gearhulk",
+                "Negate",
+                "Glimmer of Genius",
+                "Supreme Will",
+                "Spell Swindle",
+                "Arch of Orazca"
+            ],
+            "total_instances": 220,
+            "percentage_of_total_cards": "1.52%"
+        },
+        {
+            "card_name": "Torrential Gearhulk",
+            "cards_found_with": [
+                "Syncopate",
+                "Negate",
+                "Pull from Tomorrow",
+                "Supreme Will",
+                "Hieroglyphic Illumination",
+                "Glimmer of Genius",
+                "Commit // Memory",
+                "Disallow"
+            ],
+            "total_instances": 214,
+            "percentage_of_total_cards": "1.48%"
+        },
+        {
+            "card_name": "Censor",
+            "cards_found_with": [
+                "Ipnu Rivulet",
+                "Syncopate",
+                "Torrential Gearhulk",
+                "Supreme Will",
+                "Metallurgic Summonings",
+                "Pull from Tomorrow",
+                "Arch of Orazca",
+                "Blink of an Eye"
+            ],
+            "total_instances": 214,
+            "percentage_of_total_cards": "1.48%"
+        },
+        {
+            "card_name": "Essence Scatter",
+            "cards_found_with": [
+                "Commit // Memory",
+                "Supreme Will",
+                "Negate",
+                "Torrential Gearhulk",
+                "Glimmer of Genius",
+                "Disallow",
+                "Metallic Rebuke",
+                "Field of Ruin"
+            ],
+            "total_instances": 213,
+            "percentage_of_total_cards": "1.47%"
+        },
+        {
+            "card_name": "Hieroglyphic Illumination",
+            "cards_found_with": [
+                "Pull from Tomorrow",
+                "Syncopate",
+                "Torrential Gearhulk",
+                "Negate",
+                "Glimmer of Genius",
+                "Supreme Will",
+                "Disallow",
+                "Arch of Orazca"
+            ],
+            "total_instances": 210,
+            "percentage_of_total_cards": "1.45%"
+        },
+        {
+            "card_name": "Syncopate",
+            "cards_found_with": [
+                "Hieroglyphic Illumination",
+                "Pull from Tomorrow",
+                "Torrential Gearhulk",
+                "Supreme Will",
+                "Negate",
+                "Arch of Orazca",
+                "Glimmer of Genius",
+                "Disallow"
+            ],
+            "total_instances": 193,
+            "percentage_of_total_cards": "1.33%"
+        }
+    ],
+    "format_versatile_cards": [
+        {
+            "card_name": "Field of Ruin",
+            "common_archetypes": [
+                "Baral, Chief of Compliance",
+                "Jace, Cunning Castaway"
+            ],
+            "cards_found_with": [
+                "Arch of Orazca",
+                "Search for Azcanta // Azcanta, the Sunken Ruin",
+                "Supreme Will",
+                "Commit // Memory",
+                "Glimmer of Genius",
+                "Treasure Map // Treasure Cove",
+                "Negate",
+                "Disallow"
+            ],
+            "total_instances": 316
+        },
+        {
+            "card_name": "Supreme Will",
+            "common_archetypes": [
+                "Baral, Chief of Compliance",
+                "Jace, Cunning Castaway"
+            ],
+            "cards_found_with": [
+                "Negate",
+                "Glimmer of Genius",
+                "Disallow",
+                "Commit // Memory",
+                "Torrential Gearhulk",
+                "Search for Azcanta // Azcanta, the Sunken Ruin",
+                "Arch of Orazca",
+                "Syncopate"
+            ],
+            "total_instances": 262
+        },
+        {
+            "card_name": "Arch of Orazca",
+            "common_archetypes": [
+                "Baral, Chief of Compliance",
+                "Jace, Cunning Castaway"
+            ],
+            "cards_found_with": [
+                "Supreme Will",
+                "Negate",
+                "Disallow",
+                "Syncopate",
+                "Glimmer of Genius",
+                "Torrential Gearhulk",
+                "Hieroglyphic Illumination",
+                "Field of Ruin"
+            ],
+            "total_instances": 253
+        },
+        {
+            "card_name": "Treasure Map // Treasure Cove",
+            "common_archetypes": [
+                "Baral, Chief of Compliance",
+                "Nicol Bolas, God-Pharaoh",
+                "Jace, Cunning Castaway"
+            ],
+            "cards_found_with": [
+                "Search for Azcanta // Azcanta, the Sunken Ruin",
+                "Disallow",
+                "Glimmer of Genius",
+                "Negate",
+                "Supreme Will",
+                "Arch of Orazca",
+                "Commit // Memory",
+                "Hieroglyphic Illumination"
+            ],
+            "total_instances": 228
+        },
+        {
+            "card_name": "Essence Scatter",
+            "common_archetypes": [
+                "Baral, Chief of Compliance",
+                "Nicol Bolas, God-Pharaoh",
+                "Jace, Cunning Castaway"
+            ],
+            "cards_found_with": [
+                "Commit // Memory",
+                "Supreme Will",
+                "Negate",
+                "Torrential Gearhulk",
+                "Glimmer of Genius",
+                "Disallow",
+                "Metallic Rebuke",
+                "Field of Ruin"
+            ],
+            "total_instances": 213
+        },
+        {
+            "card_name": "Scavenger Grounds",
+            "common_archetypes": [
+                "Baral, Chief of Compliance"
+            ],
+            "cards_found_with": [
+                "Sorcerous Spyglass",
+                "Metallic Rebuke",
+                "The Immortal Sun",
+                "Desert of the Mindful",
+                "Essence Scatter",
+                "Kefnet\\'s Last Word",
+                "Field of Ruin",
+                "Blackblade Reforged"
+            ],
+            "total_instances": 169
+        },
+        {
+            "card_name": "Evolving Wilds",
+            "common_archetypes": [
+                "The Scarab God",
+                "Nicol Bolas, God-Pharaoh"
+            ],
+            "cards_found_with": [
+                "Fatal Push",
+                "Hostage Taker",
+                "Never // Return",
+                "Liliana, Death\\'s Majesty",
+                "Drowned Catacomb",
+                "Fetid Pools",
+                "Ifnir Deadlands",
+                "Vraska\\'s Contempt"
+            ],
+            "total_instances": 121
+        },
+        {
+            "card_name": "Fatal Push",
+            "common_archetypes": [
+                "The Scarab God",
+                "Nicol Bolas, God-Pharaoh"
+            ],
+            "cards_found_with": [
+                "Fetid Pools",
+                "Drowned Catacomb",
+                "Ifnir Deadlands",
+                "Hostage Taker",
+                "Vraska\\'s Contempt",
+                "Duress",
+                "Evolving Wilds",
+                "Gonti, Lord of Luxury"
+            ],
+            "total_instances": 107
+        },
+        {
+            "card_name": "Aether Hub",
+            "common_archetypes": [
+                "The Scarab God",
+                "Nicol Bolas, God-Pharaoh",
+                "Jace, Cunning Castaway"
+            ],
+            "cards_found_with": [
+                "Azor\\'s Gateway // Sanctum of the Sun",
+                "Opt",
+                "Treasure Map // Treasure Cove",
+                "Search for Azcanta // Azcanta, the Sunken Ruin",
+                "Karn, Scion of Urza",
+                "Field of Ruin",
+                "Disallow",
+                "Glimmer of Genius"
+            ],
+            "total_instances": 103
+        },
+        {
+            "card_name": "Ifnir Deadlands",
+            "common_archetypes": [
+                "The Scarab God",
+                "Nicol Bolas, God-Pharaoh"
+            ],
+            "cards_found_with": [
+                "Vraska\\'s Contempt",
+                "Gonti, Lord of Luxury",
+                "Fatal Push",
+                "Tetzimoc, Primal Death",
+                "Fetid Pools",
+                "Drowned Catacomb",
+                "Doomfall",
+                "Submerged Boneyard"
+            ],
+            "total_instances": 77
+        },
+        {
+            "card_name": "Walking Ballista",
+            "common_archetypes": [
+                "Oviya Pashiri, Sage Lifecrafter"
+            ],
+            "cards_found_with": [
+                "Karn, Scion of Urza",
+                "Evolving Wilds",
+                "Aethersphere Harvester",
+                "Field of Ruin",
+                "Grasping Dunes",
+                "Scavenger Grounds",
+                "Renegade Map",
+                "Naga Vitalist"
+            ],
+            "total_instances": 62
+        },
+        {
+            "card_name": "The Immortal Sun",
+            "common_archetypes": [
+                "Baral, Chief of Compliance"
+            ],
+            "cards_found_with": [
+                "Hornswoggle",
+                "Scavenger Grounds",
+                "Nimble Obstructionist",
+                "Baral\\'s Expertise",
+                "Divination",
+                "Blackblade Reforged",
+                "Confiscation Coup",
+                "Secrets of the Golden City"
+            ],
+            "total_instances": 61
+        },
+        {
+            "card_name": "Karn, Scion of Urza",
+            "common_archetypes": [
+                "Nicol Bolas, God-Pharaoh"
+            ],
+            "cards_found_with": [
+                "Evolving Wilds",
+                "Fatal Push",
+                "Duress",
+                "Aether Hub",
+                "Ifnir Deadlands",
+                "Walking Ballista",
+                "Vraska\\'s Contempt",
+                "Liliana, Death\\'s Majesty"
+            ],
+            "total_instances": 44
+        },
+        {
+            "card_name": "Skysovereign, Consul Flagship",
+            "common_archetypes": [
+                "Oviya Pashiri, Sage Lifecrafter"
+            ],
+            "cards_found_with": [
+                "Jadelight Ranger",
+                "Merfolk Branchwalker",
+                "Thrashing Brontodon",
+                "Channeler Initiate",
+                "Rishkar, Peema Renegade",
+                "Verdurous Gearhulk",
+                "Heart of Kiran",
+                "Blossoming Defense"
+            ],
+            "total_instances": 39
+        },
+        {
+            "card_name": "Aethersphere Harvester",
+            "common_archetypes": [
+                "Oviya Pashiri, Sage Lifecrafter",
+                "Kari Zev, Skyship Raider"
+            ],
+            "cards_found_with": [
+                "Heart of Kiran",
+                "Skysovereign, Consul Flagship",
+                "Hashep Oasis",
+                "Llanowar Elves",
+                "Walking Ballista",
+                "Adventurous Impulse",
+                "Servant of the Conduit",
+                "Nissa, Vital Force"
+            ],
+            "total_instances": 32
+        }
+    ],
+    "total_cards_parsed": 15001,
+    "unique_cards_parsed": 626
+}
