@@ -5,8 +5,8 @@ from matplotlib.pyplot import pie, axis, show
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-
 decks = []
+unique_cards = []
 NUM_CLUSTERS = 20
 FORMAT = 'modern'
 
@@ -33,6 +33,10 @@ for deck in decks_json:
                 card_name = str(card['name']).replace("'", "\\'")
                 quantity = int(card['quantity'])
                 cards_in_deck.append([quantity, card_name])
+                if any(card_name in d for d in unique_cards):
+                    unique_cards[next((i for i,d in enumerate(unique_cards) if card_name in d), None)][card_name] += quantity
+                elif card_name not in ['Island', 'Forest', 'Mountain', 'Swamp', 'Plains']:
+                    unique_cards.append({card_name: quantity})
             decks.append(cards_in_deck)
     except TypeError as e:
         decks_json.pop(json_index)
@@ -48,6 +52,9 @@ for deck_card_names in [card_names(deck) for deck in decks]:
     all_card_names += deck_card_names
 
 format_json['total_cards_parsed'] = len(all_card_names)
+
+all_card_names_no_basics = len([i for i in all_card_names if i not in ['Island', 'Forest', 'Mountain', 'Swamp', 'Plains']])
+
 all_card_names = set(all_card_names)
 format_json['unique_cards_parsed'] = len(all_card_names)
 all_card_names = list(all_card_names)
@@ -116,7 +123,7 @@ for CLUSTER_ID in range(NUM_CLUSTERS):
     deck_archetype = {
         'archetype_name': cluster_name,
         'top_cards': list(card_set),
-        'metagame_percentage': "{:.2%}".format((instances / total_instances)),
+        'metagame_percentage': "{:.2%}".format(instances / total_instances),
         'best_fit_deck': best_fit_deck
     }
 
@@ -159,8 +166,23 @@ def versatile_cards(k):
     return [name for name, _ in variances[:k]]
 
 
+unique_cards = sorted(unique_cards, key=lambda s: s[next(iter(s))], reverse=True)
+
+for card_dict in unique_cards[:20]:
+    card_name = list(card_dict.keys())[0]
+    quantity = list(card_dict.values())[0]
+    top_card = {
+        'card_name': card_name,
+        # 'common_archetypes': common_decks,
+        'cards_found_with': closest_cards(card_name, 8),
+        'total_instances': quantity,
+        'percentage_of_total_cards': "{:.2%}".format(quantity / all_card_names_no_basics),
+    }
+
+    format_json['format_top_cards'].append(top_card)
+
 # DETERMINE VERSATILE CARDS
-for card in versatile_cards(30):
+for card in versatile_cards(20):
     if card not in ['Island', 'Forest', 'Mountain', 'Swamp', 'Plains']:
         apps = apparition_ratio(card)
 
@@ -173,7 +195,7 @@ for card in versatile_cards(30):
         versatile_card = {
             'card_name': card,
             'common_archetypes': common_decks,
-            'cards_found_with': closest_cards(card, 10),
+            'cards_found_with': closest_cards(card, 8),
             'total_instances': apps[1]
         }
 
@@ -185,7 +207,6 @@ format_json['format_versatile_cards'].sort(key=lambda s: s['total_instances'], r
 
 with open(FORMAT + '.json', 'w') as outfile:
     json.dump(format_json, outfile, indent=4)
-
 
 # analyze and print data
 # print("Most Common Cards in different versions of cluster ")

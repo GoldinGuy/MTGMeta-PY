@@ -2,12 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ee089c-7787-4706-b16e-3f7ed5ad6f52" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/metagame.py" beforeDir="false" afterPath="$PROJECT_DIR$/metagame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modern.json" beforeDir="false" afterPath="$PROJECT_DIR$/modern.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -113,7 +129,7 @@
       <workItem from="1599753816904" duration="11638000" />
       <workItem from="1599848121985" duration="1319000" />
       <workItem from="1600291206886" duration="1000" />
-      <workItem from="1600568528326" duration="13429000" />
+      <workItem from="1600568528326" duration="18791000" />
     </task>
     <servers />
   </component>
@@ -132,26 +148,26 @@
       <screen x="76" y="0" width="1460" height="864" />
     </state>
     <state x="552" y="222" key="#com.intellij.fileTypes.FileTypeChooser/76.0.1460.864@76.0.1460.864" timestamp="1599712554383" />
-    <state width="1417" height="214" key="GridCell.Tab.0.bottom" timestamp="1600629941034">
+    <state width="1417" height="93" key="GridCell.Tab.0.bottom" timestamp="1600635857414">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
     <state width="1161" height="38" key="GridCell.Tab.0.bottom/76.0.1204.720@76.0.1204.720" timestamp="1599765579753" />
-    <state width="1417" height="214" key="GridCell.Tab.0.bottom/76.0.1460.864@76.0.1460.864" timestamp="1600629941034" />
-    <state width="1417" height="214" key="GridCell.Tab.0.center" timestamp="1600629941034">
+    <state width="1417" height="93" key="GridCell.Tab.0.bottom/76.0.1460.864@76.0.1460.864" timestamp="1600635857414" />
+    <state width="1417" height="93" key="GridCell.Tab.0.center" timestamp="1600635857414">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
     <state width="1161" height="38" key="GridCell.Tab.0.center/76.0.1204.720@76.0.1204.720" timestamp="1599765579752" />
-    <state width="1417" height="214" key="GridCell.Tab.0.center/76.0.1460.864@76.0.1460.864" timestamp="1600629941034" />
-    <state width="1417" height="214" key="GridCell.Tab.0.left" timestamp="1600629941034">
+    <state width="1417" height="93" key="GridCell.Tab.0.center/76.0.1460.864@76.0.1460.864" timestamp="1600635857414" />
+    <state width="1417" height="93" key="GridCell.Tab.0.left" timestamp="1600635857413">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
     <state width="1161" height="38" key="GridCell.Tab.0.left/76.0.1204.720@76.0.1204.720" timestamp="1599765579752" />
-    <state width="1417" height="214" key="GridCell.Tab.0.left/76.0.1460.864@76.0.1460.864" timestamp="1600629941034" />
-    <state width="1417" height="214" key="GridCell.Tab.0.right" timestamp="1600629941034">
+    <state width="1417" height="93" key="GridCell.Tab.0.left/76.0.1460.864@76.0.1460.864" timestamp="1600635857413" />
+    <state width="1417" height="93" key="GridCell.Tab.0.right" timestamp="1600635857414">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
     <state width="1161" height="38" key="GridCell.Tab.0.right/76.0.1204.720@76.0.1204.720" timestamp="1599765579752" />
-    <state width="1417" height="214" key="GridCell.Tab.0.right/76.0.1460.864@76.0.1460.864" timestamp="1600629941034" />
+    <state width="1417" height="93" key="GridCell.Tab.0.right/76.0.1460.864@76.0.1460.864" timestamp="1600635857414" />
     <state width="1417" height="255" key="GridCell.Tab.1.bottom" timestamp="1600629556832">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
@@ -175,7 +191,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MtGRecommender_master$decks.coverage" NAME="decks Coverage Results" MODIFIED="1599754250851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MtGRecommender_master$metagame.coverage" NAME="metagame Coverage Results" MODIFIED="1600629941028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MtGRecommender_master$metagame.coverage" NAME="metagame Coverage Results" MODIFIED="1600635857408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MtGRecommender_master$format_decks.coverage" NAME="format_decks Coverage Results" MODIFIED="1600618188982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
