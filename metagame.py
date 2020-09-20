@@ -1,9 +1,10 @@
 import dask_ml.cluster
-from matplotlib.pyplot import pie, axis, show
 import math
+import json
+from matplotlib.pyplot import pie, axis, show
 import seaborn as sns
 import matplotlib.pyplot as plt
-import json
+
 
 decks = []
 NUM_CLUSTERS = 20
@@ -33,11 +34,8 @@ for deck in decks_json:
                 quantity = int(card['quantity'])
                 cards_in_deck.append([quantity, card_name])
             decks.append(cards_in_deck)
-    except Exception as e:
+    except TypeError as e:
         decks_json.pop(json_index)
-
-
-# print(decks)
 
 
 def card_names(_deck):
@@ -50,23 +48,18 @@ for deck_card_names in [card_names(deck) for deck in decks]:
     all_card_names += deck_card_names
 
 format_json['total_cards_parsed'] = len(all_card_names)
-print('Total number of card names: ' + str(len(all_card_names)))
-
 all_card_names = set(all_card_names)
 format_json['unique_cards_parsed'] = len(all_card_names)
-print('Number of unique card names: ' + str(len(all_card_names)))
-
 all_card_names = list(all_card_names)
-print("\n")
 
 
 # K-MEANS CLUSTERING
-def deck_to_vector(deck):
+def deck_to_vector(input_deck):
     v = [0] * len(all_card_names)
-    for i, name in enumerate(all_card_names):
-        for number, card_name in deck:
+    for x, name in enumerate(all_card_names):
+        for number, card_name in input_deck:
             if card_name == name:
-                v[i] += number
+                v[x] += number
     return v
 
 
@@ -76,7 +69,6 @@ km = dask_ml.cluster.KMeans(n_clusters=NUM_CLUSTERS, oversampling_factor=5)
 km.fit(deck_vectors)
 
 labels = list(km.labels_.compute())
-
 decks_labels = list(zip(decks, labels))
 
 
@@ -94,7 +86,7 @@ total_instances = sum([count for _, count in card_counts])
 
 # FOR EACH ARCHETPYE IN FORMAT
 for CLUSTER_ID in range(NUM_CLUSTERS):
-    # DETERMINE MOST COMMON CARDS IN CLUSTER (CLUSTER_DEFINING CARDS)
+    # DETERMINE MOST COMMON CARDS IN CLUSTER
     card_set = set(most_common_cards(decks_by_label(CLUSTER_ID)[0][0], 40))
     for deck, card in decks_by_label(CLUSTER_ID):
         card_set.intersection(set(most_common_cards(deck, 40)))
@@ -179,7 +171,7 @@ for card in versatile_cards(30):
                 common_decks.append(format_json['archetypes'][i]['archetype_name'])
             i += 1
         versatile_card = {
-            'name': card,
+            'card_name': card,
             'common_archetypes': common_decks,
             'cards_found_with': closest_cards(card, 10),
             'total_instances': apps[1]

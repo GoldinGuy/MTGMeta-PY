@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ee089c-7787-4706-b16e-3f7ed5ad6f52" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/metagame.py" beforeDir="false" afterPath="$PROJECT_DIR$/metagame.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern.json" beforeDir="false" afterPath="$PROJECT_DIR$/modern.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +113,7 @@
       <workItem from="1599753816904" duration="11638000" />
       <workItem from="1599848121985" duration="1319000" />
       <workItem from="1600291206886" duration="1000" />
-      <workItem from="1600568528326" duration="13103000" />
+      <workItem from="1600568528326" duration="13429000" />
     </task>
     <servers />
   </component>
