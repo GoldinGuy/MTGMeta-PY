@@ -35,6 +35,8 @@ for deck in decks_json:
             decks.append(cards_in_deck)
     except Exception as e:
         decks_json.pop(json_index)
+
+
 # print(decks)
 
 
@@ -88,22 +90,13 @@ def decks_by_label(a_label):
 
 
 card_counts = [(card_label, len(decks_by_label(card_label))) for card_label in range(NUM_CLUSTERS)]
-# print(card_counts)
-# counts = [count for _, count in card_counts]
-# print(counts)
-# points = {
-#     'cluster': [card_label for card_label, _ in card_counts],
-#     'count': [count for _, count in card_counts],
-# }
 total_instances = sum([count for _, count in card_counts])
-# print(points)
-
 
 # FOR EACH ARCHETPYE IN FORMAT
-for LABEL in range(NUM_CLUSTERS):
+for CLUSTER_ID in range(NUM_CLUSTERS):
     # DETERMINE MOST COMMON CARDS IN CLUSTER (CLUSTER_DEFINING CARDS)
-    card_set = set(most_common_cards(decks_by_label(LABEL)[0][0], 40))
-    for deck, card in decks_by_label(LABEL):
+    card_set = set(most_common_cards(decks_by_label(CLUSTER_ID)[0][0], 40))
+    for deck, card in decks_by_label(CLUSTER_ID):
         card_set.intersection(set(most_common_cards(deck, 40)))
     card_set = set(card_set)
 
@@ -121,11 +114,11 @@ for LABEL in range(NUM_CLUSTERS):
             cluster_name = str(deck['name'])
             best_fit_deck = deck['main']
 
-    print("Cluster #" + str(LABEL) + " (" + cluster_name + ") :")
+    print("Cluster #" + str(CLUSTER_ID) + " (" + cluster_name + ") :")
     print(card_set)
     print("\n")
 
-    instances = (LABEL, len(decks_by_label(LABEL)))[1]
+    instances = (CLUSTER_ID, len(decks_by_label(CLUSTER_ID)))[1]
     print(instances)
 
     deck_archetype = {
@@ -174,23 +167,47 @@ def versatile_cards(k):
     return [name for name, _ in variances[:k]]
 
 
-# analyze and print data
-print("Most Common Cards in different versions of cluster ")
-for deck, label in decks_by_label(2)[:10]:
-    print(str(most_common_cards(deck, 7)) + " " + str(label))
-
-print("\nMost versatile cards:\n")
+# DETERMINE VERSATILE CARDS
 for card in versatile_cards(30):
     if card not in ['Island', 'Forest', 'Mountain', 'Swamp', 'Plains']:
-        print(card)
+        apps = apparition_ratio(card)
+
+        common_decks = []
+        i = 0
+        while i < NUM_CLUSTERS:
+            if (apps[0][i] * 100) > 15:
+                common_decks.append(format_json['archetypes'][i]['archetype_name'])
+            i += 1
+        versatile_card = {
+            'name': card,
+            'common_archetypes': common_decks,
+            'cards_found_with': closest_cards(card, 10),
+            'total_instances': apps[1]
+        }
+
+        format_json['format_versatile_cards'].append(versatile_card)
+
+# SORT JSON FROM LARGEST TO SMALLEST
+format_json['archetypes'].sort(key=lambda s: s['metagame_percentage'].strip('%'), reverse=True)
+format_json['format_versatile_cards'].sort(key=lambda s: s['total_instances'], reverse=True)
+
+with open(FORMAT + '.json', 'w') as outfile:
+    json.dump(format_json, outfile, indent=4)
+
+
+# analyze and print data
+# print("Most Common Cards in different versions of cluster ")
+# for deck, label in decks_by_label(2)[:10]:
+#     print(str(most_common_cards(deck, 7)) + " " + str(label))
+
 
 # cards to analyze
-cards_to_analyze = ['Thoughtseize', 'Llanowar Elves', 'Scalding Tarn', 'Serum Visions']
-
-print("\nCards commonly found with " + cards_to_analyze[0] + "\n" + str(closest_cards(cards_to_analyze[0], 10)))
-print("\nCards commonly found with " + cards_to_analyze[1] + "\n" + str(closest_cards(cards_to_analyze[1], 10)))
-print("\nApparition ratio for " + cards_to_analyze[2] + "\n" + str(apparition_ratio(cards_to_analyze[2])))
-print("\nApparition ratio for " + cards_to_analyze[3] + "\n" + str(apparition_ratio(cards_to_analyze[3])))
+# cards_to_analyze = ['Thoughtseize', 'Llanowar Elves', 'Scalding Tarn', 'Serum Visions']
+#
+# print("\nCards commonly found with " + cards_to_analyze[0] + "\n" + str(closest_cards(cards_to_analyze[0], 10)))
+# print("\nCards commonly found with " + cards_to_analyze[1] + "\n" + str(closest_cards(cards_to_analyze[1], 10)))
+# print("\nApparition ratio for " + cards_to_analyze[2] + "\n" + str(apparition_ratio(cards_to_analyze[2])))
+# print("\nApparition ratio for " + cards_to_analyze[3] + "\n" + str(apparition_ratio(cards_to_analyze[3])))
 
 # graph data
 # plt.rc('font', size=14)
@@ -225,6 +242,3 @@ print("\nApparition ratio for " + cards_to_analyze[3] + "\n" + str(apparition_ra
 #     plt.title(card_name + " % by cluster")
 #     plt.savefig('graphs/' + card_name + '_distribution')
 #     show()
-
-with open(FORMAT + '.json', 'w') as outfile:
-    json.dump(format_json, outfile, indent=4)

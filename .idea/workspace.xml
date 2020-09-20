@@ -2,170 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ee089c-7787-4706-b16e-3f7ed5ad6f52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/decks_json/decks-standard.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decks_json/old json/decks-brawl.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decks_json/old json/decks-commander.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decks_json/old json/decks-frontier.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decks_json/old json/decks-legacy.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decks_json/old json/decks-modern.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decks_json/old json/decks-pauper.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decks_json/old json/decks-penny_dreadful.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legacy_decks/Bant Snow Control" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legacy_decks/Czech Pile and +1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legacy_decks/Death &amp; Taxes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modern.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modern_decks/5-Color Niv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modern_decks/Bant Tempo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modern_decks/Blue-Red Tempo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modern_decks/G_W Vizier Elves" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modern_decks/Sultai Urza" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modern_decks/Titan Shift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modern_decks/Traverse Shadow" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modern_decks/WURG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pauper_decks/AFFINITY Flingatog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pauper_decks/BOROS MONARCH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pauper_decks/ELVISH PRIDE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pauper_decks/Mono-Red Burn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pauper_decks/Rakdos Midrange" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pauper_decks/Snow Auras" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pauper_decks/TimeMage" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pauper_decks/UB EXHUME" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pauper_decks/UR SKRED" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pauper_decks/URZATRON" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brawl_decks/Unknown" beforeDir="false" afterPath="$PROJECT_DIR$/brawl_decks/Unknown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decks_json/decks-brawl.json" beforeDir="false" afterPath="$PROJECT_DIR$/decks_json/decks-brawl.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decks_json/decks-frontier.json" beforeDir="false" afterPath="$PROJECT_DIR$/decks_json/decks-frontier.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decks_json/decks-legacy.json" beforeDir="false" afterPath="$PROJECT_DIR$/decks_json/decks-legacy.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decks_json/decks-modern.json" beforeDir="false" afterPath="$PROJECT_DIR$/decks_json/decks-modern.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decks_json/decks-pauper.json" beforeDir="false" afterPath="$PROJECT_DIR$/decks_json/decks-pauper.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decks_json/decks-penny_dreadful.json" beforeDir="false" afterPath="$PROJECT_DIR$/decks_json/decks-penny_dreadful.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/# Decks by Cluster.png" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/# Decks by Cluster.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/Lightning Bolt_distribution.png" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/Lightning Bolt_distribution.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/Mutavault_distribution.png" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/Mutavault_distribution.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/Path to Exile_distribution.png" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/Path to Exile_distribution.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/12-Post" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/12-Post" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/4C Loam" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/4C Loam" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Ad Nauseam Tendrils" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Ad Nauseam Tendrils" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Aluren" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Aluren" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Artifact Echo" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Artifact Echo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Bant Snowko" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Bant Snowko" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Bant Stoneblade" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Bant Stoneblade" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Blue-Black Death's Shadow" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Blue-Black Death's Shadow" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Blue-Red Delver" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Blue-Red Delver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Bomberman" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Bomberman" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Burn" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Burn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Death and Taxes" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Death and Taxes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Dredge" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Dredge" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Eldrazi Post" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Eldrazi Post" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Eldrazi Stompy" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Eldrazi Stompy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Elves" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Elves" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Esper Hatebears" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Esper Hatebears" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Golgari Depths" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Golgari Depths" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Grixis Control" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Grixis Control" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Grixis Dreadhorde Delver" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Grixis Dreadhorde Delver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Hogaak" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Hogaak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Hogaak Depths" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Hogaak Depths" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Humans" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Humans" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Infect" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Infect" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Jeskai Mentor" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Jeskai Mentor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Jeskai Stoneblade" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Jeskai Stoneblade" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Lands" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Lands" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Manaless Dredge" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Manaless Dredge" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Maverick" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Maverick" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Merfolk" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Merfolk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Miracles" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Miracles" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Mono-Red Eldrazi" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Mono-Red Eldrazi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Mono-Red Prison" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Mono-Red Prison" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Omni-Show" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Omni-Show" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Omni-Tell" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Omni-Tell" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/R" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/R" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Rakdos Reanimator" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Rakdos Reanimator" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Selesnya Depths" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Selesnya Depths" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Sneak and Show" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Sneak and Show" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Sultai Delver" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Sultai Delver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Turbo Depths" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Turbo Depths" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/U" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/U" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/UBG" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/UBG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/UBRG" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/UBRG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/UR" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/UR" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/URG" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/URG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/U_W Stoneblade" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/U_W Stoneblade" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/Untitled" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/Untitled" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/WBG" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/WBG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/WBRG" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/WBRG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/WU" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/WU" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/WUB" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/WUB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy_decks/WUG" beforeDir="false" afterPath="$PROJECT_DIR$/legacy_decks/WUG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/metagame.py" beforeDir="false" afterPath="$PROJECT_DIR$/metagame.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Amulet Titan" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Amulet Titan" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Azorius Control" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Azorius Control" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Bant Eldrazi" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Bant Eldrazi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Bant Snow Control" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Bant Snow Control" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Bant Spirits" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Bant Spirits" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Bant Stoneblade" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Bant Stoneblade" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Black-Green Yawg Chord" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Black-Green Yawg Chord" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Blue-Green Eldrazi" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Blue-Green Eldrazi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Blue-Green(-Black) Artifacts" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Blue-Green(-Black) Artifacts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Blue-Red Control" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Blue-Red Control" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Blue-White Control" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Blue-White Control" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Burn" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Burn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/CrabVine" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/CrabVine" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Death&amp;amp;Taxes" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Death&amp;amp;Taxes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Devoted Devastation" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Devoted Devastation" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Dredge" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Dredge" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Eldrazi &amp; Taxes" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Eldrazi &amp; Taxes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Eldrazi Tron" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Eldrazi Tron" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Emry Ascendancy" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Emry Ascendancy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Four-Color Whirza" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Four-Color Whirza" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Gifts Storm" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Gifts Storm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Goblins" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Goblins" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Grixis Death's Shadow" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Grixis Death's Shadow" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Hardened Scales" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Hardened Scales" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Humans" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Humans" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Infect" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Infect" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Izzet Delver" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Izzet Delver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Jund" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Jund" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Mardu Pyromancer" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Mardu Pyromancer" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Mardu Shadow" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Mardu Shadow" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Mono-Blue Tron" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Mono-Blue Tron" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Mono-Red Aggro" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Mono-Red Aggro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Mono-Red Blitz" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Mono-Red Blitz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Mono-Red Prowess" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Mono-Red Prowess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Naya Zoo" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Naya Zoo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/NeoBrand" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/NeoBrand" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/R" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/R" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/RG" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/RG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Red-Green Eldrazi" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Red-Green Eldrazi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Sultai Death's Shadow" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Sultai Death's Shadow" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Temur Snow" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Temur Snow" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Temur Snow Control" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Temur Snow Control" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/TitanShift" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/TitanShift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Tron" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Tron" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/UBG" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/UBG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/UBRG" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/UBRG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/UG" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/UG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/UR" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/UR" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/URG" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/URG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/Untitled" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/Untitled" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/W" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/W" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/WBG" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/WBG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/WBRG" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/WBRG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/WRG" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/WRG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/WUB" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/WUB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/WUBG" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/WUBG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/WUBRG" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/WUBRG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern_decks/WUG" beforeDir="false" afterPath="$PROJECT_DIR$/modern_decks/WUG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pauper_decks/Boros Bully" beforeDir="false" afterPath="$PROJECT_DIR$/pauper_decks/Boros Bully" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pauper_decks/Boros Weenie" beforeDir="false" afterPath="$PROJECT_DIR$/pauper_decks/Boros Weenie" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pauper_decks/G" beforeDir="false" afterPath="$PROJECT_DIR$/pauper_decks/G" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pauper_decks/Mono-Black Control" beforeDir="false" afterPath="$PROJECT_DIR$/pauper_decks/Mono-Black Control" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pauper_decks/Mono-Blue Delver" beforeDir="false" afterPath="$PROJECT_DIR$/pauper_decks/Mono-Blue Delver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pauper_decks/Mono-Green Stompy" beforeDir="false" afterPath="$PROJECT_DIR$/pauper_decks/Mono-Green Stompy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pauper_decks/Project X" beforeDir="false" afterPath="$PROJECT_DIR$/pauper_decks/Project X" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pauper_decks/Red Deck Wins" beforeDir="false" afterPath="$PROJECT_DIR$/pauper_decks/Red Deck Wins" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pauper_decks/UR" beforeDir="false" afterPath="$PROJECT_DIR$/pauper_decks/UR" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pauper_decks/WUR" beforeDir="false" afterPath="$PROJECT_DIR$/pauper_decks/WUR" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modern.json" beforeDir="false" afterPath="$PROJECT_DIR$/modern.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -276,7 +115,7 @@
       <workItem from="1599753816904" duration="11638000" />
       <workItem from="1599848121985" duration="1319000" />
       <workItem from="1600291206886" duration="1000" />
-      <workItem from="1600568528326" duration="10682000" />
+      <workItem from="1600568528326" duration="13103000" />
     </task>
     <servers />
   </component>
@@ -295,50 +134,50 @@
       <screen x="76" y="0" width="1460" height="864" />
     </state>
     <state x="552" y="222" key="#com.intellij.fileTypes.FileTypeChooser/76.0.1460.864@76.0.1460.864" timestamp="1599712554383" />
-    <state width="1417" height="104" key="GridCell.Tab.0.bottom" timestamp="1600627756853">
+    <state width="1417" height="214" key="GridCell.Tab.0.bottom" timestamp="1600629941034">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
     <state width="1161" height="38" key="GridCell.Tab.0.bottom/76.0.1204.720@76.0.1204.720" timestamp="1599765579753" />
-    <state width="1417" height="104" key="GridCell.Tab.0.bottom/76.0.1460.864@76.0.1460.864" timestamp="1600627756853" />
-    <state width="1417" height="104" key="GridCell.Tab.0.center" timestamp="1600627756853">
+    <state width="1417" height="214" key="GridCell.Tab.0.bottom/76.0.1460.864@76.0.1460.864" timestamp="1600629941034" />
+    <state width="1417" height="214" key="GridCell.Tab.0.center" timestamp="1600629941034">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
     <state width="1161" height="38" key="GridCell.Tab.0.center/76.0.1204.720@76.0.1204.720" timestamp="1599765579752" />
-    <state width="1417" height="104" key="GridCell.Tab.0.center/76.0.1460.864@76.0.1460.864" timestamp="1600627756853" />
-    <state width="1417" height="104" key="GridCell.Tab.0.left" timestamp="1600627756852">
+    <state width="1417" height="214" key="GridCell.Tab.0.center/76.0.1460.864@76.0.1460.864" timestamp="1600629941034" />
+    <state width="1417" height="214" key="GridCell.Tab.0.left" timestamp="1600629941034">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
     <state width="1161" height="38" key="GridCell.Tab.0.left/76.0.1204.720@76.0.1204.720" timestamp="1599765579752" />
-    <state width="1417" height="104" key="GridCell.Tab.0.left/76.0.1460.864@76.0.1460.864" timestamp="1600627756852" />
-    <state width="1417" height="104" key="GridCell.Tab.0.right" timestamp="1600627756853">
+    <state width="1417" height="214" key="GridCell.Tab.0.left/76.0.1460.864@76.0.1460.864" timestamp="1600629941034" />
+    <state width="1417" height="214" key="GridCell.Tab.0.right" timestamp="1600629941034">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
     <state width="1161" height="38" key="GridCell.Tab.0.right/76.0.1204.720@76.0.1204.720" timestamp="1599765579752" />
-    <state width="1417" height="104" key="GridCell.Tab.0.right/76.0.1460.864@76.0.1460.864" timestamp="1600627756853" />
-    <state width="1417" height="255" key="GridCell.Tab.1.bottom" timestamp="1599775048931">
+    <state width="1417" height="214" key="GridCell.Tab.0.right/76.0.1460.864@76.0.1460.864" timestamp="1600629941034" />
+    <state width="1417" height="255" key="GridCell.Tab.1.bottom" timestamp="1600629556832">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
-    <state width="1417" height="255" key="GridCell.Tab.1.bottom/76.0.1460.864@76.0.1460.864" timestamp="1599775048931" />
-    <state width="1417" height="255" key="GridCell.Tab.1.center" timestamp="1599775048930">
+    <state width="1417" height="255" key="GridCell.Tab.1.bottom/76.0.1460.864@76.0.1460.864" timestamp="1600629556832" />
+    <state width="1417" height="255" key="GridCell.Tab.1.center" timestamp="1600629556832">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
-    <state width="1417" height="255" key="GridCell.Tab.1.center/76.0.1460.864@76.0.1460.864" timestamp="1599775048930" />
-    <state width="1417" height="255" key="GridCell.Tab.1.left" timestamp="1599775048930">
+    <state width="1417" height="255" key="GridCell.Tab.1.center/76.0.1460.864@76.0.1460.864" timestamp="1600629556832" />
+    <state width="1417" height="255" key="GridCell.Tab.1.left" timestamp="1600629556832">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
-    <state width="1417" height="255" key="GridCell.Tab.1.left/76.0.1460.864@76.0.1460.864" timestamp="1599775048930" />
-    <state width="1417" height="255" key="GridCell.Tab.1.right" timestamp="1599775048930">
+    <state width="1417" height="255" key="GridCell.Tab.1.left/76.0.1460.864@76.0.1460.864" timestamp="1600629556832" />
+    <state width="1417" height="255" key="GridCell.Tab.1.right" timestamp="1600629556832">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
-    <state width="1417" height="255" key="GridCell.Tab.1.right/76.0.1460.864@76.0.1460.864" timestamp="1599775048930" />
-    <state x="357" y="239" width="629" height="568" key="find.popup" timestamp="1599692283545">
+    <state width="1417" height="255" key="GridCell.Tab.1.right/76.0.1460.864@76.0.1460.864" timestamp="1600629556832" />
+    <state x="357" y="226" width="759" height="638" key="find.popup" timestamp="1600628039576">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
-    <state x="357" y="239" width="629" height="568" key="find.popup/76.0.1460.864@76.0.1460.864" timestamp="1599692283545" />
+    <state x="357" y="226" width="759" height="638" key="find.popup/76.0.1460.864@76.0.1460.864" timestamp="1600628039576" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MtGRecommender_master$decks.coverage" NAME="decks Coverage Results" MODIFIED="1599754250851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MtGRecommender_master$metagame.coverage" NAME="metagame Coverage Results" MODIFIED="1600627756846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MtGRecommender_master$metagame.coverage" NAME="metagame Coverage Results" MODIFIED="1600629941028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MtGRecommender_master$format_decks.coverage" NAME="format_decks Coverage Results" MODIFIED="1600618188982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
