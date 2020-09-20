@@ -17553,101 +17553,133 @@
     "command": [],
     "main": [
       {
+        "name": "Thraben Inspector",
         "quantity": 4
       },
       {
+        "name": "Stoke the Flames",
         "quantity": 2
       },
       {
+        "name": "Spirebluff Canal",
         "quantity": 3
       },
       {
+        "name": "Spell Queller",
         "quantity": 3
       },
       {
+        "name": "Soulfire Grand Master",
         "quantity": 2
       },
       {
+        "name": "Smuggler's Copter",
         "quantity": 3
       },
       {
+        "name": "Shivan Reef",
         "quantity": 2
       },
       {
+        "name": "Selfless Spirit",
         "quantity": 2
       },
       {
+        "name": "Reflector Mage",
         "quantity": 4
       },
       {
+        "name": "Prairie Stream",
         "quantity": 1
       },
       {
+        "name": "Plains",
         "quantity": 2
       },
       {
+        "name": "Mantis Rider",
         "quantity": 4
       },
       {
+        "name": "Lightning Strike",
         "quantity": 4
       },
       {
+        "name": "Jeskai Charm",
         "quantity": 2
       },
       {
+        "name": "Island",
         "quantity": 2
       },
       {
+        "name": "Inspiring Vantage",
         "quantity": 4
       },
       {
+        "name": "Goblin Rabblemaster",
         "quantity": 3
       },
       {
+        "name": "Gideon, Ally of Zendikar",
         "quantity": 2
       },
       {
+        "name": "Flooded Strand",
         "quantity": 4
       },
       {
+        "name": "Chandra, Torch of Defiance",
         "quantity": 1
       },
       {
+        "name": "Battlefield Forge",
         "quantity": 4
       },
       {
+        "name": "Abrade",
         "quantity": 2
       }
     ],
     "sb": [
       {
+        "name": "Thalia, Heretic Cathar",
         "quantity": 1
       },
       {
+        "name": "Sorcerous Spyglass",
         "quantity": 2
       },
       {
+        "name": "Radiant Flames",
         "quantity": 2
       },
       {
+        "name": "Negate",
         "quantity": 2
       },
       {
+        "name": "Mastery of the Unseen",
         "quantity": 1
       },
       {
+        "name": "Glorybringer",
         "quantity": 2
       },
       {
+        "name": "Disdainful Stroke",
         "quantity": 1
       },
       {
+        "name": "Declaration in Stone",
         "quantity": 1
       },
       {
+        "name": "Crook of Condemnation",
         "quantity": 1
       },
       {
+        "name": "Arashin Cleric",
         "quantity": 2
       }
     ]
@@ -17658,89 +17690,117 @@
     "command": [],
     "main": [
       {
+        "name": "Wandering Fumarole",
         "quantity": 1
       },
       {
+        "name": "Tomb of the Spirit Dragon",
         "quantity": 1
       },
       {
+        "name": "Thopter Engineer",
         "quantity": 2
       },
       {
+        "name": "Spirebluff Canal",
         "quantity": 4
       },
       {
+        "name": "Spire of Industry",
         "quantity": 4
       },
       {
+        "name": "Smuggler's Copter",
         "quantity": 4
       },
       {
+        "name": "Shrapnel Blast",
         "quantity": 4
       },
       {
+        "name": "Shivan Reef",
         "quantity": 4
       },
       {
+        "name": "Pia and Kiran Nalaar",
         "quantity": 2
       },
       {
+        "name": "Ornithopter",
         "quantity": 4
       },
       {
+        "name": "Mountain",
         "quantity": 4
       },
       {
+        "name": "Metallic Rebuke",
         "quantity": 1
       },
       {
+        "name": "Lightning Strike",
         "quantity": 4
       },
       {
+        "name": "Island",
         "quantity": 1
       },
       {
+        "name": "Hangarback Walker",
         "quantity": 4
       },
       {
+        "name": "Ghostfire Blade",
         "quantity": 4
       },
       {
+        "name": "Ensoul Artifact",
         "quantity": 4
       },
       {
+        "name": "Darksteel Citadel",
         "quantity": 4
       },
       {
+        "name": "Bomat Courier",
         "quantity": 4
       }
     ],
     "sb": [
       {
+        "name": "Roast",
         "quantity": 2
       },
       {
+        "name": "Rending Volley",
         "quantity": 2
       },
       {
+        "name": "Negate",
         "quantity": 1
       },
       {
+        "name": "Metallic Rebuke",
         "quantity": 1
       },
       {
+        "name": "Magma Spray",
         "quantity": 2
       },
       {
+        "name": "Ghirapur Aether Grid",
         "quantity": 1
       },
       {
+        "name": "Dispel",
         "quantity": 2
       },
       {
+        "name": "Disdainful Stroke",
         "quantity": 2
       },
       {
+        "name": "Abrade",
         "quantity": 2
       }
     ]
@@ -17751,107 +17811,141 @@
     "command": [],
     "main": [
       {
+        "name": "Wind-Scarred Crag",
         "quantity": 2
       },
       {
+        "name": "Thraben Inspector",
         "quantity": 2
       },
       {
+        "name": "Sweltering Suns",
         "quantity": 3
       },
       {
+        "name": "Shefet Dunes",
         "quantity": 2
       },
       {
+        "name": "Settle the Wreckage",
         "quantity": 2
       },
       {
+        "name": "Scavenger Grounds",
         "quantity": 1
       },
       {
+        "name": "Sarkhan, the Dragonspeaker",
         "quantity": 1
       },
       {
+        "name": "Ramunap Ruins",
         "quantity": 2
       },
       {
+        "name": "Plains",
         "quantity": 4
       },
       {
+        "name": "Needle Spires",
         "quantity": 3
       },
       {
+        "name": "Nahiri, the Harbinger",
         "quantity": 2
       },
       {
+        "name": "Mountain",
         "quantity": 3
       },
       {
+        "name": "Linvala, the Preserver",
         "quantity": 1
       },
       {
+        "name": "Lightning Strike",
         "quantity": 4
       },
       {
+        "name": "Inspiring Vantage",
         "quantity": 4
       },
       {
+        "name": "Huatli, Warrior Poet",
         "quantity": 1
       },
       {
+        "name": "Gideon, Ally of Zendikar",
         "quantity": 1
       },
       {
+        "name": "Gideon of the Trials",
         "quantity": 4
       },
       {
+        "name": "Fumigate",
         "quantity": 2
       },
       {
+        "name": "Chandra, Torch of Defiance",
         "quantity": 2
       },
       {
+        "name": "Chandra, Flamecaller",
         "quantity": 1
       },
       {
+        "name": "Cast Out",
         "quantity": 3
       },
       {
+        "name": "Blessed Alliance",
         "quantity": 3
       },
       {
+        "name": "Battlefield Forge",
         "quantity": 4
       },
       {
+        "name": "Abrade",
         "quantity": 3
       }
     ],
     "sb": [
       {
+        "name": "Tormod's Crypt",
         "quantity": 1
       },
       {
+        "name": "Soulfire Grand Master",
         "quantity": 2
       },
       {
+        "name": "Sorcerous Spyglass",
         "quantity": 1
       },
       {
+        "name": "Sin Prodder",
         "quantity": 3
       },
       {
+        "name": "Settle the Wreckage",
         "quantity": 1
       },
       {
+        "name": "Secure the Wastes",
         "quantity": 2
       },
       {
+        "name": "Hallowed Moonlight",
         "quantity": 1
       },
       {
+        "name": "Gideon's Intervention",
         "quantity": 1
       },
       {
+        "name": "Authority of the Consuls",
         "quantity": 3
       }
     ]
@@ -17862,86 +17956,113 @@
     "command": [],
     "main": [
       {
+        "name": "Spirebluff Canal",
         "quantity": 4
       },
       {
+        "name": "Spell Queller",
         "quantity": 4
       },
       {
+        "name": "Spell Pierce",
         "quantity": 2
       },
       {
+        "name": "Smuggler's Copter",
         "quantity": 4
       },
       {
+        "name": "Siren Stormtamer",
         "quantity": 4
       },
       {
+        "name": "Shivan Reef",
         "quantity": 4
       },
       {
+        "name": "Selfless Spirit",
         "quantity": 4
       },
       {
+        "name": "Reflector Mage",
         "quantity": 4
       },
       {
+        "name": "Prairie Stream",
         "quantity": 1
       },
       {
+        "name": "Plains",
         "quantity": 2
       },
       {
+        "name": "Mausoleum Wanderer",
         "quantity": 4
       },
       {
+        "name": "Mantis Rider",
         "quantity": 4
       },
       {
+        "name": "Lightning Strike",
         "quantity": 4
       },
       {
+        "name": "Jeskai Charm",
         "quantity": 4
       },
       {
+        "name": "Island",
         "quantity": 3
       },
       {
+        "name": "Inspiring Vantage",
         "quantity": 4
       },
       {
+        "name": "Flooded Strand",
         "quantity": 4
       }
     ],
     "sb": [
       {
+        "name": "Valorous Stance",
         "quantity": 1
       },
       {
+        "name": "Spell Pierce",
         "quantity": 2
       },
       {
+        "name": "Rending Volley",
         "quantity": 2
       },
       {
+        "name": "Gideon, Ally of Zendikar",
         "quantity": 2
       },
       {
+        "name": "Dusk // Dawn",
         "quantity": 1
       },
       {
+        "name": "Dispel",
         "quantity": 2
       },
       {
+        "name": "Declaration in Stone",
         "quantity": 1
       },
       {
+        "name": "Authority of the Consuls",
         "quantity": 1
       },
       {
+        "name": "Arashin Cleric",
         "quantity": 2
       },
       {
+        "name": "Abrade",
         "quantity": 1
       }
     ]
@@ -17952,89 +18073,117 @@
     "command": [],
     "main": [
       {
+        "name": "Zulaport Cutthroat",
         "quantity": 3
       },
       {
+        "name": "Windswept Heath",
         "quantity": 4
       },
       {
+        "name": "Swamp",
         "quantity": 1
       },
       {
+        "name": "Sunken Hollow",
         "quantity": 1
       },
       {
+        "name": "Spell Queller",
         "quantity": 4
       },
       {
+        "name": "Satyr Wayfinder",
         "quantity": 4
       },
       {
+        "name": "Renegade Rallier",
         "quantity": 3
       },
       {
+        "name": "Reflector Mage",
         "quantity": 3
       },
       {
+        "name": "Rally the Ancestors",
         "quantity": 3
       },
       {
+        "name": "Prairie Stream",
         "quantity": 2
       },
       {
+        "name": "Polluted Delta",
         "quantity": 4
       },
       {
+        "name": "Plains",
         "quantity": 1
       },
       {
+        "name": "Nantuko Husk",
         "quantity": 4
       },
       {
+        "name": "Kitesail Freebooter",
         "quantity": 2
       },
       {
+        "name": "Jace, Vryn's Prodigy // Jace, Telepath Unbound",
         "quantity": 4
       },
       {
+        "name": "Island",
         "quantity": 1
       },
       {
+        "name": "Forest",
         "quantity": 1
       },
       {
+        "name": "Flooded Strand",
         "quantity": 4
       },
       {
+        "name": "Dig Through Time",
         "quantity": 2
       },
       {
+        "name": "Collected Company",
         "quantity": 4
       },
       {
+        "name": "Canopy Vista",
         "quantity": 1
       },
       {
+        "name": "Blooming Marsh",
         "quantity": 4
       }
     ],
     "sb": [
       {
+        "name": "Tireless Tracker",
         "quantity": 3
       },
       {
+        "name": "Kitesail Freebooter",
         "quantity": 2
       },
       {
+        "name": "Fatal Push",
         "quantity": 3
       },
       {
+        "name": "Disdainful Stroke",
         "quantity": 2
       },
       {
+        "name": "Archangel Avacyn // Avacyn, the Purifier",
         "quantity": 2
       },
       {
+        "name": "Arashin Cleric",
         "quantity": 3
       }
     ]
@@ -18045,104 +18194,137 @@
     "command": [],
     "main": [
       {
+        "name": "Torrential Gearhulk",
         "quantity": 2
       },
       {
+        "name": "Swamp",
         "quantity": 1
       },
       {
+        "name": "Sunken Hollow",
         "quantity": 2
       },
       {
+        "name": "Soulfire Grand Master",
         "quantity": 4
       },
       {
+        "name": "Smoldering Marsh",
         "quantity": 1
       },
       {
+        "name": "Shambling Vent",
         "quantity": 1
       },
       {
+        "name": "Prairie Stream",
         "quantity": 1
       },
       {
+        "name": "Polluted Delta",
         "quantity": 4
       },
       {
+        "name": "Plains",
         "quantity": 1
       },
       {
+        "name": "Painful Truths",
         "quantity": 1
       },
       {
+        "name": "Mystic Monastery",
         "quantity": 1
       },
       {
+        "name": "Mountain",
         "quantity": 2
       },
       {
+        "name": "Kozilek's Return",
         "quantity": 2
       },
       {
+        "name": "Kolaghan's Command",
         "quantity": 4
       },
       {
+        "name": "Jace, Vryn's Prodigy // Jace, Telepath Unbound",
         "quantity": 4
       },
       {
+        "name": "Island",
         "quantity": 1
       },
       {
+        "name": "Glacial Fortress",
         "quantity": 1
       },
       {
+        "name": "Flooded Strand",
         "quantity": 4
       },
       {
+        "name": "Fiery Impulse",
         "quantity": 3
       },
       {
+        "name": "Fatal Push",
         "quantity": 4
       },
       {
+        "name": "Dragonskull Summit",
         "quantity": 2
       },
       {
+        "name": "Dig Through Time",
         "quantity": 4
       },
       {
+        "name": "Crackling Doom",
         "quantity": 4
       },
       {
+        "name": "Claim // Fame",
         "quantity": 1
       },
       {
+        "name": "Bloodstained Mire",
         "quantity": 4
       },
       {
+        "name": "Abrade",
         "quantity": 1
       }
     ],
     "sb": [
       {
+        "name": "Search for Azcanta // Azcanta, the Sunken Ruin",
         "quantity": 1
       },
       {
+        "name": "Negate",
         "quantity": 2
       },
       {
+        "name": "Kozilek's Return",
         "quantity": 2
       },
       {
+        "name": "Gifted Aetherborn",
         "quantity": 3
       },
       {
+        "name": "Duress",
         "quantity": 3
       },
       {
+        "name": "Disdainful Stroke",
         "quantity": 3
       },
       {
+        "name": "Claim // Fame",
         "quantity": 1
       }
     ]
@@ -18153,74 +18335,97 @@
     "command": [],
     "main": [
       {
+        "name": "Whirler Virtuoso",
         "quantity": 4
       },
       {
+        "name": "Supreme Will",
         "quantity": 3
       },
       {
+        "name": "Spirebluff Canal",
         "quantity": 3
       },
       {
+        "name": "Smuggler's Copter",
         "quantity": 4
       },
       {
+        "name": "Servant of the Conduit",
         "quantity": 4
       },
       {
+        "name": "Rootbound Crag",
         "quantity": 2
       },
       {
+        "name": "Rogue Refiner",
         "quantity": 4
       },
       {
+        "name": "Mountain",
         "quantity": 3
       },
       {
+        "name": "Lightning Strike",
         "quantity": 3
       },
       {
+        "name": "Island",
         "quantity": 1
       },
       {
+        "name": "Harnessed Lightning",
         "quantity": 4
       },
       {
+        "name": "Glorybringer",
         "quantity": 3
       },
       {
+        "name": "Forest",
         "quantity": 5
       },
       {
+        "name": "Chandra, Torch of Defiance",
         "quantity": 1
       },
       {
+        "name": "Bristling Hydra",
         "quantity": 4
       },
       {
+        "name": "Botanical Sanctum",
         "quantity": 4
       },
       {
+        "name": "Attune with Aether",
         "quantity": 4
       },
       {
+        "name": "Aether Hub",
         "quantity": 4
       }
     ],
     "sb": [
       {
+        "name": "Rending Volley",
         "quantity": 2
       },
       {
+        "name": "Radiant Flames",
         "quantity": 3
       },
       {
+        "name": "Negate",
         "quantity": 4
       },
       {
+        "name": "Disdainful Stroke",
         "quantity": 3
       },
       {
+        "name": "Abrade",
         "quantity": 3
       }
     ]
@@ -18231,77 +18436,101 @@
     "command": [],
     "main": [
       {
+        "name": "Zurgo Bellstriker",
         "quantity": 2
       },
       {
+        "name": "Wild Slash",
         "quantity": 3
       },
       {
+        "name": "Sunscorched Desert",
         "quantity": 4
       },
       {
+        "name": "Smuggler's Copter",
         "quantity": 4
       },
       {
+        "name": "Scavenger Grounds",
         "quantity": 1
       },
       {
+        "name": "Ramunap Ruins",
         "quantity": 4
       },
       {
+        "name": "Mountain",
         "quantity": 15
       },
       {
+        "name": "Monastery Swiftspear",
         "quantity": 4
       },
       {
+        "name": "Lightning Strike",
         "quantity": 1
       },
       {
+        "name": "Kari Zev, Skyship Raider",
         "quantity": 2
       },
       {
+        "name": "Hazoret the Fervent",
         "quantity": 4
       },
       {
+        "name": "Harsh Mentor",
         "quantity": 4
       },
       {
+        "name": "Goblin Rabblemaster",
         "quantity": 3
       },
       {
+        "name": "Chandra, Torch of Defiance",
         "quantity": 1
       },
       {
+        "name": "Bomat Courier",
         "quantity": 4
       },
       {
+        "name": "Abrade",
         "quantity": 4
       }
     ],
     "sb": [
       {
+        "name": "Savage Alliance",
         "quantity": 1
       },
       {
+        "name": "Roast",
         "quantity": 2
       },
       {
+        "name": "Rending Volley",
         "quantity": 2
       },
       {
+        "name": "Rampaging Ferocidon",
         "quantity": 4
       },
       {
+        "name": "Fiery Impulse",
         "quantity": 2
       },
       {
+        "name": "Chandra, Torch of Defiance",
         "quantity": 1
       },
       {
+        "name": "Chandra, Pyromaster",
         "quantity": 1
       },
       {
+        "name": "Aethersphere Harvester",
         "quantity": 2
       }
     ]
@@ -22476,98 +22705,129 @@
     "command": [],
     "main": [
       {
+        "name": "Torrential Gearhulk",
         "quantity": 2
       },
       {
+        "name": "Swamp",
         "quantity": 1
       },
       {
+        "name": "Sunken Hollow",
         "quantity": 2
       },
       {
+        "name": "Soulfire Grand Master",
         "quantity": 4
       },
       {
+        "name": "Smoldering Marsh",
         "quantity": 1
       },
       {
+        "name": "Shambling Vent",
         "quantity": 1
       },
       {
+        "name": "Prairie Stream",
         "quantity": 1
       },
       {
+        "name": "Polluted Delta",
         "quantity": 4
       },
       {
+        "name": "Plains",
         "quantity": 1
       },
       {
+        "name": "Painful Truths",
         "quantity": 1
       },
       {
+        "name": "Mystic Monastery",
         "quantity": 1
       },
       {
+        "name": "Mountain",
         "quantity": 2
       },
       {
+        "name": "Kozilek's Return",
         "quantity": 2
       },
       {
+        "name": "Kolaghan's Command",
         "quantity": 4
       },
       {
+        "name": "Jace, Vryn's Prodigy // Jace, Telepath Unbound",
         "quantity": 4
       },
       {
+        "name": "Island",
         "quantity": 1
       },
       {
+        "name": "Glacial Fortress",
         "quantity": 1
       },
       {
+        "name": "Flooded Strand",
         "quantity": 4
       },
       {
+        "name": "Fiery Impulse",
         "quantity": 4
       },
       {
+        "name": "Fatal Push",
         "quantity": 4
       },
       {
+        "name": "Dragonskull Summit",
         "quantity": 2
       },
       {
+        "name": "Dig Through Time",
         "quantity": 4
       },
       {
+        "name": "Crackling Doom",
         "quantity": 4
       },
       {
+        "name": "Bloodstained Mire",
         "quantity": 4
       }
     ],
     "sb": [
       {
+        "name": "Search for Azcanta // Azcanta, the Sunken Ruin",
         "quantity": 1
       },
       {
+        "name": "Painful Truths",
         "quantity": 1
       },
       {
+        "name": "Kozilek's Return",
         "quantity": 2
       },
       {
+        "name": "Gifted Aetherborn",
         "quantity": 3
       },
       {
+        "name": "Duress",
         "quantity": 3
       },
       {
+        "name": "Doomfall",
         "quantity": 1
       },
       {
+        "name": "Disdainful Stroke",
         "quantity": 3
       }
     ]
@@ -22578,83 +22838,109 @@
     "command": [],
     "main": [
       {
+        "name": "Zulaport Cutthroat",
         "quantity": 4
       },
       {
+        "name": "Windswept Heath",
         "quantity": 4
       },
       {
+        "name": "Swamp",
         "quantity": 1
       },
       {
+        "name": "Sunken Hollow",
         "quantity": 1
       },
       {
+        "name": "Sidisi's Faithful",
         "quantity": 2
       },
       {
+        "name": "Satyr Wayfinder",
         "quantity": 4
       },
       {
+        "name": "Renegade Rallier",
         "quantity": 4
       },
       {
+        "name": "Reflector Mage",
         "quantity": 4
       },
       {
+        "name": "Rally the Ancestors",
         "quantity": 4
       },
       {
+        "name": "Prairie Stream",
         "quantity": 1
       },
       {
+        "name": "Polluted Delta",
         "quantity": 4
       },
       {
+        "name": "Plains",
         "quantity": 2
       },
       {
+        "name": "Nantuko Husk",
         "quantity": 4
       },
       {
+        "name": "Liliana, Heretical Healer // Liliana, Defiant Necromancer",
         "quantity": 1
       },
       {
+        "name": "Jace, Vryn's Prodigy // Jace, Telepath Unbound",
         "quantity": 4
       },
       {
+        "name": "Island",
         "quantity": 1
       },
       {
+        "name": "Grim Haruspex",
         "quantity": 1
       },
       {
+        "name": "Forest",
         "quantity": 1
       },
       {
+        "name": "Flooded Strand",
         "quantity": 4
       },
       {
+        "name": "Collected Company",
         "quantity": 4
       },
       {
+        "name": "Canopy Vista",
         "quantity": 1
       },
       {
+        "name": "Blooming Marsh",
         "quantity": 4
       }
     ],
     "sb": [
       {
+        "name": "Tireless Tracker",
         "quantity": 2
       },
       {
+        "name": "Manglehorn",
         "quantity": 3
       },
       {
+        "name": "Kitesail Freebooter",
         "quantity": 4
       },
       {
+        "name": "Fatal Push",
         "quantity": 4
       }
     ]
@@ -22665,83 +22951,109 @@
     "command": [],
     "main": [
       {
+        "name": "Wild Slash",
         "quantity": 4
       },
       {
+        "name": "Treasure Cruise",
         "quantity": 4
       },
       {
+        "name": "Thermo-Alchemist",
         "quantity": 4
       },
       {
+        "name": "Sunken Hollow",
         "quantity": 1
       },
       {
+        "name": "Spirebluff Canal",
         "quantity": 4
       },
       {
+        "name": "Shivan Reef",
         "quantity": 4
       },
       {
+        "name": "Search for Azcanta // Azcanta, the Sunken Ruin",
         "quantity": 3
       },
       {
+        "name": "Ramunap Ruins",
         "quantity": 4
       },
       {
+        "name": "Negate",
         "quantity": 2
       },
       {
+        "name": "Mountain",
         "quantity": 5
       },
       {
+        "name": "Monastery Swiftspear",
         "quantity": 4
       },
       {
+        "name": "Lightning Strike",
         "quantity": 4
       },
       {
+        "name": "Incendiary Flow",
         "quantity": 3
       },
       {
+        "name": "Hungry Flames",
         "quantity": 3
       },
       {
+        "name": "Fevered Visions",
         "quantity": 3
       },
       {
+        "name": "Collective Defiance",
         "quantity": 4
       },
       {
+        "name": "Bloodstained Mire",
         "quantity": 4
       }
     ],
     "sb": [
       {
+        "name": "Weaver of Lightning",
         "quantity": 3
       },
       {
+        "name": "Vance's Blasting Cannons // Spitfire Bastion",
         "quantity": 2
       },
       {
+        "name": "Tormod's Crypt",
         "quantity": 2
       },
       {
+        "name": "Sorcerous Spyglass",
         "quantity": 1
       },
       {
+        "name": "Savage Alliance",
         "quantity": 1
       },
       {
+        "name": "Kari Zev's Expertise",
         "quantity": 1
       },
       {
+        "name": "Dispel",
         "quantity": 1
       },
       {
+        "name": "Disdainful Stroke",
         "quantity": 2
       },
       {
+        "name": "Chandra, Torch of Defiance",
         "quantity": 2
       }
     ]
@@ -22752,110 +23064,145 @@
     "command": [],
     "main": [
       {
+        "name": "Wooded Foothills",
         "quantity": 2
       },
       {
+        "name": "Windswept Heath",
         "quantity": 4
       },
       {
+        "name": "Tireless Tracker",
         "quantity": 2
       },
       {
+        "name": "Thalia, Heretic Cathar",
         "quantity": 2
       },
       {
+        "name": "Sylvan Advocate",
         "quantity": 4
       },
       {
+        "name": "Servant of the Conduit",
         "quantity": 4
       },
       {
+        "name": "Selfless Spirit",
         "quantity": 1
       },
       {
+        "name": "Rogue Refiner",
         "quantity": 3
       },
       {
+        "name": "Rhonas the Indomitable",
         "quantity": 1
       },
       {
+        "name": "Renegade Rallier",
         "quantity": 2
       },
       {
+        "name": "Reflector Mage",
         "quantity": 4
       },
       {
+        "name": "Ramunap Excavator",
         "quantity": 1
       },
       {
+        "name": "Prairie Stream",
         "quantity": 2
       },
       {
+        "name": "Plains",
         "quantity": 2
       },
       {
+        "name": "Ojutai's Command",
         "quantity": 1
       },
       {
+        "name": "Nissa, Vastwood Seer // Nissa, Sage Animist",
         "quantity": 1
       },
       {
+        "name": "Lumbering Falls",
         "quantity": 3
       },
       {
+        "name": "Jace, Vryn's Prodigy // Jace, Telepath Unbound",
         "quantity": 1
       },
       {
+        "name": "Island",
         "quantity": 1
       },
       {
+        "name": "Forest",
         "quantity": 3
       },
       {
+        "name": "Flooded Strand",
         "quantity": 4
       },
       {
+        "name": "Duskwatch Recruiter // Krallenhorde Howler",
         "quantity": 1
       },
       {
+        "name": "Dromoka's Command",
         "quantity": 3
       },
       {
+        "name": "Deathgorge Scavenger",
         "quantity": 1
       },
       {
+        "name": "Collected Company",
         "quantity": 4
       },
       {
+        "name": "Chord of Calling",
         "quantity": 1
       },
       {
+        "name": "Canopy Vista",
         "quantity": 2
       }
     ],
     "sb": [
       {
+        "name": "Reclamation Sage",
         "quantity": 1
       },
       {
+        "name": "Negate",
         "quantity": 2
       },
       {
+        "name": "Mastery of the Unseen",
         "quantity": 2
       },
       {
+        "name": "Evolutionary Leap",
         "quantity": 1
       },
       {
+        "name": "Dispel",
         "quantity": 2
       },
       {
+        "name": "Disdainful Stroke",
         "quantity": 2
       },
       {
+        "name": "Arashin Cleric",
         "quantity": 3
       },
       {
+        "name": "Aethersphere Harvester",
         "quantity": 2
       }
     ]
@@ -22866,92 +23213,121 @@
     "command": [],
     "main": [
       {
+        "name": "Zulaport Cutthroat",
         "quantity": 4
       },
       {
+        "name": "Windswept Heath",
         "quantity": 4
       },
       {
+        "name": "Swamp",
         "quantity": 1
       },
       {
+        "name": "Sunken Hollow",
         "quantity": 2
       },
       {
+        "name": "Spell Queller",
         "quantity": 3
       },
       {
+        "name": "Satyr Wayfinder",
         "quantity": 3
       },
       {
+        "name": "Renegade Rallier",
         "quantity": 3
       },
       {
+        "name": "Reflector Mage",
         "quantity": 4
       },
       {
+        "name": "Rally the Ancestors",
         "quantity": 4
       },
       {
+        "name": "Prairie Stream",
         "quantity": 1
       },
       {
+        "name": "Polluted Delta",
         "quantity": 4
       },
       {
+        "name": "Plains",
         "quantity": 1
       },
       {
+        "name": "Nantuko Husk",
         "quantity": 4
       },
       {
+        "name": "Jace, Vryn's Prodigy // Jace, Telepath Unbound",
         "quantity": 4
       },
       {
+        "name": "Island",
         "quantity": 1
       },
       {
+        "name": "Forest",
         "quantity": 1
       },
       {
+        "name": "Flooded Strand",
         "quantity": 4
       },
       {
+        "name": "Evolving Wilds",
         "quantity": 2
       },
       {
+        "name": "Elvish Visionary",
         "quantity": 2
       },
       {
+        "name": "Collected Company",
         "quantity": 4
       },
       {
+        "name": "Catacomb Sifter",
         "quantity": 2
       },
       {
+        "name": "Canopy Vista",
         "quantity": 2
       }
     ],
     "sb": [
       {
+        "name": "Tireless Tracker",
         "quantity": 3
       },
       {
+        "name": "Minister of Pain",
         "quantity": 1
       },
       {
+        "name": "Manglehorn",
         "quantity": 2
       },
       {
+        "name": "Kitesail Freebooter",
         "quantity": 2
       },
       {
+        "name": "Fatal Push",
         "quantity": 3
       },
       {
+        "name": "Dispel",
         "quantity": 2
       },
       {
+        "name": "Arashin Cleric",
         "quantity": 2
       }
     ]
@@ -22962,86 +23338,113 @@
     "command": [],
     "main": [
       {
+        "name": "Tomb of the Spirit Dragon",
         "quantity": 1
       },
       {
+        "name": "Thopter Engineer",
         "quantity": 2
       },
       {
+        "name": "Spirebluff Canal",
         "quantity": 4
       },
       {
+        "name": "Spire of Industry",
         "quantity": 4
       },
       {
+        "name": "Smuggler's Copter",
         "quantity": 4
       },
       {
+        "name": "Shrapnel Blast",
         "quantity": 4
       },
       {
+        "name": "Shivan Reef",
         "quantity": 4
       },
       {
+        "name": "Pia and Kiran Nalaar",
         "quantity": 2
       },
       {
+        "name": "Ornithopter",
         "quantity": 2
       },
       {
+        "name": "Mountain",
         "quantity": 4
       },
       {
+        "name": "Metallic Rebuke",
         "quantity": 2
       },
       {
+        "name": "Lightning Strike",
         "quantity": 4
       },
       {
+        "name": "Island",
         "quantity": 1
       },
       {
+        "name": "Hope of Ghirapur",
         "quantity": 2
       },
       {
+        "name": "Hangarback Walker",
         "quantity": 4
       },
       {
+        "name": "Ghostfire Blade",
         "quantity": 4
       },
       {
+        "name": "Ensoul Artifact",
         "quantity": 4
       },
       {
+        "name": "Darksteel Citadel",
         "quantity": 4
       },
       {
+        "name": "Bomat Courier",
         "quantity": 4
       }
     ],
     "sb": [
       {
+        "name": "Roast",
         "quantity": 2
       },
       {
+        "name": "Rending Volley",
         "quantity": 2
       },
       {
+        "name": "Metallic Rebuke",
         "quantity": 1
       },
       {
+        "name": "Magma Spray",
         "quantity": 3
       },
       {
+        "name": "Ghirapur Aether Grid",
         "quantity": 2
       },
       {
+        "name": "Disdainful Stroke",
         "quantity": 2
       },
       {
+        "name": "Ceremonious Rejection",
         "quantity": 1
       },
       {
+        "name": "Abrade",
         "quantity": 2
       }
     ]
@@ -23052,101 +23455,133 @@
     "command": [],
     "main": [
       {
+        "name": "Swamp",
         "quantity": 1
       },
       {
+        "name": "Supreme Will",
         "quantity": 4
       },
       {
+        "name": "Sunken Hollow",
         "quantity": 3
       },
       {
+        "name": "Spell Pierce",
         "quantity": 1
       },
       {
+        "name": "Smoldering Marsh",
         "quantity": 1
       },
       {
+        "name": "Settle the Wreckage",
         "quantity": 4
       },
       {
+        "name": "Prairie Stream",
         "quantity": 3
       },
       {
+        "name": "Polluted Delta",
         "quantity": 4
       },
       {
+        "name": "Plains",
         "quantity": 1
       },
       {
+        "name": "Negate",
         "quantity": 2
       },
       {
+        "name": "Languish",
         "quantity": 1
       },
       {
+        "name": "Island",
         "quantity": 1
       },
       {
+        "name": "Glacial Fortress",
         "quantity": 4
       },
       {
+        "name": "Fumigate",
         "quantity": 2
       },
       {
+        "name": "Flooded Strand",
         "quantity": 4
       },
       {
+        "name": "Fatal Push",
         "quantity": 3
       },
       {
+        "name": "Drowned Catacomb",
         "quantity": 4
       },
       {
+        "name": "Disallow",
         "quantity": 2
       },
       {
+        "name": "Dig Through Time",
         "quantity": 4
       },
       {
+        "name": "Censor",
         "quantity": 1
       },
       {
+        "name": "Cast Out",
         "quantity": 4
       },
       {
+        "name": "Blessed Alliance",
         "quantity": 3
       },
       {
+        "name": "Approach of the Second Sun",
         "quantity": 3
       }
     ],
     "sb": [
       {
+        "name": "Saheeli Rai",
         "quantity": 4
       },
       {
+        "name": "Lost Legacy",
         "quantity": 1
       },
       {
+        "name": "Flaying Tendrils",
         "quantity": 1
       },
       {
+        "name": "Felidar Guardian",
         "quantity": 4
       },
       {
+        "name": "Duress",
         "quantity": 1
       },
       {
+        "name": "Dispel",
         "quantity": 1
       },
       {
+        "name": "Disdainful Stroke",
         "quantity": 1
       },
       {
+        "name": "Crook of Condemnation",
         "quantity": 1
       },
       {
+        "name": "Authority of the Consuls",
         "quantity": 1
       }
     ]
@@ -23157,80 +23592,105 @@
     "command": [],
     "main": [
       {
+        "name": "Zurgo Bellstriker",
         "quantity": 2
       },
       {
+        "name": "Wild Slash",
         "quantity": 3
       },
       {
+        "name": "Sunscorched Desert",
         "quantity": 4
       },
       {
+        "name": "Stoke the Flames",
         "quantity": 3
       },
       {
+        "name": "Soul-Scar Mage",
         "quantity": 4
       },
       {
+        "name": "Smuggler's Copter",
         "quantity": 3
       },
       {
+        "name": "Reckless Bushwhacker",
         "quantity": 3
       },
       {
+        "name": "Ramunap Ruins",
         "quantity": 4
       },
       {
+        "name": "Mountain",
         "quantity": 13
       },
       {
+        "name": "Monastery Swiftspear",
         "quantity": 4
       },
       {
+        "name": "Lightning Strike",
         "quantity": 4
       },
       {
+        "name": "Hordeling Outburst",
         "quantity": 3
       },
       {
+        "name": "Dragon Fodder",
         "quantity": 4
       },
       {
+        "name": "Chandra, Torch of Defiance",
         "quantity": 1
       },
       {
+        "name": "Abrade",
         "quantity": 1
       },
       {
+        "name": "Abbot of Keral Keep",
         "quantity": 4
       }
     ],
     "sb": [
       {
+        "name": "Scavenger Grounds",
         "quantity": 1
       },
       {
+        "name": "Savage Alliance",
         "quantity": 1
       },
       {
+        "name": "Sarkhan, the Dragonspeaker",
         "quantity": 1
       },
       {
+        "name": "Roast",
         "quantity": 2
       },
       {
+        "name": "Rampaging Ferocidon",
         "quantity": 3
       },
       {
+        "name": "Outpost Siege",
         "quantity": 2
       },
       {
+        "name": "Chandra, Torch of Defiance",
         "quantity": 1
       },
       {
+        "name": "Blazing Volley",
         "quantity": 2
       },
       {
+        "name": "Abrade",
         "quantity": 2
       }
     ]
