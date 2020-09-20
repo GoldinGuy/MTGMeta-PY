@@ -5,14 +5,13 @@ from matplotlib.pyplot import pie, axis, show
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-decks = []
-unique_cards = []
+# CUSTOMIZABLE VARS
 NUM_CLUSTERS = 20
+NUM_TOP_VERS = 15
 FORMAT = 'modern'
 
-with open('decks_json/decks-' + FORMAT + '.json') as f:
-    decks_json = json.load(f)
-
+decks = []
+unique_cards = []
 # DEFINE OUTPUT JSON
 format_json = {
     'archetypes': [],
@@ -21,6 +20,9 @@ format_json = {
     'total_cards_parsed': 0,
     'unique_cards_parsed': 0
 }
+
+with open('decks_json/decks-' + FORMAT + '.json') as f:
+    decks_json = json.load(f)
 
 # CONVERT JSON FILE TO LIST W/ PROPER FORMATTING
 json_index = 0
@@ -53,11 +55,12 @@ for deck_card_names in [card_names(deck) for deck in decks]:
 
 format_json['total_cards_parsed'] = len(all_card_names)
 
-all_card_names_no_basics = len([i for i in all_card_names if i not in ['Island', 'Forest', 'Mountain', 'Swamp', 'Plains']])
+all_card_names_no_basics_len = len([i for i in all_card_names if i not in ['Island', 'Forest', 'Mountain', 'Swamp', 'Plains']])
 
 all_card_names = set(all_card_names)
 format_json['unique_cards_parsed'] = len(all_card_names)
 all_card_names = list(all_card_names)
+all_card_names_no_basics = [i for i in all_card_names if i not in ['Island', 'Forest', 'Mountain', 'Swamp', 'Plains']]
 
 
 # K-MEANS CLUSTERING
@@ -118,7 +121,6 @@ for CLUSTER_ID in range(NUM_CLUSTERS):
     print("\n")
 
     instances = (CLUSTER_ID, len(decks_by_label(CLUSTER_ID)))[1]
-    print(instances)
 
     deck_archetype = {
         'archetype_name': cluster_name,
@@ -149,7 +151,7 @@ def distance(x, y):
 def closest_cards(a_card, b):
     this_card = apparition_ratio(a_card)[0]
     distances = []
-    for name in all_card_names:
+    for name in all_card_names_no_basics:
         dist = distance(apparition_ratio(name)[0], this_card)
         distances.append((name, dist))
     distances.sort(key=lambda x: x[1])
@@ -159,7 +161,7 @@ def closest_cards(a_card, b):
 
 def versatile_cards(k):
     variances = []
-    for name in all_card_names:
+    for name in all_card_names_no_basics:
         versatility = sum([1 if x > 0 else 0 for x in apparition_ratio(name)[0]])
         variances.append((name, versatility))
     variances.sort(key=lambda x: x[1], reverse=True)
@@ -168,7 +170,7 @@ def versatile_cards(k):
 
 unique_cards = sorted(unique_cards, key=lambda s: s[next(iter(s))], reverse=True)
 
-for card_dict in unique_cards[:20]:
+for card_dict in unique_cards[:NUM_TOP_VERS]:
     card_name = list(card_dict.keys())[0]
     quantity = list(card_dict.values())[0]
     top_card = {
@@ -176,30 +178,28 @@ for card_dict in unique_cards[:20]:
         # 'common_archetypes': common_decks,
         'cards_found_with': closest_cards(card_name, 8),
         'total_instances': quantity,
-        'percentage_of_total_cards': "{:.2%}".format(quantity / all_card_names_no_basics),
+        'percentage_of_total_cards': "{:.2%}".format(quantity / all_card_names_no_basics_len),
     }
 
     format_json['format_top_cards'].append(top_card)
 
 # DETERMINE VERSATILE CARDS
-for card in versatile_cards(20):
-    if card not in ['Island', 'Forest', 'Mountain', 'Swamp', 'Plains']:
-        apps = apparition_ratio(card)
+for card in versatile_cards(NUM_TOP_VERS):
+    apps = apparition_ratio(card)
+    common_decks = []
+    i = 0
+    while i < NUM_CLUSTERS:
+        if (apps[0][i] * 100) > 15:
+            common_decks.append(format_json['archetypes'][i]['archetype_name'])
+        i += 1
+    versatile_card = {
+        'card_name': card,
+        'common_archetypes': common_decks,
+        'cards_found_with': closest_cards(card, 8),
+        'total_instances': apps[1]
+    }
 
-        common_decks = []
-        i = 0
-        while i < NUM_CLUSTERS:
-            if (apps[0][i] * 100) > 15:
-                common_decks.append(format_json['archetypes'][i]['archetype_name'])
-            i += 1
-        versatile_card = {
-            'card_name': card,
-            'common_archetypes': common_decks,
-            'cards_found_with': closest_cards(card, 8),
-            'total_instances': apps[1]
-        }
-
-        format_json['format_versatile_cards'].append(versatile_card)
+    format_json['format_versatile_cards'].append(versatile_card)
 
 # SORT JSON FROM LARGEST TO SMALLEST
 format_json['archetypes'].sort(key=lambda s: s['metagame_percentage'].strip('%'), reverse=True)
