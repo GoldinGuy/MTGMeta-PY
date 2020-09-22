@@ -1,0 +1,3141 @@
+{
+    "archetypes": [
+        {
+            "archetype_name": "Sultai Adventures",
+            "top_cards": [
+                "Fabled Passage",
+                "Reaper of Night // Harvest Fear",
+                "Edgewall Innkeeper",
+                "Lovestruck Beast // Heart\\'s Desire",
+                "Swamp",
+                "Lucky Clover",
+                "Beanstalk Giant // Fertile Footsteps",
+                "Fae of Wishes // Granted",
+                "Breeding Pool",
+                "Murderous Rider // Swift End",
+                "The Great Henge",
+                "Zagoth Triome",
+                "Foulmire Knight // Profane Insight",
+                "Watery Grave",
+                "Brazen Borrower // Petty Theft",
+                "Overgrown Tomb",
+                "Island",
+                "Forest"
+            ],
+            "metagame_percentage": "8.76%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Zagoth Triome",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Watery Grave",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "The Great Henge",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Swamp",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Reaper of Night // Harvest Fear",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Overgrown Tomb",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Murderous Rider // Swift End",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Lucky Clover",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Lovestruck Beast // Heart's Desire",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Island",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Foulmire Knight // Profane Insight",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Forest",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Fae of Wishes // Granted",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Fabled Passage",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Edgewall Innkeeper",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Breeding Pool",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Brazen Borrower // Petty Theft",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Beanstalk Giant // Fertile Footsteps",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Wilt",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Ugin, the Spirit Dragon",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Shadowspear",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Once and Future",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Negate",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Massacre Wurm",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Extinction Event",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Disdainful Stroke",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Blast Zone",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Agonizing Remorse",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Aether Gust",
+                        "quantity": 1
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Esper Hero",
+            "top_cards": [
+                "Despark",
+                "Tyrant\\'s Scorn",
+                "Swamp",
+                "Ashiok, Nightmare Muse",
+                "Temple of Deceit",
+                "Hallowed Fountain",
+                "Atris, Oracle of Half-Truths",
+                "Thief of Sanity",
+                "Temple of Silence",
+                "Thought Erasure",
+                "Godless Shrine",
+                "Teferi, Time Raveler",
+                "Mortify",
+                "Plains",
+                "Dovin\\'s Veto",
+                "Dream Trawler",
+                "Temple of Enlightenment",
+                "Watery Grave",
+                "Oath of Kaya",
+                "Island",
+                "Hero of Precinct One"
+            ],
+            "metagame_percentage": "7.56%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Watery Grave",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Tyrant's Scorn",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Thought Erasure",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Thief of Sanity",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Temple of Silence",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Temple of Enlightenment",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Temple of Deceit",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Teferi, Time Raveler",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Swamp",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Plains",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Oath of Kaya",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Mortify",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Island",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Hero of Precinct One",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Hallowed Fountain",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Godless Shrine",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Dream Trawler",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Dovin's Veto",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Despark",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Atris, Oracle of Half-Truths",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Ashiok, Nightmare Muse",
+                        "quantity": 2
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Mystical Dispute",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Leyline of the Void",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Kaya's Wrath",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Elspeth Conquers Death",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Duress",
+                        "quantity": 2
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Mono-Red Aggro",
+            "top_cards": [
+                "Castle Embereth",
+                "Robber of the Rich",
+                "Bonecrusher Giant // Stomp",
+                "Mountain",
+                "Shock",
+                "Scorch Spitter",
+                "Rimrock Knight // Boulder Rush",
+                "Torbran, Thane of Red Fell",
+                "Claim the Firstborn",
+                "Embercleave",
+                "Fervent Champion",
+                "Light Up the Stage",
+                "Scorching Dragonfire",
+                "Runaway Steam-Kin",
+                "Anax, Hardened in the Forge"
+            ],
+            "metagame_percentage": "6.16%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Torbran, Thane of Red Fell",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Shock",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Scorching Dragonfire",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Scorch Spitter",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Runaway Steam-Kin",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Robber of the Rich",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Rimrock Knight // Boulder Rush",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Mountain",
+                        "quantity": 18
+                    },
+                    {
+                        "name": "Light Up the Stage",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Fervent Champion",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Embercleave",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Claim the Firstborn",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Castle Embereth",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Bonecrusher Giant // Stomp",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Anax, Hardened in the Forge",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Unchained Berserker",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Tibalt, Rakish Instigator",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Soul-Guide Lantern",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Scorching Dragonfire",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Redcap Melee",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Embereth Shieldbreaker // Battle Display",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Claim the Firstborn",
+                        "quantity": 1
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Simic Ramp",
+            "top_cards": [
+                "Fabled Passage",
+                "Mobilized District",
+                "Nissa, Who Shakes the World",
+                "Questing Beast",
+                "Wolfwillow Haven",
+                "Breeding Pool",
+                "Uro, Titan of Nature\\'s Wrath",
+                "Castle Vantress",
+                "Castle Garenbrig",
+                "Arboreal Grazer",
+                "Cultivate",
+                "Ugin, the Spirit Dragon",
+                "Cavalier of Thorns",
+                "Hydroid Krasis",
+                "Brazen Borrower // Petty Theft",
+                "Island",
+                "Paradise Druid",
+                "Forest"
+            ],
+            "metagame_percentage": "6.08%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Wolfwillow Haven",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Uro, Titan of Nature's Wrath",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Ugin, the Spirit Dragon",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Questing Beast",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Paradise Druid",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Nissa, Who Shakes the World",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Mobilized District",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Island",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Hydroid Krasis",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Forest",
+                        "quantity": 9
+                    },
+                    {
+                        "name": "Fabled Passage",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Cultivate",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Cavalier of Thorns",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Castle Vantress",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Castle Garenbrig",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Breeding Pool",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Brazen Borrower // Petty Theft",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Arboreal Grazer",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Shifting Ceratops",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Mystical Dispute",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Lovestruck Beast // Heart's Desire",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Disdainful Stroke",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Aether Gust",
+                        "quantity": 3
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Jeskai Winota",
+            "top_cards": [
+                "Winota, Joiner of Forces",
+                "Fabled Passage",
+                "Steam Vents",
+                "Sacred Foundry",
+                "Bonecrusher Giant // Stomp",
+                "Hallowed Fountain",
+                "Mountain",
+                "Kenrith, the Returned King",
+                "Haktos the Unscarred",
+                "Plains",
+                "Raugrin Triome",
+                "Embercleave",
+                "Sphinx of Foresight",
+                "Brazen Borrower // Petty Theft",
+                "Raise the Alarm",
+                "Island"
+            ],
+            "metagame_percentage": "4.70%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Winota, Joiner of Forces",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Steam Vents",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Sphinx of Foresight",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Sacred Foundry",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Raugrin Triome",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Raise the Alarm",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Plains",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Mountain",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Kenrith, the Returned King",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Island",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Hallowed Fountain",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Haktos the Unscarred",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Fabled Passage",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Embercleave",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Brazen Borrower // Petty Theft",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Bonecrusher Giant // Stomp",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Redcap Melee",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Mystical Dispute",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Giant Killer // Chop Down",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Embereth Shieldbreaker // Battle Display",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Devout Decree",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Aether Gust",
+                        "quantity": 3
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Untitled",
+            "top_cards": [
+                "Fabled Passage",
+                "Gallia of the Endless Dance",
+                "Growth-Chamber Guardian",
+                "Bonecrusher Giant // Stomp",
+                "Kraul Harpooner",
+                "Mountain",
+                "Pelt Collector",
+                "Nylea, Keen-Eyed",
+                "Klothys, God of Destiny",
+                "Gruul Spellbreaker",
+                "Domri\\'s Ambush",
+                "Sarkhan the Masterless",
+                "Stomping Ground",
+                "Grumgully, the Generous",
+                "Chandra, Fire Artisan",
+                "Gilded Goose",
+                "Embercleave",
+                "Wicked Wolf",
+                "Forest"
+            ],
+            "metagame_percentage": "4.00%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Wicked Wolf",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Stomping Ground",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Sarkhan the Masterless",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Pelt Collector",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Nylea, Keen-Eyed",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Mountain",
+                        "quantity": 7
+                    },
+                    {
+                        "name": "Kraul Harpooner",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Klothys, God of Destiny",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Gruul Spellbreaker",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Grumgully, the Generous",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Growth-Chamber Guardian",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Gilded Goose",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Gallia of the Endless Dance",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Forest",
+                        "quantity": 11
+                    },
+                    {
+                        "name": "Fabled Passage",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Embercleave",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Domri's Ambush",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Chandra, Fire Artisan",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Bonecrusher Giant // Stomp",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Wicked Wolf",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Sorcerous Spyglass",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Shock",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Shifting Ceratops",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Mystic Repeal",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Lava Coil",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Embereth Shieldbreaker // Battle Display",
+                        "quantity": 2
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Bant Adventures",
+            "top_cards": [
+                "Fabled Passage",
+                "Edgewall Innkeeper",
+                "Island",
+                "Nissa, Who Shakes the World",
+                "Questing Beast",
+                "Hallowed Fountain",
+                "Temple Garden",
+                "Breeding Pool",
+                "Temple of Mystery",
+                "Castle Vantress",
+                "Teferi, Time Raveler",
+                "Plains",
+                "Giant Killer // Chop Down",
+                "Castle Ardenvale",
+                "Hydroid Krasis",
+                "Shepherd of the Flock // Usher to Safety",
+                "Brazen Borrower // Petty Theft",
+                "Lovestruck Beast // Heart\\'s Desire",
+                "Paradise Druid",
+                "Forest"
+            ],
+            "metagame_percentage": "3.96%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Temple of Mystery",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Temple Garden",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Teferi, Time Raveler",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Shepherd of the Flock // Usher to Safety",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Questing Beast",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Plains",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Paradise Druid",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Nissa, Who Shakes the World",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Lovestruck Beast // Heart's Desire",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Island",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Hydroid Krasis",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Hallowed Fountain",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Giant Killer // Chop Down",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Forest",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Fabled Passage",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Edgewall Innkeeper",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Castle Vantress",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Castle Ardenvale",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Breeding Pool",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Brazen Borrower // Petty Theft",
+                        "quantity": 3
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "The Great Henge",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Sorcerous Spyglass",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Return to Nature",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Giant Killer // Chop Down",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Dovin's Veto",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Devout Decree",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Aether Gust",
+                        "quantity": 2
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Izzet Flash",
+            "top_cards": [
+                "Temple of Epiphany",
+                "Fabled Passage",
+                "Steam Vents",
+                "Ionize",
+                "Pteramander",
+                "Bonecrusher Giant // Stomp",
+                "Mountain",
+                "Opt",
+                "Spectral Sailor",
+                "Sea-Dasher Octopus",
+                "Blitz of the Thunder-Raptor",
+                "Castle Vantress",
+                "Shark Typhoon",
+                "Brazen Borrower // Petty Theft",
+                "Island"
+            ],
+            "metagame_percentage": "3.74%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Temple of Epiphany",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Steam Vents",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Spectral Sailor",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Shark Typhoon",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Sea-Dasher Octopus",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Pteramander",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Opt",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Mountain",
+                        "quantity": 5
+                    },
+                    {
+                        "name": "Island",
+                        "quantity": 8
+                    },
+                    {
+                        "name": "Ionize",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Fabled Passage",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Castle Vantress",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Brazen Borrower // Petty Theft",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Bonecrusher Giant // Stomp",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Blitz of the Thunder-Raptor",
+                        "quantity": 2
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Soul-Guide Lantern",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Shredded Sails",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Scorching Dragonfire",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Negate",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Flame Sweep",
+                        "quantity": 3
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Rakdos Aristocrats",
+            "top_cards": [
+                "Fabled Passage",
+                "The Akroan War",
+                "Swamp",
+                "Mountain",
+                "Rankle, Master of Pranks",
+                "Witch\\'s Oven",
+                "Gutterbones",
+                "Temple of Malice",
+                "Woe Strider",
+                "Blood Crypt",
+                "Rix Maadi Reveler",
+                "Priest of Forgotten Gods",
+                "Claim the Firstborn",
+                "Cauldron Familiar",
+                "Castle Locthwain",
+                "Mayhem Devil",
+                "Midnight Reaper"
+            ],
+            "metagame_percentage": "3.62%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Woe Strider",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Witch's Oven",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "The Akroan War",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Temple of Malice",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Swamp",
+                        "quantity": 6
+                    },
+                    {
+                        "name": "Rix Maadi Reveler",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Rankle, Master of Pranks",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Priest of Forgotten Gods",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Mountain",
+                        "quantity": 5
+                    },
+                    {
+                        "name": "Midnight Reaper",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Mayhem Devil",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Gutterbones",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Fabled Passage",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Claim the Firstborn",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Cauldron Familiar",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Castle Locthwain",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Blood Crypt",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Tibalt, Rakish Instigator",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "The Akroan War",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Rankle, Master of Pranks",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Noxious Grasp",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Epic Downfall",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Drill Bit",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Blacklance Paragon",
+                        "quantity": 3
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Temur Adventures",
+            "top_cards": [
+                "Temple of Epiphany",
+                "Edgewall Innkeeper",
+                "Steam Vents",
+                "Lovestruck Beast // Heart\\'s Desire",
+                "Escape to the Wilds",
+                "Lucky Clover",
+                "Bonecrusher Giant // Stomp",
+                "Beanstalk Giant // Fertile Footsteps",
+                "Mountain",
+                "Fae of Wishes // Granted",
+                "Breeding Pool",
+                "Adventurous Impulse",
+                "Stomping Ground",
+                "Ketria Triome",
+                "Brazen Borrower // Petty Theft",
+                "Island",
+                "Forest"
+            ],
+            "metagame_percentage": "3.52%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Temple of Epiphany",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Stomping Ground",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Steam Vents",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Mountain",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Lucky Clover",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Lovestruck Beast // Heart's Desire",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Ketria Triome",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Island",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Forest",
+                        "quantity": 7
+                    },
+                    {
+                        "name": "Fae of Wishes // Granted",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Escape to the Wilds",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Edgewall Innkeeper",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Breeding Pool",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Brazen Borrower // Petty Theft",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Bonecrusher Giant // Stomp",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Beanstalk Giant // Fertile Footsteps",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Adventurous Impulse",
+                        "quantity": 2
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Wilt",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Unsummon",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Storm's Wrath",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Shadowspear",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Redcap Melee",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Once and Future",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Negate",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Grafdigger's Cage",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Fling",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Expansion // Explosion",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Escape to the Wilds",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Domri's Ambush",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Disdainful Stroke",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Chandra, Awakened Inferno",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Aether Gust",
+                        "quantity": 1
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "White Weenie",
+            "top_cards": [
+                "Plains",
+                "Giant Killer // Chop Down",
+                "Venerated Loxodon",
+                "Castle Ardenvale",
+                "Elspeth, Sun\\'s Nemesis",
+                "Healer\\'s Hawk",
+                "Law-Rune Enforcer",
+                "Heraldic Banner",
+                "Eidolon of Obstruction",
+                "Faerie Guidemother // Gift of the Fae",
+                "Unbreakable Formation",
+                "Raise the Alarm",
+                "Loyal Pegasus"
+            ],
+            "metagame_percentage": "3.32%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Venerated Loxodon",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Unbreakable Formation",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Raise the Alarm",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Plains",
+                        "quantity": 16
+                    },
+                    {
+                        "name": "Loyal Pegasus",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Law-Rune Enforcer",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Heraldic Banner",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Healer's Hawk",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Giant Killer // Chop Down",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Faerie Guidemother // Gift of the Fae",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Elspeth, Sun's Nemesis",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Eidolon of Obstruction",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Castle Ardenvale",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Hushbringer",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Glass Casket",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Gideon's Sacrifice",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Gideon Blackblade",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Devout Decree",
+                        "quantity": 3
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Rakdos Sacrifice",
+            "top_cards": [
+                "Fabled Passage",
+                "Serrated Scorpion",
+                "Kroxa, Titan of Death\\'s Hunger",
+                "Swamp",
+                "Weaponize the Monsters",
+                "Mountain",
+                "Gutterbones",
+                "Temple of Malice",
+                "Blood Crypt",
+                "Dreadhorde Butcher",
+                "Priest of Forgotten Gods",
+                "Mire Triton",
+                "Fiend Artisan",
+                "Claim the Firstborn",
+                "Call of the Death-Dweller",
+                "Castle Locthwain"
+            ],
+            "metagame_percentage": "2.62%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Weaponize the Monsters",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Temple of Malice",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Swamp",
+                        "quantity": 7
+                    },
+                    {
+                        "name": "Serrated Scorpion",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Priest of Forgotten Gods",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Mountain",
+                        "quantity": 5
+                    },
+                    {
+                        "name": "Mire Triton",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Kroxa, Titan of Death's Hunger",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Gutterbones",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Fiend Artisan",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Fabled Passage",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Dreadhorde Butcher",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Claim the Firstborn",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Castle Locthwain",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Call of the Death-Dweller",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Blood Crypt",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Redcap Melee",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Noxious Grasp",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Lurrus of the Dream-Den",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Heartless Act",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Epic Downfall",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Embereth Shieldbreaker // Battle Display",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Duress",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Dead Weight",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Agonizing Remorse",
+                        "quantity": 1
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Sultai Flash",
+            "top_cards": [
+                "Frilled Mystic",
+                "Tyrant\\'s Scorn",
+                "Woodland Cemetery",
+                "Island",
+                "Forest",
+                "Dire Fleet Poisoner",
+                "Opt",
+                "Negate",
+                "Breeding Pool",
+                "Drowned Catacomb",
+                "Disfigure",
+                "Lookout\\'s Dispersal",
+                "Cast Down",
+                "Brineborn Cutthroat",
+                "Hinterland Harbor",
+                "Nightpack Ambusher",
+                "Spectral Sailor",
+                "Watery Grave",
+                "Overgrown Tomb",
+                "Assassin\\'s Trophy",
+                "Essence Scatter"
+            ],
+            "metagame_percentage": "2.46%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Woodland Cemetery",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Watery Grave",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Tyrant's Scorn",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Spectral Sailor",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Overgrown Tomb",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Opt",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Nightpack Ambusher",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Negate",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Lookout's Dispersal",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Island",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Hinterland Harbor",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Frilled Mystic",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Forest",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Essence Scatter",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Drowned Catacomb",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Disfigure",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Dire Fleet Poisoner",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Cast Down",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Brineborn Cutthroat",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Breeding Pool",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Assassin's Trophy",
+                        "quantity": 2
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Shifting Ceratops",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Noxious Grasp",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Negate",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Disfigure",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Cerulean Drake",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Cast Down",
+                        "quantity": 2
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Mardu Winota",
+            "top_cards": [
+                "Winota, Joiner of Forces",
+                "Fabled Passage",
+                "Swamp",
+                "Sacred Foundry",
+                "Venerated Loxodon",
+                "Mountain",
+                "Tajic, Legion\\'s Edge",
+                "Godless Shrine",
+                "Kitesail Freebooter",
+                "General\\'s Enforcer",
+                "Lazotep Reaver",
+                "Woe Strider",
+                "Plains",
+                "Knight of the Ebon Legion",
+                "Blood Crypt",
+                "Castle Embereth",
+                "General Kudro of Drannith",
+                "Judith, the Scourge Diva",
+                "Castle Locthwain",
+                "Tithe Taker",
+                "Savai Triome",
+                "Raise the Alarm"
+            ],
+            "metagame_percentage": "18.40%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Woe Strider",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Winota, Joiner of Forces",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Venerated Loxodon",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Tithe Taker",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Tajic, Legion's Edge",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Swamp",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Savai Triome",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Sacred Foundry",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Raise the Alarm",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Plains",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Mountain",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Lazotep Reaver",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Knight of the Ebon Legion",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Kitesail Freebooter",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Judith, the Scourge Diva",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Godless Shrine",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "General's Enforcer",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "General Kudro of Drannith",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Fabled Passage",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Castle Locthwain",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Castle Embereth",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Blood Crypt",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Tithe Taker",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "The Elderspell",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Tajic, Legion's Edge",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Noxious Grasp",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Jegantha, the Wellspring",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "General's Enforcer",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Flame Sweep",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Dire Tactics",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Devout Decree",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Agonizing Remorse",
+                        "quantity": 2
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Five-Color Golos",
+            "top_cards": [
+                "None"
+            ],
+            "metagame_percentage": "15.22%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "quantity": 3
+                    },
+                    {
+                        "quantity": 1
+                    },
+                    {
+                        "quantity": 2
+                    },
+                    {
+                        "quantity": 1
+                    },
+                    {
+                        "quantity": 1
+                    },
+                    {
+                        "quantity": 2
+                    },
+                    {
+                        "quantity": 1
+                    },
+                    {
+                        "quantity": 1
+                    },
+                    {
+                        "quantity": 1
+                    },
+                    {
+                        "quantity": 1
+                    },
+                    {
+                        "quantity": 1
+                    },
+                    {
+                        "quantity": 1
+                    },
+                    {
+                        "quantity": 1
+                    },
+                    {
+                        "quantity": 1
+                    },
+                    {
+                        "quantity": 4
+                    },
+                    {
+                        "quantity": 1
+                    },
+                    {
+                        "quantity": 3
+                    },
+                    {
+                        "quantity": 2
+                    },
+                    {
+                        "quantity": 1
+                    },
+                    {
+                        "quantity": 1
+                    },
+                    {
+                        "quantity": 1
+                    },
+                    {
+                        "quantity": 1
+                    },
+                    {
+                        "quantity": 3
+                    },
+                    {
+                        "quantity": 2
+                    },
+                    {
+                        "quantity": 1
+                    },
+                    {
+                        "quantity": 1
+                    },
+                    {
+                        "quantity": 4
+                    },
+                    {
+                        "quantity": 4
+                    },
+                    {
+                        "quantity": 1
+                    },
+                    {
+                        "quantity": 3
+                    },
+                    {
+                        "quantity": 2
+                    },
+                    {
+                        "quantity": 1
+                    },
+                    {
+                        "quantity": 1
+                    },
+                    {
+                        "quantity": 2
+                    },
+                    {
+                        "quantity": 3
+                    }
+                ],
+                "sb": [
+                    {
+                        "quantity": 2
+                    },
+                    {
+                        "quantity": 2
+                    },
+                    {
+                        "quantity": 2
+                    },
+                    {
+                        "quantity": 1
+                    },
+                    {
+                        "quantity": 2
+                    },
+                    {
+                        "quantity": 2
+                    },
+                    {
+                        "quantity": 2
+                    },
+                    {
+                        "quantity": 2
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Dimir Tempo",
+            "top_cards": [
+                "Fabled Passage",
+                "Tyrant\\'s Scorn",
+                "Swamp",
+                "Slitherwisp",
+                "Blacklance Paragon",
+                "Heartless Act",
+                "Temple of Deceit",
+                "Castle Vantress",
+                "Lochmere Serpent",
+                "Brineborn Cutthroat",
+                "Spectral Sailor",
+                "Watery Grave",
+                "Neutralize",
+                "Castle Locthwain",
+                "Omen of the Sea",
+                "Brazen Borrower // Petty Theft",
+                "Mystical Dispute",
+                "Island"
+            ],
+            "metagame_percentage": "1.94%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Watery Grave",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Tyrant's Scorn",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Temple of Deceit",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Swamp",
+                        "quantity": 6
+                    },
+                    {
+                        "name": "Spectral Sailor",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Slitherwisp",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Omen of the Sea",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Neutralize",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Mystical Dispute",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Lochmere Serpent",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Island",
+                        "quantity": 8
+                    },
+                    {
+                        "name": "Heartless Act",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Fabled Passage",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Castle Vantress",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Castle Locthwain",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Brineborn Cutthroat",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Brazen Borrower // Petty Theft",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Blacklance Paragon",
+                        "quantity": 2
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Shadowspear",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Noxious Grasp",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Grafdigger's Cage",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Erebos's Intervention",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Duress",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Disfigure",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Cry of the Carnarium",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Chemister's Insight",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Aether Gust",
+                        "quantity": 1
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Temur Flash",
+            "top_cards": [
+                "Fabled Passage",
+                "Frilled Mystic",
+                "Flame Sweep",
+                "Steam Vents",
+                "Bonecrusher Giant // Stomp",
+                "Nissa, Who Shakes the World",
+                "Mountain",
+                "Essence Scatter",
+                "Breeding Pool",
+                "Temple of Mystery",
+                "Sinister Sabotage",
+                "Shark Typhoon",
+                "Quench",
+                "Aether Gust",
+                "Nightpack Ambusher",
+                "Stomping Ground",
+                "Spectral Sailor",
+                "Ketria Triome",
+                "Brazen Borrower // Petty Theft",
+                "Mystical Dispute",
+                "Island",
+                "Forest"
+            ],
+            "metagame_percentage": "1.74%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Temple of Mystery",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Stomping Ground",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Steam Vents",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Spectral Sailor",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Sinister Sabotage",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Shark Typhoon",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Quench",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Nissa, Who Shakes the World",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Nightpack Ambusher",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Mystical Dispute",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Mountain",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Ketria Triome",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Island",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Frilled Mystic",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Forest",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Flame Sweep",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Fabled Passage",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Essence Scatter",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Breeding Pool",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Brazen Borrower // Petty Theft",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Bonecrusher Giant // Stomp",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Aether Gust",
+                        "quantity": 3
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Uro, Titan of Nature's Wrath",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Scorching Dragonfire",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Redcap Melee",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Negate",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Mystical Dispute",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Hydroid Krasis",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Flame Sweep",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Chandra, Awakened Inferno",
+                        "quantity": 1
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Azorius Birds",
+            "top_cards": [
+                "Plains",
+                "Faerie Miscreant",
+                "Empyrean Eagle",
+                "Hypnotic Sprite // Mesmeric Glare",
+                "Dungeon Geists",
+                "Healer\\'s Hawk",
+                "Spectral Sailor",
+                "Tranquil Cove",
+                "Rally of Wings",
+                "Brazen Borrower // Petty Theft",
+                "Faerie Guidemother // Gift of the Fae",
+                "Island"
+            ],
+            "metagame_percentage": "1.12%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Tranquil Cove",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Spectral Sailor",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Rally of Wings",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Plains",
+                        "quantity": 8
+                    },
+                    {
+                        "name": "Island",
+                        "quantity": 10
+                    },
+                    {
+                        "name": "Hypnotic Sprite // Mesmeric Glare",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Healer's Hawk",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Faerie Miscreant",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Faerie Guidemother // Gift of the Fae",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Empyrean Eagle",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Dungeon Geists",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Brazen Borrower // Petty Theft",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Unbreakable Formation",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Light of Hope",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Elspeth Conquers Death",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Dovin, Grand Arbiter",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Dovin's Veto",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Devout Decree",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Baneslayer Angel",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Aether Gust",
+                        "quantity": 1
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Hardened Scales",
+            "top_cards": [
+                "Winding Constrictor",
+                "Once Upon a Time",
+                "Hardened Scales",
+                "Llanowar Elves",
+                "Blooming Marsh",
+                "Hashep Oasis",
+                "Elvish Mystic",
+                "Walking Ballista",
+                "Vivien, Arkbow Ranger",
+                "Nissa, Voice of Zendikar",
+                "Voracious Hydra",
+                "Llanowar Wastes",
+                "Overgrown Tomb",
+                "Stonecoil Serpent",
+                "Forest"
+            ],
+            "metagame_percentage": "0.84%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Winding Constrictor",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Walking Ballista",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Voracious Hydra",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Vivien, Arkbow Ranger",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Stonecoil Serpent",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Overgrown Tomb",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Once Upon a Time",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Nissa, Voice of Zendikar",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Llanowar Wastes",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Llanowar Elves",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Hashep Oasis",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Hardened Scales",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Forest",
+                        "quantity": 7
+                    },
+                    {
+                        "name": "Elvish Mystic",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Blooming Marsh",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Thoughtseize",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Scavenging Ooze",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Questing Beast",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Noxious Grasp",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Hangarback Walker",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Golgari Charm",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Fatal Push",
+                        "quantity": 3
+                    }
+                ]
+            }
+        },
+        {
+            "archetype_name": "Mono-Green Aggro",
+            "top_cards": [
+                "Yorvo, Lord of Garenbrig",
+                "Questing Beast",
+                "Gemrazer",
+                "Pelt Collector",
+                "Syr Faren, the Hengehammer",
+                "Ram Through",
+                "Castle Garenbrig",
+                "Vivien, Arkbow Ranger",
+                "Voracious Hydra",
+                "Nessian Hornbeetle",
+                "Lovestruck Beast // Heart\\'s Desire",
+                "Forest"
+            ],
+            "metagame_percentage": "0.24%",
+            "best_fit_deck": {
+                "main": [
+                    {
+                        "name": "Yorvo, Lord of Garenbrig",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Voracious Hydra",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Vivien, Arkbow Ranger",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Syr Faren, the Hengehammer",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Ram Through",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Questing Beast",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Pelt Collector",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Nessian Hornbeetle",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Lovestruck Beast // Heart's Desire",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Gemrazer",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Forest",
+                        "quantity": 20
+                    },
+                    {
+                        "name": "Castle Garenbrig",
+                        "quantity": 4
+                    }
+                ],
+                "sb": [
+                    {
+                        "name": "Wildborn Preserver",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Oakhame Adversary",
+                        "quantity": 3
+                    },
+                    {
+                        "name": "Heroic Intervention",
+                        "quantity": 2
+                    },
+                    {
+                        "name": "Arboreal Grazer",
+                        "quantity": 3
+                    }
+                ]
+            }
+        }
+    ],
+    "format_top_cards": [
+        {
+            "card_name": "None",
+            "common_archetypes": [
+                "Five-Color Golos"
+            ],
+            "cards_found_with": [
+                "Karn\\'s Bastion",
+                "Ugin, the Ineffable",
+                "Breeding Pool",
+                "Fabled Passage",
+                "Flood of Tears",
+                "Castle Vantress",
+                "Negate",
+                "Settle the Wreckage"
+            ],
+            "total_instances": 45698,
+            "percentage_of_total_cards": "60.93%"
+        },
+        {
+            "card_name": "Breeding Pool",
+            "common_archetypes": [
+                "Simic Ramp",
+                "Sultai Adventures"
+            ],
+            "cards_found_with": [
+                "Hydroid Krasis",
+                "Nissa, Who Shakes the World",
+                "Temple of Mystery",
+                "Paradise Druid",
+                "Temple Garden",
+                "Flood of Tears",
+                "Cavalier of Thorns",
+                "Risen Reef"
+            ],
+            "total_instances": 5039,
+            "percentage_of_total_cards": "6.72%"
+        },
+        {
+            "card_name": "Hallowed Fountain",
+            "common_archetypes": [
+                "Jeskai Winota",
+                "Esper Hero"
+            ],
+            "cards_found_with": [
+                "Teferi, Time Raveler",
+                "Dovin, Grand Arbiter",
+                "Ixalan\\'s Binding",
+                "Glacial Fortress",
+                "Settle the Wreckage",
+                "Sorcerous Spyglass",
+                "Temple of Enlightenment",
+                "Dovin, Hand of Control"
+            ],
+            "total_instances": 4058,
+            "percentage_of_total_cards": "5.41%"
+        },
+        {
+            "card_name": "Hydroid Krasis",
+            "common_archetypes": [
+                "Simic Ramp",
+                "Sultai Adventures",
+                "Bant Adventures"
+            ],
+            "cards_found_with": [
+                "Breeding Pool",
+                "Nissa, Who Shakes the World",
+                "Cavalier of Thorns",
+                "Paradise Druid",
+                "Leafkin Druid",
+                "Risen Reef",
+                "Voracious Hydra",
+                "Temple of Mystery"
+            ],
+            "total_instances": 3660,
+            "percentage_of_total_cards": "4.88%"
+        },
+        {
+            "card_name": "Teferi, Time Raveler",
+            "common_archetypes": [
+                "Jeskai Winota",
+                "Esper Hero"
+            ],
+            "cards_found_with": [
+                "Hallowed Fountain",
+                "Dovin, Grand Arbiter",
+                "Ixalan\\'s Binding",
+                "Settle the Wreckage",
+                "Glacial Fortress",
+                "Temple of Enlightenment",
+                "Sorcerous Spyglass",
+                "Dovin, Hand of Control"
+            ],
+            "total_instances": 3400,
+            "percentage_of_total_cards": "4.53%"
+        },
+        {
+            "card_name": "Paradise Druid",
+            "common_archetypes": [
+                "Simic Ramp",
+                "Sultai Adventures"
+            ],
+            "cards_found_with": [
+                "Nissa, Who Shakes the World",
+                "Hydroid Krasis",
+                "Once Upon a Time",
+                "Questing Beast",
+                "Gilded Goose",
+                "Breeding Pool",
+                "Voracious Hydra",
+                "Vivien, Arkbow Ranger"
+            ],
+            "total_instances": 3337,
+            "percentage_of_total_cards": "4.45%"
+        },
+        {
+            "card_name": "Watery Grave",
+            "common_archetypes": [
+                "Esper Hero",
+                "Sultai Adventures"
+            ],
+            "cards_found_with": [
+                "Liliana, Dreadhorde General",
+                "Disfigure",
+                "Ugin, the Ineffable",
+                "Vraska\\'s Contempt",
+                "Cast Down",
+                "Drowned Catacomb",
+                "Legion\\'s End",
+                "Bolas\\'s Citadel"
+            ],
+            "total_instances": 3297,
+            "percentage_of_total_cards": "4.40%"
+        },
+        {
+            "card_name": "Fabled Passage",
+            "common_archetypes": [
+                "Sultai Adventures",
+                "Rakdos Aristocrats"
+            ],
+            "cards_found_with": [
+                "Epic Downfall",
+                "Paradise Druid",
+                "Overgrown Tomb",
+                "Murderous Rider // Swift End",
+                "Legion\\'s End",
+                "Castle Locthwain",
+                "Casualties of War",
+                "Massacre Girl"
+            ],
+            "total_instances": 3262,
+            "percentage_of_total_cards": "4.35%"
+        },
+        {
+            "card_name": "Nissa, Who Shakes the World",
+            "common_archetypes": [
+                "Simic Ramp",
+                "Sultai Adventures",
+                "Bant Adventures"
+            ],
+            "cards_found_with": [
+                "Paradise Druid",
+                "Hydroid Krasis",
+                "Voracious Hydra",
+                "Breeding Pool",
+                "Once Upon a Time",
+                "Leafkin Druid",
+                "Cavalier of Thorns",
+                "Gilded Goose"
+            ],
+            "total_instances": 3202,
+            "percentage_of_total_cards": "4.27%"
+        },
+        {
+            "card_name": "Overgrown Tomb",
+            "common_archetypes": [
+                "Sultai Adventures",
+                "Sultai Flash"
+            ],
+            "cards_found_with": [
+                "Vraska, Golgari Queen",
+                "Massacre Girl",
+                "Find // Finality",
+                "Casualties of War",
+                "Temple of Malady",
+                "Murderous Rider // Swift End",
+                "Noxious Grasp",
+                "Rankle, Master of Pranks"
+            ],
+            "total_instances": 2911,
+            "percentage_of_total_cards": "3.88%"
+        },
+        {
+            "card_name": "Gilded Goose",
+            "common_archetypes": [
+                "Simic Ramp",
+                "Sultai Adventures",
+                "Rakdos Aristocrats"
+            ],
+            "cards_found_with": [
+                "Wicked Wolf",
+                "Oko, Thief of Crowns",
+                "Once Upon a Time",
+                "Paradise Druid",
+                "Vivien, Arkbow Ranger",
+                "Nissa, Who Shakes the World",
+                "Questing Beast",
+                "Voracious Hydra"
+            ],
+            "total_instances": 2517,
+            "percentage_of_total_cards": "3.36%"
+        },
+        {
+            "card_name": "Once Upon a Time",
+            "common_archetypes": [
+                "Simic Ramp",
+                "Sultai Adventures"
+            ],
+            "cards_found_with": [
+                "Wicked Wolf",
+                "Oko, Thief of Crowns",
+                "Vivien, Arkbow Ranger",
+                "Questing Beast",
+                "Ugin, the Spirit Dragon",
+                "Gilded Goose",
+                "Paradise Druid",
+                "Nissa, Who Shakes the World"
+            ],
+            "total_instances": 2466,
+            "percentage_of_total_cards": "3.29%"
+        },
+        {
+            "card_name": "Shock",
+            "common_archetypes": [
+                "Mono-Red Aggro",
+                "Untitled",
+                "Izzet Flash"
+            ],
+            "cards_found_with": [
+                "Lightning Strike",
+                "Castle Embereth",
+                "Rimrock Knight // Boulder Rush",
+                "Rampaging Ferocidon",
+                "Robber of the Rich",
+                "Tibalt, Rakish Instigator",
+                "Electrostatic Field",
+                "Grim Initiate"
+            ],
+            "total_instances": 2362,
+            "percentage_of_total_cards": "3.15%"
+        },
+        {
+            "card_name": "Glacial Fortress",
+            "common_archetypes": [
+                "Esper Hero",
+                "Bant Adventures"
+            ],
+            "cards_found_with": [
+                "Ixalan\\'s Binding",
+                "Fblthp, the Lost",
+                "Dovin, Grand Arbiter",
+                "Hallowed Fountain",
+                "Jace, Wielder of Mysteries",
+                "Teferi, Time Raveler",
+                "Narset, Parter of Veils",
+                "Chamber Sentry"
+            ],
+            "total_instances": 2240,
+            "percentage_of_total_cards": "2.99%"
+        },
+        {
+            "card_name": "Steam Vents",
+            "common_archetypes": [
+                "Temur Adventures",
+                "Jeskai Winota",
+                "Izzet Flash"
+            ],
+            "cards_found_with": [
+                "Temple of Epiphany",
+                "Sulfur Falls",
+                "Commence the Endgame",
+                "Fae of Wishes // Granted",
+                "Bonecrusher Giant // Stomp",
+                "Anticipate",
+                "Chandra, Awakened Inferno",
+                "Cleansing Nova"
+            ],
+            "total_instances": 2212,
+            "percentage_of_total_cards": "2.95%"
+        }
+    ],
+    "format_versatile_cards": [
+        {
+            "card_name": "Breeding Pool",
+            "common_archetypes": [
+                "Simic Ramp",
+                "Sultai Adventures"
+            ],
+            "cards_found_with": [
+                "Hydroid Krasis",
+                "Nissa, Who Shakes the World",
+                "Temple of Mystery",
+                "Paradise Druid",
+                "Temple Garden",
+                "Flood of Tears",
+                "Cavalier of Thorns",
+                "Risen Reef"
+            ],
+            "total_instances": 1356
+        },
+        {
+            "card_name": "Fabled Passage",
+            "common_archetypes": [
+                "Sultai Adventures",
+                "Rakdos Aristocrats"
+            ],
+            "cards_found_with": [
+                "Epic Downfall",
+                "Paradise Druid",
+                "Overgrown Tomb",
+                "Murderous Rider // Swift End",
+                "Legion\\'s End",
+                "Castle Locthwain",
+                "Casualties of War",
+                "Massacre Girl"
+            ],
+            "total_instances": 1169
+        },
+        {
+            "card_name": "Hallowed Fountain",
+            "common_archetypes": [
+                "Jeskai Winota",
+                "Esper Hero"
+            ],
+            "cards_found_with": [
+                "Teferi, Time Raveler",
+                "Dovin, Grand Arbiter",
+                "Ixalan\\'s Binding",
+                "Glacial Fortress",
+                "Settle the Wreckage",
+                "Sorcerous Spyglass",
+                "Temple of Enlightenment",
+                "Dovin, Hand of Control"
+            ],
+            "total_instances": 1110
+        },
+        {
+            "card_name": "Hydroid Krasis",
+            "common_archetypes": [
+                "Simic Ramp",
+                "Sultai Adventures",
+                "Bant Adventures"
+            ],
+            "cards_found_with": [
+                "Breeding Pool",
+                "Nissa, Who Shakes the World",
+                "Cavalier of Thorns",
+                "Paradise Druid",
+                "Leafkin Druid",
+                "Risen Reef",
+                "Voracious Hydra",
+                "Temple of Mystery"
+            ],
+            "total_instances": 1000
+        },
+        {
+            "card_name": "Teferi, Time Raveler",
+            "common_archetypes": [
+                "Jeskai Winota",
+                "Esper Hero"
+            ],
+            "cards_found_with": [
+                "Hallowed Fountain",
+                "Dovin, Grand Arbiter",
+                "Ixalan\\'s Binding",
+                "Settle the Wreckage",
+                "Glacial Fortress",
+                "Temple of Enlightenment",
+                "Sorcerous Spyglass",
+                "Dovin, Hand of Control"
+            ],
+            "total_instances": 984
+        },
+        {
+            "card_name": "Watery Grave",
+            "common_archetypes": [
+                "Esper Hero",
+                "Sultai Adventures"
+            ],
+            "cards_found_with": [
+                "Liliana, Dreadhorde General",
+                "Disfigure",
+                "Ugin, the Ineffable",
+                "Vraska\\'s Contempt",
+                "Cast Down",
+                "Drowned Catacomb",
+                "Legion\\'s End",
+                "Bolas\\'s Citadel"
+            ],
+            "total_instances": 876
+        },
+        {
+            "card_name": "Overgrown Tomb",
+            "common_archetypes": [
+                "Sultai Adventures",
+                "Sultai Flash"
+            ],
+            "cards_found_with": [
+                "Vraska, Golgari Queen",
+                "Massacre Girl",
+                "Find // Finality",
+                "Casualties of War",
+                "Temple of Malady",
+                "Murderous Rider // Swift End",
+                "Noxious Grasp",
+                "Rankle, Master of Pranks"
+            ],
+            "total_instances": 762
+        },
+        {
+            "card_name": "Temple of Mystery",
+            "common_archetypes": [
+                "Simic Ramp",
+                "Mardu Winota"
+            ],
+            "cards_found_with": [
+                "Breeding Pool",
+                "Hydroid Krasis",
+                "Risen Reef",
+                "Growth Spiral",
+                "Brazen Borrower // Petty Theft",
+                "Cavalier of Thorns",
+                "Leafkin Druid",
+                "Agent of Treachery"
+            ],
+            "total_instances": 682
+        },
+        {
+            "card_name": "Castle Vantress",
+            "common_archetypes": [
+                "Simic Ramp",
+                "Jeskai Winota"
+            ],
+            "cards_found_with": [
+                "Aether Gust",
+                "Brazen Borrower // Petty Theft",
+                "Shark Typhoon",
+                "Temple of Mystery",
+                "Spark Double",
+                "Mobilized District",
+                "Anticipate",
+                "Steam Vents"
+            ],
+            "total_instances": 630
+        },
+        {
+            "card_name": "Steam Vents",
+            "common_archetypes": [
+                "Temur Adventures",
+                "Jeskai Winota",
+                "Izzet Flash"
+            ],
+            "cards_found_with": [
+                "Temple of Epiphany",
+                "Sulfur Falls",
+                "Commence the Endgame",
+                "Fae of Wishes // Granted",
+                "Bonecrusher Giant // Stomp",
+                "Anticipate",
+                "Chandra, Awakened Inferno",
+                "Cleansing Nova"
+            ],
+            "total_instances": 587
+        },
+        {
+            "card_name": "Bonecrusher Giant // Stomp",
+            "common_archetypes": [
+                "Jeskai Winota",
+                "Untitled"
+            ],
+            "cards_found_with": [
+                "Treasure Map // Treasure Cove",
+                "Steam Vents",
+                "Temple of Epiphany",
+                "Anticipate",
+                "Fae of Wishes // Granted",
+                "Commence the Endgame",
+                "Karn, Scion of Urza",
+                "Sarkhan the Masterless"
+            ],
+            "total_instances": 378
+        },
+        {
+            "card_name": "Negate",
+            "common_archetypes": [
+                "Esper Hero",
+                "Temur Flash",
+                "Izzet Flash"
+            ],
+            "cards_found_with": [
+                "Mystical Dispute",
+                "Opt",
+                "Anticipate",
+                "Discovery // Dispersal",
+                "Quench",
+                "Mu Yanling, Sky Dancer",
+                "Sulfur Falls",
+                "Ugin, the Ineffable"
+            ],
+            "total_instances": 235
+        },
+        {
+            "card_name": "Ugin, the Ineffable",
+            "common_archetypes": [
+                "Esper Hero",
+                "Dimir Tempo"
+            ],
+            "cards_found_with": [
+                "Teferi, Time Raveler",
+                "Watery Grave",
+                "Liliana, Dreadhorde General",
+                "Hallowed Fountain",
+                "Narset, Parter of Veils",
+                "Duress",
+                "Disfigure",
+                "Ixalan\\'s Binding"
+            ],
+            "total_instances": 231
+        },
+        {
+            "card_name": "Blast Zone",
+            "common_archetypes": [
+                "Temur Adventures",
+                "Mardu Winota"
+            ],
+            "cards_found_with": [
+                "Growth Spiral",
+                "Memorial to Genius",
+                "Ketria Triome",
+                "Arch of Orazca",
+                "Biogenic Ooze",
+                "Omniscience",
+                "Flood of Tears",
+                "Urban Utopia"
+            ],
+            "total_instances": 222
+        },
+        {
+            "card_name": "Mobilized District",
+            "common_archetypes": [
+                "Simic Ramp",
+                "Jeskai Winota"
+            ],
+            "cards_found_with": [
+                "Aether Gust",
+                "Disdainful Stroke",
+                "Castle Garenbrig",
+                "Veil of Summer",
+                "Finale of Devastation",
+                "Castle Vantress",
+                "Brazen Borrower // Petty Theft",
+                "Voracious Hydra"
+            ],
+            "total_instances": 140
+        }
+    ],
+    "total_cards_parsed": 82303,
+    "unique_cards_parsed": 1088
+}

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MtGRecommender-master.iml" filepath="$PROJECT_DIR$/.idea/MtGRecommender-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mtgmeta-py.iml" filepath="$PROJECT_DIR$/.idea/mtgmeta-py.iml" />
     </modules>
   </component>
 </project>

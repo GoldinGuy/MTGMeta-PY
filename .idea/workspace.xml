@@ -1,93 +1,817 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35ee089c-7787-4706-b16e-3f7ed5ad6f52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/brawl.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs/standard # Decks by Cluster.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legacy.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pauper.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/standard.json" afterDir="false" />
+    <list default="true" id="5b071986-abbe-4317-af22-5a22251be5f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/mtgmeta-py.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MtGRecommender-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/# Decks by Cluster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legacy.json" beforeDir="false" afterPath="$PROJECT_DIR$/legacy.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/metagame.py" beforeDir="false" afterPath="$PROJECT_DIR$/metagame.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modern.json" beforeDir="false" afterPath="$PROJECT_DIR$/modern.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pauper.json" beforeDir="false" afterPath="$PROJECT_DIR$/pauper.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_100" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_101" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_102" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_103" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_105" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_106" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_107" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_108" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_109" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_110" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_111" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_112" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_113" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_114" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_115" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_116" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_117" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_118" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_119" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_120" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_121" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_122" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_123" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_124" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_125" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_126" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_127" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_128" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_129" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_130" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_131" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_132" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_133" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_134" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_135" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_136" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_137" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_138" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_139" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_140" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_141" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_142" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_143" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_144" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_145" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_146" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_147" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_148" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_149" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_150" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_151" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_152" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_153" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_154" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_155" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_156" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_157" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_158" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_159" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_160" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_161" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_162" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_163" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_164" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_165" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_166" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_167" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_168" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_169" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_170" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_171" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_172" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_173" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_174" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_175" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_176" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_177" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_178" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_179" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_180" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_181" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_182" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_183" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_184" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_185" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_186" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_187" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_188" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_189" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_190" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_191" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_192" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_193" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_194" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_195" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_196" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_197" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_198" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_200" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_201" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_202" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_203" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_204" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_205" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_206" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_207" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_208" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_209" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_210" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_211" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_212" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_213" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_214" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_215" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_216" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_217" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_218" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_219" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_220" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_221" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_222" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_223" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_224" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_225" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_226" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_227" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_228" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_229" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_230" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_231" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_232" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_233" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_234" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_235" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_236" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_237" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_238" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_239" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_240" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_241" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_242" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_243" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_244" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_245" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_246" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_247" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_248" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_249" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_250" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_251" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_252" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_253" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_254" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_255" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_256" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_257" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_258" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_259" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_260" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_261" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_262" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_263" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_264" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_265" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_266" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_267" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_268" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_269" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_270" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_271" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_272" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_273" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_274" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_275" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_276" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_277" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_278" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_279" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_280" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_281" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_282" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_283" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_284" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_285" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_286" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_287" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_288" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_289" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_290" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_291" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_292" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_293" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_294" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_295" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_296" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_297" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_298" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_299" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_300" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_301" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_302" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_303" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_304" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_305" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_306" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_307" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_308" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_309" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_310" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_311" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_312" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_313" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_314" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_315" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_316" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_317" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_318" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_319" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_320" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_321" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_322" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_323" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_324" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_325" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_326" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_327" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_328" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_329" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_330" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_331" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_332" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_333" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_334" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_335" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_336" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_337" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_338" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_339" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_340" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_341" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_342" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_343" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_344" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_345" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_346" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_347" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_348" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_349" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_350" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_351" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_352" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_353" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_354" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_355" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_356" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_357" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_358" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_359" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_360" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_361" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_362" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_363" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_364" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_365" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_366" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_367" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_368" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_369" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_370" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_371" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_372" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_373" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_374" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_375" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_376" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_377" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_378" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_379" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_380" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_381" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_382" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_383" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_384" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_385" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_386" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_387" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_388" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_389" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_390" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_391" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_392" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_393" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_394" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_395" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_396" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_397" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_398" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_399" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_400" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_401" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_402" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_403" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_404" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_405" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_406" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_407" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_408" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_409" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_41" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_410" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_411" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_412" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_413" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_414" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_415" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_416" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_417" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_418" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_419" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_42" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_420" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_421" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_422" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_423" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_424" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_425" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_426" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_427" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_428" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_429" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_430" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_431" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_432" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_433" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_434" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_435" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_436" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_437" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_438" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_439" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_440" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_441" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_442" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_443" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_444" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_445" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_446" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_447" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_448" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_449" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_450" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_451" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_452" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_453" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_454" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_455" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_456" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_457" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_458" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_459" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_460" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_461" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_462" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_463" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_464" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_465" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_466" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_467" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_468" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_469" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_47" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_470" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_471" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_472" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_473" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_474" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_475" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_476" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_478" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_479" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_48" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_480" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_481" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_482" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_483" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_484" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_485" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_486" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_487" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_488" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_489" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_490" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_491" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_492" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_493" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_494" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_495" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_496" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_497" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_498" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_499" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_50" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_500" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_501" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_502" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_503" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_504" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_505" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_506" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_507" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_508" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_509" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_510" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_511" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_512" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_513" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_514" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_515" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_516" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_517" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_518" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_519" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_52" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_520" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_521" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_522" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_523" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_524" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_525" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_526" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_527" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_528" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_529" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_530" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_531" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_532" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_533" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_534" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_535" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_536" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_537" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_538" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_539" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_540" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_541" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_542" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_543" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_544" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_545" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_546" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_547" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_548" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_549" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_55" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_550" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_551" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_552" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_553" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_554" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_555" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_556" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_557" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_558" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_559" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_56" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_560" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_561" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_562" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_563" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_564" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_565" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_566" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_567" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_568" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_569" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_57" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_570" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_571" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_572" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_573" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_574" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_575" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_576" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_577" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_578" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_579" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_58" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_580" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_581" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_582" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_583" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_584" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_585" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_586" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_587" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_588" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_589" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_590" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_591" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_592" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_593" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_594" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_595" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_596" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_597" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_598" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_599" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_60" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_600" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_601" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_602" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_603" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_604" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_605" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_606" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_607" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_608" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_609" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_61" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_610" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_611" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_612" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_613" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_614" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_615" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_616" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_617" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_618" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_619" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_62" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_620" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_621" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_622" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_623" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_624" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_625" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_626" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_627" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_628" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_629" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_63" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_630" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_631" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_632" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_633" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_634" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_635" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_636" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_637" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_638" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_639" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_640" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_641" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_642" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_643" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_644" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_645" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_646" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_647" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_648" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_649" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_65" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_650" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_651" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_652" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_653" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_654" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_655" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_656" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_657" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_658" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_659" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_66" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_660" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_661" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_662" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_663" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_664" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_665" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_666" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_667" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_668" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_669" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_67" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_670" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_671" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_672" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_673" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_674" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_675" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_676" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_677" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_678" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_68" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_680" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_681" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_683" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_684" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_685" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_687" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_688" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_689" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_69" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_690" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_691" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_692" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_693" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_694" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_695" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_696" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_697" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_698" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_699" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_700" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_701" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_702" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_703" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_704" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_705" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_706" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_707" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_708" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_709" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_71" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_710" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_711" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_712" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_713" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_714" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_715" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_716" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_717" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_718" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_719" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_72" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_720" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_721" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_722" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_723" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_724" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_725" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_726" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_727" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_728" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_729" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_73" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_730" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_731" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_732" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_733" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_734" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_735" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_736" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_737" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_738" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_739" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_74" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_740" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_741" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_742" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_743" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_744" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_745" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_746" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_747" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_748" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_749" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_75" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_750" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_751" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_752" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_753" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_754" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_755" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_756" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_757" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_758" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_759" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_76" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_760" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_761" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_762" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_763" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_764" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_765" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_766" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_767" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_768" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_769" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_77" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_770" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_771" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_772" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_773" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_774" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_775" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_776" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_777" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_78" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_79" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_80" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_81" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_82" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_83" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_84" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_85" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_87" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_88" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_89" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_90" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_91" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_92" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_93" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_94" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_95" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_96" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_97" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_98" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_decks/processed_deck_99" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/standard.json" beforeDir="false" afterPath="$PROJECT_DIR$/standard.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="b7f486ee-d93f-4127-a8f2-7b2b08a35525" />
-  <component name="ProjectId" id="1hEbInGCmIWOoZGiiiy0ViSVhcS" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1hpK6sbIGIgoZY7BUzPHrts1VQt" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\sethg\Documents\GitHub\MtGRecommender-master" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.metagame">
-    <configuration name="format_decks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MtGRecommender-master" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\sethg\Documents\GitHub\MtGRecommender-master\format_decks.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="metagame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MtGRecommender-master" />
+      <module name="mtgmeta-py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -111,7 +835,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.metagame" />
-        <item itemvalue="Python.format_decks" />
       </list>
     </recent_temporary>
   </component>
@@ -120,84 +843,53 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="35ee089c-7787-4706-b16e-3f7ed5ad6f52" name="Default Changelist" comment="" />
-      <created>1599579120608</created>
+      <changelist id="5b071986-abbe-4317-af22-5a22251be5f8" name="Default Changelist" comment="" />
+      <created>1600702421537</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1599579120608</updated>
-      <workItem from="1599579122307" duration="1650000" />
-      <workItem from="1599582997726" duration="1577000" />
-      <workItem from="1599617923296" duration="2232000" />
-      <workItem from="1599690036224" duration="9805000" />
-      <workItem from="1599708982093" duration="5444000" />
-      <workItem from="1599741321038" duration="1447000" />
-      <workItem from="1599742790268" duration="109000" />
-      <workItem from="1599753816904" duration="11638000" />
-      <workItem from="1599848121985" duration="1319000" />
-      <workItem from="1600291206886" duration="1000" />
-      <workItem from="1600568528326" duration="23037000" />
+      <updated>1600702421537</updated>
+      <workItem from="1600702425012" duration="18640000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="134" y="0" width="1089" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599580902237">
-      <screen x="76" y="0" width="1204" height="720" />
-    </state>
-    <state x="134" y="0" width="1089" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog/76.0.1204.720@76.0.1204.720" timestamp="1599580902237" />
-    <state x="552" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599712554383">
+    <state width="1416" height="75" key="GridCell.Tab.0.bottom" timestamp="1600746745358">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
-    <state x="552" y="222" key="#com.intellij.fileTypes.FileTypeChooser/76.0.1460.864@76.0.1460.864" timestamp="1599712554383" />
-    <state width="1417" height="45" key="GridCell.Tab.0.bottom" timestamp="1600640288773">
+    <state width="1416" height="75" key="GridCell.Tab.0.bottom/76.0.1460.864@76.0.1460.864" timestamp="1600746745358" />
+    <state width="1416" height="75" key="GridCell.Tab.0.center" timestamp="1600746745357">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
-    <state width="1161" height="38" key="GridCell.Tab.0.bottom/76.0.1204.720@76.0.1204.720" timestamp="1599765579753" />
-    <state width="1417" height="45" key="GridCell.Tab.0.bottom/76.0.1460.864@76.0.1460.864" timestamp="1600640288773" />
-    <state width="1417" height="45" key="GridCell.Tab.0.center" timestamp="1600640288772">
+    <state width="1416" height="75" key="GridCell.Tab.0.center/76.0.1460.864@76.0.1460.864" timestamp="1600746745357" />
+    <state width="1416" height="75" key="GridCell.Tab.0.left" timestamp="1600746745357">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
-    <state width="1161" height="38" key="GridCell.Tab.0.center/76.0.1204.720@76.0.1204.720" timestamp="1599765579752" />
-    <state width="1417" height="45" key="GridCell.Tab.0.center/76.0.1460.864@76.0.1460.864" timestamp="1600640288772" />
-    <state width="1417" height="45" key="GridCell.Tab.0.left" timestamp="1600640288772">
+    <state width="1416" height="75" key="GridCell.Tab.0.left/76.0.1460.864@76.0.1460.864" timestamp="1600746745357" />
+    <state width="1416" height="75" key="GridCell.Tab.0.right" timestamp="1600746745357">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
-    <state width="1161" height="38" key="GridCell.Tab.0.left/76.0.1204.720@76.0.1204.720" timestamp="1599765579752" />
-    <state width="1417" height="45" key="GridCell.Tab.0.left/76.0.1460.864@76.0.1460.864" timestamp="1600640288772" />
-    <state width="1417" height="45" key="GridCell.Tab.0.right" timestamp="1600640288773">
+    <state width="1416" height="75" key="GridCell.Tab.0.right/76.0.1460.864@76.0.1460.864" timestamp="1600746745357" />
+    <state width="1416" height="255" key="GridCell.Tab.1.bottom" timestamp="1600712510777">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
-    <state width="1161" height="38" key="GridCell.Tab.0.right/76.0.1204.720@76.0.1204.720" timestamp="1599765579752" />
-    <state width="1417" height="45" key="GridCell.Tab.0.right/76.0.1460.864@76.0.1460.864" timestamp="1600640288773" />
-    <state width="1417" height="417" key="GridCell.Tab.1.bottom" timestamp="1600639772385">
+    <state width="1416" height="255" key="GridCell.Tab.1.bottom/76.0.1460.864@76.0.1460.864" timestamp="1600712510777" />
+    <state width="1416" height="255" key="GridCell.Tab.1.center" timestamp="1600712510777">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
-    <state width="1417" height="417" key="GridCell.Tab.1.bottom/76.0.1460.864@76.0.1460.864" timestamp="1600639772385" />
-    <state width="1417" height="417" key="GridCell.Tab.1.center" timestamp="1600639772385">
+    <state width="1416" height="255" key="GridCell.Tab.1.center/76.0.1460.864@76.0.1460.864" timestamp="1600712510777" />
+    <state width="1416" height="255" key="GridCell.Tab.1.left" timestamp="1600712510776">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
-    <state width="1417" height="417" key="GridCell.Tab.1.center/76.0.1460.864@76.0.1460.864" timestamp="1600639772384" />
-    <state width="1417" height="417" key="GridCell.Tab.1.left" timestamp="1600639772384">
+    <state width="1416" height="255" key="GridCell.Tab.1.left/76.0.1460.864@76.0.1460.864" timestamp="1600712510776" />
+    <state width="1416" height="255" key="GridCell.Tab.1.right" timestamp="1600712510777">
       <screen x="76" y="0" width="1460" height="864" />
     </state>
-    <state width="1417" height="417" key="GridCell.Tab.1.left/76.0.1460.864@76.0.1460.864" timestamp="1600639772384" />
-    <state width="1417" height="417" key="GridCell.Tab.1.right" timestamp="1600639772385">
-      <screen x="76" y="0" width="1460" height="864" />
-    </state>
-    <state width="1417" height="417" key="GridCell.Tab.1.right/76.0.1460.864@76.0.1460.864" timestamp="1600639772385" />
-    <state x="357" y="226" width="759" height="638" key="find.popup" timestamp="1600636342200">
-      <screen x="76" y="0" width="1460" height="864" />
-    </state>
-    <state x="357" y="226" width="759" height="638" key="find.popup/76.0.1460.864@76.0.1460.864" timestamp="1600636342200" />
+    <state width="1416" height="255" key="GridCell.Tab.1.right/76.0.1460.864@76.0.1460.864" timestamp="1600712510777" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/MtGRecommender_master$decks.coverage" NAME="decks Coverage Results" MODIFIED="1599754250851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MtGRecommender_master$metagame.coverage" NAME="metagame Coverage Results" MODIFIED="1600640288762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MtGRecommender_master$format_decks.coverage" NAME="format_decks Coverage Results" MODIFIED="1600618188982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mtgmeta_py$metagame.coverage" NAME="metagame Coverage Results" MODIFIED="1600746745346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
